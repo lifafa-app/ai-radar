@@ -1,0 +1,42 @@
+name: AI Radar
+
+on:
+  schedule:
+    # 23:00 UTC = 04:30 IST. GitHub can start scheduled runs a little late,
+    # so this lands in your inbox around 5 AM.
+    - cron: "0 23 * * *"
+  workflow_dispatch: {}   # "Run workflow" button for manual runs
+
+permissions:
+  contents: write         # lets the job commit the digest and state back to the repo
+
+concurrency:
+  group: ai-radar
+  cancel-in-progress: false
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run radar
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          RADAR_TO: ${{ secrets.RADAR_TO }}
+        run: python radar.py
+
+      - name: Save digest to the repo
+        run: |
+          git config user.name "ai-radar-bot"
+          git config user.email "ai-radar-bot@users.noreply.github.com"
+          git add digests state
+          git diff --cached --quiet || git commit -m "radar: $(TZ=Asia/Kolkata date +%F)"
+          git push
