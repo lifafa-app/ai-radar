@@ -1,0 +1,346 @@
+{
+  "summary": "78 new items collected. Ranked by keywords because Gemini was not available.",
+  "two_reel_day": false,
+  "two_reel_reason": "",
+  "picks": [
+    {
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work."
+      ],
+      "sources": [
+        "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterpris"
+      ],
+      "sources": [
+        "https://www.theverge.com/tech/1002980/google-gemini-4-argon"
+      ],
+      "verify": []
+    },
+    {
+      "title": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "The FTC is formally investigating OpenAI, Anthropic, and other leading AI labs over potential consumer protection violations. The agency plans to force document handovers and executive testimony throu"
+      ],
+      "sources": [
+        "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns/"
+      ],
+      "verify": []
+    }
+  ],
+  "sections": {
+    "Model launches & updates": [
+      {
+        "title": "We’re introducing SynthID Bio, bringing our watermarking technology to synthetic biology.",
+        "one_line": "Google DeepMind introduces SynthID Bio to watermark AI-designed proteins while maintaining biological function. Read the full research report here.",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-bio/",
+        "source": "Google DeepMind",
+        "importance": 5
+      }
+    ],
+    "Apps & tools": [
+      {
+        "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+        "one_line": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+        "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+        "source": "TechCrunch AI",
+        "importance": 5
+      },
+      {
+        "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+        "one_line": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across re",
+        "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+        "source": "The Verge AI",
+        "importance": 5
+      },
+      {
+        "title": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
+        "one_line": "The FTC is formally investigating OpenAI, Anthropic, and other leading AI labs over potential consumer protection violations. The agency plans to force document",
+        "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns/",
+        "source": "The Decoder",
+        "importance": 5
+      },
+      {
+        "title": "China's AI industry closes ranks as Deepseek ships open-source software for Huawei's Ascend chips",
+        "one_line": "Deepseek and Huawei have built open-source programming tools for Huawei's Ascend AI chips. At the center is TileLang, a language designed to offer a simpler pro",
+        "url": "https://the-decoder.com/chinas-ai-industry-closes-ranks-as-deepseek-ships-open-source-software-for-huaweis-ascend-chips/",
+        "source": "The Decoder",
+        "importance": 5
+      },
+      {
+        "title": "Gemini 4 Argon",
+        "one_line": "982 points, 666 comments on Hacker News",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+        "one_line": "125 points, 57 comments on Hacker News",
+        "url": "https://github.com/magnitudedev/magnitude",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
+        "one_line": "82 points, 44 comments on Hacker News",
+        "url": "https://artificialanalysis.ai/models/gemini-4-argon",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence",
+        "one_line": "79 points, 97 comments on Hacker News",
+        "url": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Responsible Release of AI-Generated Mathematics",
+        "one_line": "78 points, 99 comments on Hacker News",
+        "url": "https://agmai.org/general-sep29/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Claude Says",
+        "one_line": "67 points, 30 comments on Hacker News",
+        "url": "https://ohhfishal.net/Posts/claude",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+        "one_line": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+        "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "DoorDash launches an AI agent you can text to order food",
+        "one_line": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+        "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Google Gemini 4 Argon closes the gap with OpenAI and Anthropic but doesn't take a clear lead",
+        "one_line": "Gemini 4 Argon is Google's first frontier model in over seven months. It matches GPT-6 Astra in independent testing but can't keep up with Anthropic's Claude Op",
+        "url": "https://the-decoder.com/google-gemini-4-argon-closes-the-gap-with-openai-and-anthropic-but-doesnt-take-a-clear-lead/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI and Synopsys team up to build an AI model that designs chips like a seasoned engineer",
+        "one_line": "OpenAI and Synopsys are building GPT-Synopsys, a specialized AI model for chip design. It's meant to operate Synopsys' EDA tools like a seasoned engineer and op",
+        "url": "https://the-decoder.com/openai-and-synopsys-team-up-to-build-an-ai-model-that-designs-chips-like-a-seasoned-engineer/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Google drops Gems for Skills, joining OpenAI and Anthropic in the shift to agent-ready prompt formats",
+        "one_line": "Google is replacing Gems with \"Skills\" in Gemini chat. Skills are detailed, reusable prompts that users invoke by typing \"/\" or that Gemini runs automatically. ",
+        "url": "https://the-decoder.com/google-drops-gems-for-skills-joining-openai-and-anthropic-in-the-shift-to-agent-ready-prompt-formats/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic says Zhipu's open-weight GLM-5.3 nearly matches Claude Mythos Preview at building exploits",
+        "one_line": "Zhipu's open-weight model GLM-5.3 writes cyber exploits nearly as well as Claude Mythos Preview, according to Anthropic. Its smaller Flash variant put together ",
+        "url": "https://the-decoder.com/anthropic-says-zhipus-open-weight-glm-5-3-nearly-matches-claude-mythos-preview-at-building-exploits/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Helping small businesses put AI to work",
+        "one_line": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are us",
+        "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+        "source": "OpenAI",
+        "importance": 4
+      },
+      {
+        "title": "add GLM-5.3-Flash (GLM5-Next) support by timkhronos · Pull Request #27773 · ggml-org/llama.cpp",
+        "one_line": "now you can use GLM-5.3-Flash on your home computer submitted by /u/jacek2023 [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu0bdf/add_glm53flash_glm5next_support_by_timkhronos/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "DeepSeek now trained on Ascend 950",
+        "one_line": "26 months ago Liang Wenfeng said: \"Someone must step onto the frontier.\" Now they are training their models on Ascend 950 submitted by /u/WebAssemblyMan [link] ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtz1i3/deepseek_now_trained_on_ascend_950/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "add GLM-5.3-Flash (GLM5-Next) support (#27773) · ggml-org/llama.cpp@649dcb1",
+        "one_line": "Finally! submitted by /u/challis88ocarina [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu3wxu/add_glm53flash_glm5next_support_27773/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "You can now run Qwen 3.8 27B on AMD NPUs via FastFlowLM (at a killer 1 tps decode)",
+        "one_line": "submitted by /u/TuskNaPrezydenta2020 [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wud77g/you_can_now_run_qwen_38_27b_on_amd_npus_via/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "How smart is the IQ3 family of Qwen 3.8 Flash Next for coding tasks?",
+        "one_line": "I've been closely following the rise of the Strata inference engine and as someone with 28GB VRAM and 32GB RAM I'm itching to buy 32GB more RAM just to use Flas",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuark9/how_smart_is_the_iq3_family_of_qwen_38_flash_next/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Two open-weights releases: Victoria (Qwen3.8-Flash-Next with 44% of experts cut, 70% Terminal-Bench 2.1, GGUF included) and Maple (a Canada-first fine-tune)",
+        "one_line": "We had a Dell B300 in the lab for a few weeks and used it to create two fine tunes of Qwen Flash Next. Victoria (coding and agents) Qwen3.8-Flash-Next cut down ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wujph3/two_openweights_releases_victoria_qwen38flashnext/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Update: Strix Halo + R9700 with llama-halo-hybrid - now beats DGX Spark",
+        "one_line": "Hi folks, I've spent the last couple of months experimenting with Strix Halo and previously I released a proof of concept I called llama-halo-hybrid. I've conti",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuet5g/update_strix_halo_r9700_with_llamahalohybrid_now/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Disrupting a coordinated model-distillation campaign",
+        "one_line": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+        "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+        "source": "OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "The AI Race Just Got Awkward",
+        "one_line": "373 points, 410 comments on Hacker News",
+        "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "CS240 AI Cheating Retrospective",
+        "one_line": "93 points, 68 comments on Hacker News",
+        "url": "https://turkeyland.net/thoughts/ai.php",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Oído: speech recognition that beats Whisper-tiny, running on a $5 microcontroller (open source)",
+        "one_line": "I'm part of the Lokutor team that built this. Model: NVIDIA Conformer-CTC Small (13M params, int8). It runs on an ESP32-S3 with 8 MB PSRAM, no GPU or NPU. Libri",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu2jjy/oído_speech_recognition_that_beats_whispertiny/",
+        "source": "r/LocalLLaMA",
+        "importance": 2
+      },
+      {
+        "title": "Another Ling model comes out, same receipt, 2 weeks free to use, then open source. Chinese labs do contribute a lot to open source community",
+        "one_line": "Ling-3.1-flash: ~560B total params, ~25B active/token, up to 1M-token context. Across work, coding & healthcare: 1,673 Elo on GDPVal-AA v2.1, 75.16 on FrontierS",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuboum/another_ling_model_comes_out_same_receipt_2_weeks/",
+        "source": "r/LocalLLaMA",
+        "importance": 2
+      },
+      {
+        "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+        "one_line": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+        "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "The ugly economics of consumer AI",
+        "one_line": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
+        "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+        "one_line": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
+        "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      }
+    ],
+    "Benchmarks & leaderboards": [],
+    "Research worth explaining": [
+      {
+        "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+        "one_line": "",
+        "url": "https://huggingface.co/blog/open-tts-leaderboard",
+        "source": "Hugging Face blog",
+        "importance": 2
+      },
+      {
+        "title": "Trending on Hugging Face: fastino/GLiNER2.5-Decide",
+        "one_line": "261 likes, pipeline: token-classification",
+        "url": "https://huggingface.co/fastino/GLiNER2.5-Decide",
+        "source": "Hugging Face trending",
+        "importance": 2
+      },
+      {
+        "title": "Trending on Hugging Face: orcarouter/OrcaSAQ-2-27B",
+        "one_line": "228 likes, pipeline: text-generation",
+        "url": "https://huggingface.co/orcarouter/OrcaSAQ-2-27B",
+        "source": "Hugging Face trending",
+        "importance": 2
+      },
+      {
+        "title": "Trending on Hugging Face: ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "one_line": "1858 likes, pipeline: image-text-to-text",
+        "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "source": "Hugging Face trending",
+        "importance": 2
+      }
+    ],
+    "Business & industry": [
+      {
+        "title": "Anthropic's IPO Prospectus Is a Fucking Doozy",
+        "one_line": "50 points, 23 comments on Hacker News",
+        "url": "https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+        "one_line": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+        "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+        "one_line": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+        "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      }
+    ]
+  }
+}
