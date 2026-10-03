@@ -1,0 +1,343 @@
+{
+  "summary": "77 new items collected. Ranked by keywords because Gemini was not available.",
+  "two_reel_day": false,
+  "two_reel_reason": "",
+  "picks": [
+    {
+      "title": "A model guide for the GPT-6 family",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production."
+      ],
+      "sources": [
+        "https://openai.com/index/practical-guide-building-gpt-6"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4."
+      ],
+      "sources": [
+        "https://openai.com/index/chatham-financial"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Oct 2, 2026 Announcements Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [],
+      "sources": [
+        "https://www.anthropic.com/news/claude-frontier-academy"
+      ],
+      "verify": []
+    }
+  ],
+  "sections": {
+    "Model launches & updates": [
+      {
+        "title": "The latest AI news we announced in September 2026",
+        "one_line": "Here are Google’s latest AI updates from September 2026",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+        "source": "Google AI",
+        "importance": 5
+      }
+    ],
+    "Apps & tools": [
+      {
+        "title": "A model guide for the GPT-6 family",
+        "one_line": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+        "url": "https://openai.com/index/practical-guide-building-gpt-6",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "Chatham scales its capital markets expertise with OpenAI",
+        "one_line": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+        "url": "https://openai.com/index/chatham-financial",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "Oct 2, 2026 Announcements Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+        "one_line": "",
+        "url": "https://www.anthropic.com/news/claude-frontier-academy",
+        "source": "Anthropic",
+        "importance": 5
+      },
+      {
+        "title": "Does anyone know if any new releases from Mistral are planned?",
+        "one_line": "It’s been a long time since the last models came out. I notice they are selling GLM on the site, and I wonder if they are developing something, given the long s",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvpxg8/does_anyone_know_if_any_new_releases_from_mistral/",
+        "source": "r/LocalLLaMA",
+        "importance": 5
+      },
+      {
+        "title": "DeepSeek Harness Desktop for macOS and Windows",
+        "one_line": "383 points, 207 comments on Hacker News",
+        "url": "https://www.deepseek.com/en/harness/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "GPT-6 Astra plays World of Warcraft for the first time with agent-wow",
+        "one_line": "70 points, 55 comments on Hacker News",
+        "url": "https://agent-wow.sh/gpt-6-astra-plays-world-of-warcraft-for-the-first-time-with-agent-wow/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Show HN: Made an open-source Lego AI generator",
+        "one_line": "68 points, 40 comments on Hacker News",
+        "url": "https://github.com/anteloc/ldraw-nova",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Harvard particle physicist Matthew Schwartz drops 36 papers authored with Claude",
+        "one_line": "47 points, 73 comments on Hacker News",
+        "url": "https://www.reddit.com/r/Physics/comments/1wvin77/harvard_particle_physicist_matthew_schwartz_drops/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Meta open sources code to let you make Muse AI gadgets",
+        "one_line": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like",
+        "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+        "one_line": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachabl",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic co-founder reportedly told religious leaders he fears having created something that \"suffers perpetually\"",
+        "one_line": "Since fall 2025, Anthropic has quietly flown in dozens of religious thinkers to talk about whether Claude might be conscious. Co-founder Christopher Olah descri",
+        "url": "https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Three firings and a fourth departure shake up OpenAI's safety team",
+        "one_line": "OpenAI has parted ways with three researchers who allegedly leaked confidential information to an outside AI safety organization, according to the Wall Street J",
+        "url": "https://the-decoder.com/three-firings-and-a-fourth-departure-shake-up-openais-safety-team/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Microsoft AI releases new transcription and text-to-speech models for voice agents",
+        "one_line": "Microsoft AI has released MAI-Transcribe-2-Streaming, a new model for real-time transcription. The article Microsoft AI releases new transcription and text-to-s",
+        "url": "https://the-decoder.com/microsoft-ai-releases-new-transcription-and-text-to-speech-models-for-voice-agents/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "I made my iPhone a second GPU for my 24 GB MacBook: Qwen 3.8 27B prefills 29–44% faster & my holds part of the CTX window.",
+        "one_line": "**DISCLAIMER** THE PREFILLING TPS SHOWN ON THE PHONE IS COMPUTED ONLY FOR THE LAYERS IT HOLDS. ALREADY FIXING IT TO SHOW END-TO-END PREFILL RATE. NUMBERS BELOW ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvz1ex/i_made_my_iphone_a_second_gpu_for_my_24_gb/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "New in llama.cpp: Decision Models",
+        "one_line": "submitted by /u/paf1138 [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvv6im/new_in_llamacpp_decision_models/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "llama, server: add /v1/systemone API (models: laya, julia-1, lev, openjev, kev) by ngxson · Pull Request #29818 · ggml-org/llama.cpp",
+        "one_line": "article: https://huggingface.co/blog/ggml-org/decision-models-in-llamacpp Now you can jev without jev https://huggingface.co/ggml-org/OpenJev-GGUF https://huggi",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvqbrz/llama_server_add_v1systemone_api_models_laya/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "CUDA: fuse shared experts into MMVQ by am17an · Pull Request #29184 · ggml-org/llama.cpp",
+        "one_line": "MoE speedup, but only for some MoE architectures (like Qwen 35B A3B) submitted by /u/jacek2023 [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ww1sn4/cuda_fuse_shared_experts_into_mmvq_by_am17an_pull/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Black Forest Labs launches Flux 3 Image with multi-step editing that leaves the rest of your picture alone",
+        "one_line": "Black Forest Labs has released Flux 3 Image, the image side of its Flux 3 model family. It supports multi-step edits without changing other parts of the image, ",
+        "url": "https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/",
+        "source": "The Decoder",
+        "importance": 3
+      },
+      {
+        "title": "Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore",
+        "one_line": "Claude Desktop on Amazon Bedrock is limited to the model's knowledge cutoff without web search. In this post, we walk through connecting Claude Desktop to Web S",
+        "url": "https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore/",
+        "source": "AWS Machine Learning",
+        "importance": 3
+      },
+      {
+        "title": "AI Makes Me Sad",
+        "one_line": "180 points, 215 comments on Hacker News",
+        "url": "https://mondobe.com/ai-makes-me-sad",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "With most information hidden, the game Stratego had stumped AI until now",
+        "one_line": "177 points, 85 comments on Hacker News",
+        "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+        "one_line": "177 points, 46 comments on Hacker News",
+        "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "From the creator of Redis; run LLM locally with ds4",
+        "one_line": "150 points, 39 comments on Hacker News",
+        "url": "https://dwarfstar.sh/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "One month coding with GLM 5.3 Flash",
+        "one_line": "109 points, 84 comments on Hacker News",
+        "url": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "The Four Horsemen of Agentic Coding",
+        "one_line": "106 points, 80 comments on Hacker News",
+        "url": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Don't be fooled–LLMs don't reason",
+        "one_line": "65 points, 144 comments on Hacker News",
+        "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Power approval set to delay Oracle's Wisconsin AI datacenter",
+        "one_line": "48 points, 23 comments on Hacker News",
+        "url": "https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "RTX Spark laptops and mini desktops rumored to launch Oct 7th (24GB to 128GB variants possibly)",
+        "one_line": "Basically a DGX Spark minus the ConnectX-7 ports. I’ve seen expected initial pricing from like $1800 to $2900. Not sure what configurations are actually at thos",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvy8v4/rtx_spark_laptops_and_mini_desktops_rumored_to/",
+        "source": "r/LocalLLaMA",
+        "importance": 2
+      },
+      {
+        "title": "Sean Parker is rebuilding Stability AI around music",
+        "one_line": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+        "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+        "one_line": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, m",
+        "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+        "one_line": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety",
+        "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+        "one_line": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety",
+        "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+        "one_line": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+        "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+        "one_line": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has c",
+        "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "Pope Leo XIV is not a fan of AI-generated art",
+        "one_line": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions",
+        "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+        "one_line": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Appl",
+        "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+        "source": "The Verge AI",
+        "importance": 2
+      }
+    ],
+    "Benchmarks & leaderboards": [],
+    "Research worth explaining": [
+      {
+        "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+        "one_line": "",
+        "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+        "source": "Hugging Face blog",
+        "importance": 2
+      },
+      {
+        "title": "Trending on Hugging Face: Cloudflare/clef-flash",
+        "one_line": "264 likes, pipeline: image-text-to-text",
+        "url": "https://huggingface.co/Cloudflare/clef-flash",
+        "source": "Hugging Face trending",
+        "importance": 2
+      },
+      {
+        "title": "Trending on Hugging Face: orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
+        "one_line": "271 likes, pipeline: text-generation",
+        "url": "https://huggingface.co/orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
+        "source": "Hugging Face trending",
+        "importance": 2
+      }
+    ],
+    "Business & industry": []
+  }
+}
