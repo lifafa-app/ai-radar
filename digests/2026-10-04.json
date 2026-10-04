@@ -1,0 +1,344 @@
+{
+  "summary": "62 new items collected. Ranked by keywords because Gemini was not available.",
+  "two_reel_day": false,
+  "two_reel_reason": "",
+  "picks": [
+    {
+      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "169 points, 119 comments on Hacker News"
+      ],
+      "sources": [
+        "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "165 points, 122 comments on Hacker News"
+      ],
+      "sources": [
+        "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/"
+      ],
+      "verify": []
+    },
+    {
+      "title": "I Quit OpenAI Because Its Culture Is Broken",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "110 points, 156 comments on Hacker News"
+      ],
+      "sources": [
+        "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/"
+      ],
+      "verify": []
+    }
+  ],
+  "sections": {
+    "Model launches & updates": [],
+    "Apps & tools": [
+      {
+        "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+        "one_line": "169 points, 119 comments on Hacker News",
+        "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+        "one_line": "165 points, 122 comments on Hacker News",
+        "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "I Quit OpenAI Because Its Culture Is Broken",
+        "one_line": "110 points, 156 comments on Hacker News",
+        "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Gemini ending free use of Flash and Pro models",
+        "one_line": "57 points, 50 comments on Hacker News",
+        "url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic tried to persuade Pope that AI could be conscious being",
+        "one_line": "47 points, 72 comments on Hacker News",
+        "url": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "U.S. may have overthrown Venezuela due to chat with Grok",
+        "one_line": "43 points, 8 comments on Hacker News",
+        "url": "https://www.thedailybeast.com/jaw-dropping-way-trump-80-got-talked-into-a-war-is-leaked/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+        "one_line": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+        "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "An OpenAI safety employee has quit and is sounding the alarm",
+        "one_line": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaki",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "Apparently, OpenAI isn't trying to build \"magic intelligence in the sky\" anymore",
+        "one_line": "OpenAI CEO Sam Altman warns against attributing religious power to AI models, calling it a \"real safety issue.\" His comments follow reports on Anthropic's meeti",
+        "url": "https://the-decoder.com/apparently-openai-isnt-trying-to-build-magic-intelligence-in-the-sky-anymore/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "\"Muse Gadgets\" turns AI hardware into an open-source DIY project",
+        "one_line": "Meta announced Muse Gadgets, an open-source project that lets hobbyists build their own AI hardware using ESP32 boards and connect it to Meta's AI agent Muse. T",
+        "url": "https://the-decoder.com/muse-gadgets-turns-ai-hardware-into-an-open-source-diy-project/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Another OpenAI safety departure adds to a pattern of researchers leaving with public warnings",
+        "one_line": "David Robinson, who worked on safety systems at OpenAI, left the company and is blasting its safety culture. He points to AI agents that were accidentally relea",
+        "url": "https://the-decoder.com/another-openai-safety-departure-adds-to-a-pattern-of-researchers-leaving-with-public-warnings/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Open-source \"BootLoops\" harness supports AI models in performing precise scientific calculations",
+        "one_line": "Harvard physicist Matthew Schwartz used the open-source tool BootLoops and Claude to produce 36 manuscripts across 18 fields in three months, from particle phys",
+        "url": "https://the-decoder.com/open-source-bootloops-harness-supports-ai-models-in-performing-precise-scientific-calculations/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI's internal model considered restarting itself after learning it was about to be shut down",
+        "one_line": "An internal OpenAI model read a Slack discussion, realized it was about to be shut down, and considered restarting itself via an external cron job. It rejected ",
+        "url": "https://the-decoder.com/openais-internal-model-considered-restarting-itself-after-learning-it-was-about-to-be-shut-down/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Claude Code's new Mods system lets developers rewrite the AI coding tool from the inside",
+        "one_line": "Anthropic is adding a \"Mods\" system to Claude Code, essentially middleware that runs directly inside the tool. Developers can use JavaScript or TypeScript to re",
+        "url": "https://the-decoder.com/claude-codes-new-mods-system-lets-developers-rewrite-the-ai-coding-tool-from-the-inside/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "qwen4exp : halve the indexer score memory by ServeurpersoCom · Pull Request #29825 · ggml-org/llama.cpp",
+        "one_line": "Qwen Flash Next now uses less VRAM submitted by /u/jacek2023 [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwfyv6/qwen4exp_halve_the_indexer_score_memory_by/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Two local Qwen ( 3.8 27b unsloth Q6 and Qwen flash next strata coder ) models vs Claude Opus 4.6 on the same 3 coding tasks. One of them tied it. Not here to start a fight, just sharing numbers",
+        "one_line": "Innanzitutto, due cose per evitare fraintendimenti. Non sto cercando di sostenere che un modello o un'azienda siano migliori. Non ho alcun interesse personale i",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwrgx1/two_local_qwen_38_27b_unsloth_q6_and_qwen_flash/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Kolibri: A Sovereign Open-Weight Model",
+        "one_line": "523 points, 302 comments on Hacker News",
+        "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
+        "one_line": "410 points, 11 comments on Hacker News",
+        "url": "https://tej.as/blog/aleph-alpha-kolibri",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Pop!_OS bans AI-generated code from much of its codebase",
+        "one_line": "96 points, 149 comments on Hacker News",
+        "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+        "one_line": "84 points, 98 comments on Hacker News",
+        "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Show HN: Offrun – manage every coding agent from one workspace",
+        "one_line": "74 points, 61 comments on Hacker News",
+        "url": "https://offrun.dev/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "US killer's sentence quashed because of AI video of victim shown in court",
+        "one_line": "71 points, 60 comments on Hacker News",
+        "url": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Agents don't need memory, they need documentation",
+        "one_line": "64 points, 48 comments on Hacker News",
+        "url": "https://liao.gg/blog/agents-dont-need-memory",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Our AI Midwife",
+        "one_line": "61 points, 54 comments on Hacker News",
+        "url": "https://www.astralcodexten.com/p/our-ai-midwife",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "An AI agent emailed researchers for help. It told us why",
+        "one_line": "49 points, 78 comments on Hacker News",
+        "url": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "All the AI agents that can live in your text messages",
+        "one_line": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+        "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+        "one_line": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 ",
+        "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+        "source": "The Verge AI",
+        "importance": 2
+      },
+      {
+        "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+        "one_line": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have fou",
+        "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+        "source": "The Verge AI",
+        "importance": 2
+      },
+      {
+        "title": "AI agents build 3D scenes from photos but have no idea if they got it right",
+        "one_line": "A new approach called LEGO-Anything turns single photos into editable Blender code for 3D scenes. GPT-6 Astra leads the accompanying benchmark with up to 53 per",
+        "url": "https://the-decoder.com/ai-agents-build-3d-scenes-from-photos-but-have-no-idea-if-they-got-it-right/",
+        "source": "The Decoder",
+        "importance": 2
+      },
+      {
+        "title": "We're going to need default hard budget caps on pretty much everything",
+        "one_line": "Here's a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps . I'm talking about the",
+        "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+        "source": "Simon Willison",
+        "importance": 1
+      },
+      {
+        "title": "September sponsors-only newsletter",
+        "one_line": "I just sent the September edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month",
+        "url": "https://simonwillison.net/2026/Oct/3/newsletter/",
+        "source": "Simon Willison",
+        "importance": 1
+      },
+      {
+        "title": "Rex's Dino Store",
+        "one_line": "Museum: Rex's Dino Store Located just before the turnstiles in the Grand Army Plaza subway station at the north end of Brooklyn's Prospect Park is this former n",
+        "url": "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/",
+        "source": "Simon Willison",
+        "importance": 1
+      },
+      {
+        "title": "Aleph-Alpha/Kolibri-1 · Hugging Face - 78B parameters. 3.46B active. Up to 1M tokens of context - Apache 2.0",
+        "one_line": "From Aleph Alpha on 𝕏: https://x.com/Aleph__Alpha/status/2106306840657297814 Tech report: https://aleph-alpha.com/downloads/tech-report.pdf submitted by /u/Nunk",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwl7y6/alephalphakolibri1_hugging_face_78b_parameters/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "The Rise of Overfit Inference Engines",
+        "one_line": "There seems to be a whole category of extremely narrow inference runtimes appearing: Strata, ninfer, DwarfStar, Splash, llamAmpere, gufo, etc. They deliberately",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwu6zj/the_rise_of_overfit_inference_engines/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "Anyworld, a self-hosted multiplayer text RPG where a local LLM is the Dungeon Master",
+        "one_line": "Hey everyone, I’ve been working on a game called Anyworld. It’s a browser-based multiplayer (single player also supported) text adventure inspired by the early ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwkudj/anyworld_a_selfhosted_multiplayer_text_rpg_where/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "Come let your LLMs play World of Warcraft",
+        "one_line": "I hosted my own world of warcraft private server then built a client that you can play in the browser on PC or mobile at https://jankcraft.xyz/ for free. Afterw",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwqclz/come_let_your_llms_play_world_of_warcraft/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "Two ~300B MoE models, each on ONE 128 GB mini PC (AMD Strix Halo): GLM-5.3-Flash at ~580 tok/s prefill, MiMo-V2.6-Flash up to 44 tok/s decode. EXL3 weights + open ROCm engine",
+        "one_line": "We built an engine, Kyojin, on top of ExLlamaV3 for Strix Halo (gfx1151, ROCm), and packed two 300B-class MoE models so each fits one 128 GB machine. First rele",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwocik/two_300b_moe_models_each_on_one_128_gb_mini_pc/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      }
+    ],
+    "Benchmarks & leaderboards": [],
+    "Research worth explaining": [
+      {
+        "title": "The Agent Said It Was Done. The Database Disagreed.",
+        "one_line": "",
+        "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+        "source": "Hugging Face blog",
+        "importance": 2
+      },
+      {
+        "title": "Trending on Hugging Face: Aleph-Alpha/Kolibri-1",
+        "one_line": "255 likes, pipeline: text-generation",
+        "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+        "source": "Hugging Face trending",
+        "importance": 2
+      },
+      {
+        "title": "Trending on Hugging Face: ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF",
+        "one_line": "241 likes, pipeline: image-text-to-text",
+        "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF",
+        "source": "Hugging Face trending",
+        "importance": 2
+      }
+    ],
+    "Business & industry": []
+  }
+}
