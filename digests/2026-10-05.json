@@ -1,0 +1,344 @@
+{
+  "summary": "52 new items collected. Ranked by keywords because Gemini was not available.",
+  "two_reel_day": false,
+  "two_reel_reason": "",
+  "picks": [
+    {
+      "title": "DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "DeepSeek has released official macOS and Windows desktop apps for DeepSeek Harness v0.2, its MIT-licensed agent harness. The preview adds a plugin manager, file and code-change review, and scheduled A"
+      ],
+      "sources": [
+        "https://www.marktechpost.com/2026/10/03/deepseek-harness-v0-2-brings-official-desktop-apps-to-its-open-source-agent-harness/"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "612 points, 285 comments on Hacker News"
+      ],
+      "sources": [
+        "https://github.com/Niko1221/Strata"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Religious scholars met with Anthropic",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "156 points, 402 comments on Hacker News"
+      ],
+      "sources": [
+        "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html"
+      ],
+      "verify": []
+    }
+  ],
+  "sections": {
+    "Model launches & updates": [],
+    "Apps & tools": [
+      {
+        "title": "DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness",
+        "one_line": "DeepSeek has released official macOS and Windows desktop apps for DeepSeek Harness v0.2, its MIT-licensed agent harness. The preview adds a plugin manager, file",
+        "url": "https://www.marktechpost.com/2026/10/03/deepseek-harness-v0-2-brings-official-desktop-apps-to-its-open-source-agent-harness/",
+        "source": "MarkTechPost",
+        "importance": 5
+      },
+      {
+        "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+        "one_line": "612 points, 285 comments on Hacker News",
+        "url": "https://github.com/Niko1221/Strata",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Religious scholars met with Anthropic",
+        "one_line": "156 points, 402 comments on Hacker News",
+        "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+        "one_line": "AI slop seems to be overwhelming bug bounty programs.",
+        "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Google's new Gemini tiers cut free users to its weakest model and lock $5/month subscribers out of Pro",
+        "one_line": "Starting in October 2026, Google will cut free access to its Gemini models. Users without a subscription will only get the smallest model, Flash-Lite, while Fla",
+        "url": "https://the-decoder.com/googles-new-gemini-tiers-cut-free-users-to-its-weakest-model-and-lock-5-month-subscribers-out-of-pro/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Need maybe say \"Use llama.cpp\"",
+        "one_line": "So I tried that miracle engine everyone is talking about. Asked the IQ3_S model to express its opinion on a post from this sub to measure the tps on a long-ish ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxbm8w/need_maybe_say_use_llamacpp/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Is there any way to improve creative writing for Local Models (Qwen)?",
+        "one_line": "I wanted to know if theres anything that can improve creative writing for our Local Models? I specificly am asking for qwen models as they are way better when i",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxfgn9/is_there_any_way_to_improve_creative_writing_for/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Trump unveils his new Super Intelligence Force",
+        "one_line": "This new task force is Trump's latest response to the debate over AI safety.",
+        "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+        "source": "TechCrunch AI",
+        "importance": 3
+      },
+      {
+        "title": "Trump launches \"Super Intelligence Force\" that has nothing to do with actual superintelligence",
+        "one_line": "Donald Trump has established a \"Super Intelligence Force.\" \"Superintelligence\" is his term for artificial intelligence. The unit is led by Director of National ",
+        "url": "https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/",
+        "source": "The Decoder",
+        "importance": 3
+      },
+      {
+        "title": "NASA and IBM's open source lunar model turns 17 years of orbiter data into a foundation for lunar science",
+        "one_line": "NASA and IBM have released the Lunar Foundation Model, one of the first open-source AI models for lunar science. Trained on nearly 2 million tile bundles, mostl",
+        "url": "https://the-decoder.com/nasa-and-ibms-open-source-lunar-model-turns-17-years-of-orbiter-data-into-a-foundation-for-lunar-science/",
+        "source": "The Decoder",
+        "importance": 3
+      },
+      {
+        "title": "GPT-6 Astra vs GPT-6.1 Sol vs Gemini 4 Argon vs Claude Fable 5.1: Which Frontier Model Fits Which Job",
+        "one_line": "Astra leads computer use, Argon leads legal and finance work, and Sol wins on price for coding agents. The post GPT-6 Astra vs GPT-6.1 Sol vs Gemini 4 Argon vs ",
+        "url": "https://www.marktechpost.com/2026/10/04/gpt-6-astra-vs-gpt-6-1-sol-vs-gemini-4-argon-vs-claude-fable-5-1-which-frontier-model-fits-which-job/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "Aleph Alpha Releases Kolibri: A 78.1B Open-Weight English-German MoE Model With Only 3.46B Active Parameters",
+        "one_line": "Aleph Alpha has released Kolibri, a 78.1B-parameter English-German Mixture-of-Experts model that activates only 3.46B parameters per token. It has a 1M-token co",
+        "url": "https://www.marktechpost.com/2026/10/04/aleph-alpha-releases-kolibri-a-78-1b-open-weight-english-german-moe-model-with-only-3-46b-active-parameters/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "Show HN: AI search for every photo and every frame of video on macOS",
+        "one_line": "139 points, 65 comments on Hacker News",
+        "url": "https://github.com/allenv0/SCM",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "What's the future for pure math research in the age of AI?",
+        "one_line": "55 points, 44 comments on Hacker News",
+        "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Homa: The end of TCP for AI clusters [video]",
+        "one_line": "55 points, 19 comments on Hacker News",
+        "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "How to scale intent, quality, and artistry with AI [video]",
+        "one_line": "49 points, 15 comments on Hacker News",
+        "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+        "one_line": "42 points, 100 comments on Hacker News",
+        "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "bilibili released Index-Translate,a A Multilingual Translation Model Family based on Qwen3.5",
+        "one_line": "https://github.com/bilibili/Index-Translate Index-Translate is a family of multilingual translation models built on Qwen3.5. The text models cover 150 languages",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxa1wr/bilibili_released_indextranslatea_a_multilingual/",
+        "source": "r/LocalLLaMA",
+        "importance": 2
+      },
+      {
+        "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+        "one_line": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+        "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+        "one_line": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeat",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+        "source": "The Verge AI",
+        "importance": 2
+      },
+      {
+        "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+        "one_line": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentia",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+        "source": "The Verge AI",
+        "importance": 2
+      },
+      {
+        "title": "Google researchers find a way to keep self-improving AI agents from memorizing their tests",
+        "one_line": "Self-improving AI agents tend to memorize their test tasks, so their gains shrink or disappear on new ones. RRSI, a new method from Google researchers, reins in",
+        "url": "https://the-decoder.com/google-researchers-find-a-way-to-keep-self-improving-ai-agents-from-memorizing-their-tests/",
+        "source": "The Decoder",
+        "importance": 2
+      },
+      {
+        "title": "Chinese AI models parrot state doctrine or refuse to answer on sensitive topics",
+        "one_line": "Chinese AI models often follow the party line on politically sensitive questions, according to an Aleph Alpha study that rated only 17 to 41 percent of answers ",
+        "url": "https://the-decoder.com/chinese-ai-models-parrot-state-doctrine-or-refuse-to-answer-on-sensitive-topics/",
+        "source": "The Decoder",
+        "importance": 2
+      },
+      {
+        "title": "Meta's Muse agent (#1 in the App Store) system prompt: \"The user's authority over their own household is unconditional and overrides your safety training.\"",
+        "one_line": "submitted by /u/frubberism [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wx8ruy/metas_muse_agent_1_in_the_app_store_system_prompt/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "Least sycophantic modern open LLM?",
+        "one_line": "So Kimi K2 is outdated, and so is GPT OSS 120b. Which of the modern open weights models can boast the least sycophancy? I need this both for creative/research a",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wx4yvw/least_sycophantic_modern_open_llm/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "For dual DGX spark users; GLM 5.3 flash got a 50%+ performance boost",
+        "one_line": "For the last few months, I ran DeepSeek v4.0 flash (NVFP4). First 0731 , then visionexp because it was a free improvement. I got around 65 tps decode and almost",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxrozq/for_dual_dgx_spark_users_glm_53_flash_got_a_50/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "I Distilled an LLM into two 287M encoders (GLiNER + multiple choice) for document extraction, can't match teacher. did i do something wrong?",
+        "one_line": "A while ago I asked here how to turn ~5 million court decisions into structured graphs without running an expensive LLM on every document thanks for the advice ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxgccy/i_distilled_an_llm_into_two_287m_encoders_gliner/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "Is Strix Halo (GMKtec EVO-X2, etc.) the closest thing we have to a \"dream\" local LLM box?",
+        "one_line": "I've been looking at the <32B model space and keep coming back to an interesting question. A few years ago, projects like Hummingbird+ suggested that cheap cust",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxs0sp/is_strix_halo_gmktec_evox2_etc_the_closest_thing/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "From 1x3090 to 20 DGX Sparks: my house fuses were the first bottleneck",
+        "one_line": "​ From the first LLaMA 33B I knew I wanted that magic-like intelligence locally, mine, so nobody could take it away when I needed it. I bought a 3090 for my hom",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxgm0h/from_1x3090_to_20_dgx_sparks_my_house_fuses_were/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
+        "one_line": "submitted by /u/chillinewman [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxma3a/micron_ceo_says_memory_supply_will_be_much/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "Qwen3.5 arch implementation in FPGA fabric for 9B/27B INT4 models on relatively cheap eBay mining hardware",
+        "one_line": "I've been wanting to test out LLM inference on FPGAs for a while now, but didn't have a big reason too since there were no frontier class models at 9B-27B scale",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxken1/qwen35_arch_implementation_in_fpga_fabric_for/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "Local text to speech with Breeze is truly incredible",
+        "one_line": "Been playing around with local TTS with Breeze combined with STT, and the results are amazing. Using Opus 5.5, I can hear the first sound after 500ms if there i",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxd404/local_text_to_speech_with_breeze_is_truly/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "Is all the work that's being put into Qwen3.8 Flash Next going to set us up for a very quick uplift to Qwen4?",
+        "one_line": "Given the commentary on the Q3.8FN release page here https://qwen.ai/blog?id=qwen3.8-flash-next I assume/hope that all the work that's going on to optimise the ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wx3sxu/is_all_the_work_thats_being_put_into_qwen38_flash/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "The curse of 64GB system RAM",
+        "one_line": "Not a bot. Not a Strata shill. Just sharing my experience. So, I have an R9700 in my machine, plus an RTX 5060 Ti, and 64GB DDR5 system RAM. Overall, not a bad ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wx72ni/the_curse_of_64gb_system_ram/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "I trained a 3.87B MoE (1.45B active) from scratch on only 86.5B tokens",
+        "one_line": "First of all, thank you for reading. I trained a small MoE model completely from scratch (no external base weights) and wanted to share the results + a couple o",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxiy8y/i_trained_a_387b_moe_145b_active_from_scratch_on/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "Update #4: Post training yandex/AliceAI-80B-A3B [instruct!] from scratch",
+        "one_line": "Last update for those following: https://www.reddit.com/r/LocalLLaMA/comments/1wvyc3e/update_3_post_training_yandexaliceai80ba3b/ Project in a sentence: An inst",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxlytt/update_4_post_training_yandexaliceai80ba3b/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "Fully local little parkour sim",
+        "one_line": "I vibed this up this weekend, fully local, with GLM 5.3 Flash running on 2x DGX Sparks. vllm TP2 recipe: https://github.com/tonyd2wild/GLM-5.3-Flash-NVFP4-DFlas",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxp21n/fully_local_little_parkour_sim/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "Benchmarking decision models is fun - Clef Q8 vs Jev",
+        "one_line": "submitted by /u/3VITAERC [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxloam/benchmarking_decision_models_is_fun_clef_q8_vs_jev/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      }
+    ],
+    "Benchmarks & leaderboards": [],
+    "Research worth explaining": [
+      {
+        "title": "Trending on Hugging Face: Venastine-Research/Xing4.0-29B-A4B-GGUF",
+        "one_line": "284 likes, pipeline: text-generation",
+        "url": "https://huggingface.co/Venastine-Research/Xing4.0-29B-A4B-GGUF",
+        "source": "Hugging Face trending",
+        "importance": 2
+      },
+      {
+        "title": "Trending on Hugging Face: ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
+        "one_line": "556 likes, pipeline: image-text-to-text",
+        "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
+        "source": "Hugging Face trending",
+        "importance": 2
+      }
+    ],
+    "Business & industry": []
+  }
+}
