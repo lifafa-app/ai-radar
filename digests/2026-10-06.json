@@ -1,0 +1,345 @@
+{
+  "summary": "89 new items collected. Ranked by keywords because Gemini was not available.",
+  "two_reel_day": false,
+  "two_reel_reason": "",
+  "picks": [
+    {
+      "title": "OpenAI launches visual ads that appear alongside image generation results",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers."
+      ],
+      "sources": [
+        "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Reflection AI Is About to Release a US Open-Weight Model to Take On DeepSeek and Qwen",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "Looks like new open model coming soon and will be \"strong\" hopefully something under 200b for us memory poor. Also seeing statements about more western open models coming. Hope we get some good compet"
+      ],
+      "sources": [
+        "https://www.reddit.com/r/LocalLLaMA/comments/1wy0jrc/reflection_ai_is_about_to_release_a_us_openweight/"
+      ],
+      "verify": []
+    },
+    {
+      "title": "llama.cpp v0.6.0 released with MTP speculative decoding for Qwen4Exp and lots more",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "submitted by /u/vexatious-big [link] [comments]"
+      ],
+      "sources": [
+        "https://www.reddit.com/r/LocalLLaMA/comments/1wyh03u/llamacpp_v060_released_with_mtp_speculative/"
+      ],
+      "verify": []
+    }
+  ],
+  "sections": {
+    "Model launches & updates": [],
+    "Apps & tools": [
+      {
+        "title": "OpenAI launches visual ads that appear alongside image generation results",
+        "one_line": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
+        "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+        "source": "TechCrunch AI",
+        "importance": 5
+      },
+      {
+        "title": "Reflection AI Is About to Release a US Open-Weight Model to Take On DeepSeek and Qwen",
+        "one_line": "Looks like new open model coming soon and will be \"strong\" hopefully something under 200b for us memory poor. Also seeing statements about more western open mod",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wy0jrc/reflection_ai_is_about_to_release_a_us_openweight/",
+        "source": "r/LocalLLaMA",
+        "importance": 5
+      },
+      {
+        "title": "llama.cpp v0.6.0 released with MTP speculative decoding for Qwen4Exp and lots more",
+        "one_line": "submitted by /u/vexatious-big [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyh03u/llamacpp_v060_released_with_mtp_speculative/",
+        "source": "r/LocalLLaMA",
+        "importance": 5
+      },
+      {
+        "title": "I built an open-source real-time Japanese anime subtitle & translation engine powered by Whisper-Large-v3 + Groq / DeepSeek",
+        "one_line": "Hey r/LocalLLaMA , Like many anime fans, I've always been frustrated by traditional MT engines (like Google Translate or base DeepL) when dealing with raw Japan",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wy9wt5/i_built_an_opensource_realtime_japanese_anime/",
+        "source": "r/LocalLLaMA",
+        "importance": 5
+      },
+      {
+        "title": "Anthropic reported diary entry to police, woman faces felony charge",
+        "one_line": "567 points, 478 comments on Hacker News",
+        "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+        "one_line": "297 points, 185 comments on Hacker News",
+        "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+        "one_line": "259 points, 178 comments on Hacker News",
+        "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+        "one_line": "225 points, 164 comments on Hacker News",
+        "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
+        "one_line": "48 points, 78 comments on Hacker News",
+        "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+        "one_line": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+        "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+        "one_line": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+        "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Gemini Call for Me might tell your mom you’re running late",
+        "one_line": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports f",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
+        "one_line": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"ca",
+        "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+        "one_line": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its ",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide",
+        "one_line": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicid",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI is sticking more ads in ChatGPT",
+        "one_line": "OpenAI's latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "Meta and Microsoft pull back from Claude as Anthropic transforms from partner into competitor",
+        "one_line": "Meta and Microsoft, two of Anthropic's biggest enterprise customers, are sharply cutting their use of Claude. Microsoft slashed the monthly per-employee budget ",
+        "url": "https://the-decoder.com/meta-and-microsoft-pull-back-from-claude-as-anthropic-transforms-from-partner-into-competitor/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI will watermark ChatGPT text in the EU but makes it optional for API users worldwide",
+        "one_line": "OpenAI is adding invisible textGrain watermarks to ChatGPT in the EU, but unlike Anthropic, it will let API customers worldwide opt out. Tests show detection ra",
+        "url": "https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Aleph Alpha releases Kolibri, an open-weight model that makes the case for European AI sovereignty",
+        "one_line": "Aleph Alpha has released Kolibri, a German-English mixture-of-experts model with 78 billion parameters, about three billion of which are active per token. Over ",
+        "url": "https://the-decoder.com/aleph-alpha-releases-kolibri-an-open-weight-model-that-makes-the-case-for-european-ai-sovereignty/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "ChatGPT's new ad format fills the image generation loading screen with product carousels",
+        "one_line": "ChatGPT users in the US will soon see display ads while the chatbot generates an image for them. The article ChatGPT's new ad format fills the image generation ",
+        "url": "https://the-decoder.com/chatgpts-new-ad-format-fills-the-image-generation-loading-screen-with-product-carousels/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Building advertising for the way people use AI",
+        "one_line": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+        "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+        "source": "OpenAI",
+        "importance": 4
+      },
+      {
+        "title": "How is it possible that qwen 27b is so good? When GPT 4o had a trillion parameters and was worse?",
+        "one_line": "Picture from a post in r/amodei . People were praising qwen and I'm just wondering, what kind of new technologies are at play here? Does qwen just have \"better\"",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyefkt/how_is_it_possible_that_qwen_27b_is_so_good_when/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "PewDiePie getting banned twice by OpenAI while making a local model is top-tier comedy 💀",
+        "one_line": "So PewDiePie decides to fine-tune a local AI model called Ajax on his own computer. Pretty normal stuff for local model fans. To make his dataset, he uses OpenA",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wymgu6/pewdiepie_getting_banned_twice_by_openai_while/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "A benchmark for LLMs playing Civilization V. GLM-5.3 is ahead of Opus-5.5, and Qwen-3.8-27B holds up surprisingly well.",
+        "one_line": "A while ago, I posted here getting OSS-120B and GLM-4.6 playing full games of Civilization V . Since then, models have moved pretty far, and we wanted a better ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wynbvq/a_benchmark_for_llms_playing_civilization_v_glm53/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Finetuned 1.5B Qwen to generate bash commands at gpt-4o level using 400k synthetic examples + Fully opensource finetune dataset",
+        "one_line": "Purely a hobby side project to see how far I can push a really small model, using (mostly) automated training pipelines Full synthetic data: https://huggingface",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wybqq3/finetuned_15b_qwen_to_generate_bash_commands_at/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
+        "one_line": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
+        "source": "The Verge AI",
+        "importance": 3
+      },
+      {
+        "title": "Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode",
+        "one_line": "Together AI has released Together Link, a free, MIT-licensed CLI that connects Claude Code, Codex, OpenCode, Pi, and the Claude and ChatGPT desktop apps to open",
+        "url": "https://www.marktechpost.com/2026/10/05/meet-together-link-a-free-cli-that-runs-open-models-like-kimi-k3-and-glm-5-3-inside-claude-code-codex-and-opencode/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "The Story of Qwen: Alibaba’s AI Models From 7B to 2.4T",
+        "one_line": "Alibaba's Qwen went from an invite-only chatbot in April 2023 to a 2.4-trillion-parameter open-weight model in August 2026. This is the full story, release by r",
+        "url": "https://www.marktechpost.com/2026/10/04/the-story-of-qwen-alibabas-ai-models-from-7b-to-2-4t/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "Introducing GLM 5.3 on Amazon Bedrock",
+        "one_line": "GLM 5.3 from Z.ai is now available on Amazon Bedrock: a 753B-parameter mixture-of-experts model built for coding and long-horizon agentic tasks. Learn how to in",
+        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/",
+        "source": "AWS Machine Learning",
+        "importance": 3
+      },
+      {
+        "title": "Supercharge regulated workloads with Claude Code and Amazon Bedrock",
+        "one_line": "Anthropic Claude Opus 5.5 and Claude Sonnet 5.5 are available on Amazon Bedrock in the AWS GovCloud (US) Regions. Learn how to use them with Claude Code, Anthro",
+        "url": "https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock/",
+        "source": "AWS Machine Learning",
+        "importance": 3
+      },
+      {
+        "title": "Our approach to EU text provenance rules",
+        "one_line": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+        "url": "https://openai.com/index/eu-text-provenance",
+        "source": "OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "Beam: Reflection's 501B open-weight model",
+        "one_line": "331 points, 94 comments on Hacker News",
+        "url": "https://reflection.ai/blog/introducing-beam",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "AI Companies Are Parasites",
+        "one_line": "62 points, 35 comments on Hacker News",
+        "url": "https://www.coryd.dev/posts/2026/ai-companies-are-parasites",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
+        "one_line": "60 points, 113 comments on Hacker News",
+        "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Spending on AI is becoming almost impossible for businesses to budget",
+        "one_line": "58 points, 81 comments on Hacker News",
+        "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Florida woman arrested for allegedly making threats in an AI chat",
+        "one_line": "49 points, 74 comments on Hacker News",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat",
+        "source": "Hacker News",
+        "importance": 2
+      }
+    ],
+    "Benchmarks & leaderboards": [],
+    "Research worth explaining": [
+      {
+        "title": "Trending on Hugging Face: autotrust/JEV-27B-VL",
+        "one_line": "649 likes, pipeline: image-text-to-text",
+        "url": "https://huggingface.co/autotrust/JEV-27B-VL",
+        "source": "Hugging Face trending",
+        "importance": 2
+      },
+      {
+        "title": "Trending on Hugging Face: autotrust/GEV-26B-Decide",
+        "one_line": "471 likes, pipeline: text-classification",
+        "url": "https://huggingface.co/autotrust/GEV-26B-Decide",
+        "source": "Hugging Face trending",
+        "importance": 2
+      },
+      {
+        "title": "Trending on Hugging Face: jialinyyzz/humanizer",
+        "one_line": "226 likes, pipeline: text-generation",
+        "url": "https://huggingface.co/jialinyyzz/humanizer",
+        "source": "Hugging Face trending",
+        "importance": 2
+      }
+    ],
+    "Business & industry": [
+      {
+        "title": "Anthropic is quietly becoming America's biggest corporate donor ahead of its mega IPO",
+        "one_line": "Anthropic employees donated $540 million in 2025 alone, nearly five times as much as the next-largest Fortune 500 donors, thanks to a company program that tops ",
+        "url": "https://the-decoder.com/anthropic-is-quietly-becoming-americas-biggest-corporate-donor-ahead-of-its-mega-ipo/",
+        "source": "The Decoder",
+        "importance": 4
+      }
+    ]
+  }
+}
