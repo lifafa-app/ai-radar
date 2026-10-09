@@ -1,0 +1,342 @@
+{
+  "summary": "118 new items collected. Ranked by keywords because Gemini was not available.",
+  "two_reel_day": false,
+  "two_reel_reason": "",
+  "picks": [
+    {
+      "title": "Oct 8, 2026 Announcements Introducing the Anthropic Cyber Mission",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [],
+      "sources": [
+        "https://www.anthropic.com/news/anthropic-cyber-mission"
+      ],
+      "verify": []
+    },
+    {
+      "title": "AHM Statement on OpenAI's October 6 Release of Mathematical Documents",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "47 points, 43 comments on Hacker News"
+      ],
+      "sources": [
+        "https://www.ahmath.org/statements"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Anthropic launches free AI security scans for open-source projects",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic secur"
+      ],
+      "sources": [
+        "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner"
+      ],
+      "verify": []
+    }
+  ],
+  "sections": {
+    "Model launches & updates": [
+      {
+        "title": "Oct 8, 2026 Announcements Introducing the Anthropic Cyber Mission",
+        "one_line": "",
+        "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+        "source": "Anthropic",
+        "importance": 5
+      }
+    ],
+    "Apps & tools": [
+      {
+        "title": "AHM Statement on OpenAI's October 6 Release of Mathematical Documents",
+        "one_line": "47 points, 43 comments on Hacker News",
+        "url": "https://www.ahmath.org/statements",
+        "source": "Hacker News",
+        "importance": 5
+      },
+      {
+        "title": "Anthropic launches free AI security scans for open-source projects",
+        "one_line": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that o",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+        "source": "The Verge AI",
+        "importance": 5
+      },
+      {
+        "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+        "one_line": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+        "url": "https://openai.com/index/oracle",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+        "one_line": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+        "url": "https://openai.com/index/pollo-ai",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "Gemini at Work 2026: Introducing Gemini agent",
+        "one_line": "submitted by /u/Stas2063 [link] [comments]",
+        "url": "https://www.reddit.com/r/GeminiAI/comments/1x0vmzz/gemini_at_work_2026_introducing_gemini_agent/",
+        "source": "r/GeminiAI",
+        "importance": 5
+      },
+      {
+        "title": "Perplexity AI Releases pplx-embed-v2-late: A 0.6B Edge Model and a 9B Model Scoring 92.4% on MADQA",
+        "one_line": "Perplexity's pplx-embed-v2-late comes in 2 sizes: a 0.6B model built to run on edge devices, and a 9B model for building high-quality indexes. Its best score is",
+        "url": "https://www.marktechpost.com/2026/10/07/perplexity-ai-releases-pplx-embed-v2-late-a-0-6b-edge-model-and-a-9b-model-scoring-92-4-on-madqa/",
+        "source": "MarkTechPost",
+        "importance": 5
+      },
+      {
+        "title": "OpenAI annualised revenues $20B less than previously signalled",
+        "one_line": "358 points, 246 comments on Hacker News",
+        "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI Withdraws 3 Math Papers",
+        "one_line": "338 points, 3 comments on Hacker News",
+        "url": "https://github.com/openai/math/blob/main/history.md",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI withdraws three mathematical results",
+        "one_line": "251 points, 545 comments on Hacker News",
+        "url": "https://twitter.com/danintheory/status/2108065033070789090",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+        "one_line": "116 points, 49 comments on Hacker News",
+        "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI, the Partition Principle, and Mathematics",
+        "one_line": "85 points, 107 comments on Hacker News",
+        "url": "https://karagila.org/2026/openai-pp/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic bans 'abusive or cruel behavior' towards Claude",
+        "one_line": "66 points, 148 comments on Hacker News",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
+        "one_line": "42 points, 49 comments on Hacker News",
+        "url": "https://github.com/thesnarkitecht/rembrandt",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "LGTM (Looks Good to Me) – Claude Opus 5.5 Music Video",
+        "one_line": "42 points, 11 comments on Hacker News",
+        "url": "https://www.youtube.com/watch?v=3TNpOD6bov8",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+        "one_line": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a c",
+        "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+        "one_line": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+        "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Google brings agentic AI to Gemini, starting with businesses",
+        "one_line": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use",
+        "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic changes usage policy to ban model abuse and election interference",
+        "one_line": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still",
+        "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+        "one_line": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
+        "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "USA Today becomes the latest publisher to sue OpenAI",
+        "one_line": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "Google is launching a one-stop Gemini agent for your work tasks",
+        "one_line": "Google is launching a \"universal\" Gemini AI agent that can work across apps and devices in the background. The tool, announced as part of the Gemini at Work eve",
+        "url": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "Can you trust Meta’s Muse or OpenAI’s Dots to run your life?",
+        "one_line": "My Decoder guest today is Hayden Field, The Verge’s senior AI reporter, and we’re discussing the new wave of consumer-friendly AI agents. If you’ve been paying ",
+        "url": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "Claude can now generate animated explainer videos and live data dashboards from text prompts",
+        "one_line": "Anthropic launched two new beta features for Claude. Dashboards turns data sources like BigQuery and Snowflake into live dashboards from text prompts. Motion ge",
+        "url": "https://the-decoder.com/claude-can-now-generate-animated-explainer-videos-and-live-data-dashboards-from-text-prompts/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Being mean to Claude can now get your account suspended under Anthropic's new TOS",
+        "one_line": "Anthropic's updated usage policy bans sustained abuse of Claude and tightens restrictions on propaganda, drone weaponization, and surveillance. The abuse rule b",
+        "url": "https://the-decoder.com/being-mean-to-claude-can-now-get-your-account-suspended-under-anthropics-new-tos/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
+        "one_line": "The Association for Human Mathematics is calling for an OpenAI boycott after the company released more than 700 AI-generated math manuscripts at once. OpenAI ha",
+        "url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "LegalOn halves Codex costs while maintaining development speed",
+        "one_line": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+        "url": "https://openai.com/index/legalon-halves-codex-costs",
+        "source": "OpenAI",
+        "importance": 4
+      },
+      {
+        "title": "Disrupting AI-enabled “false front” operations",
+        "one_line": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+        "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+        "source": "OpenAI",
+        "importance": 4
+      },
+      {
+        "title": "Last week some of South Korea's biggest banks were hit by a cyberattack. We now know the entire hack may have been done by a single person. He used a combined stack of an open-source AI penetration to",
+        "one_line": "CrowdStrike report: https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/ From: Andrew Curran on 𝕏: https://x.c",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0n4pt/last_week_some_of_south_koreas_biggest_banks_were/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Saluki 27B: \"96% of Qwen 3.8’s performance at ~1/7 the size\"",
+        "one_line": "anyone has feedback about this one? submitted by /u/paf1138 [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0mn7x/saluki_27b_96_of_qwen_38s_performance_at_17_the/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Strata rewrote their Github history to wipe evidence of Claude-authoring",
+        "one_line": "Just noticed this today when I went to run the built-in \"UPDATE\" script and git failed because there was no common ancestor. Looked into why, and apparently eve",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x15a8w/strata_rewrote_their_github_history_to_wipe/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Halogen + Qwen Flash Next keeps getting better",
+        "one_line": "With latest Halogen version update (0.17.2), decode is consistently at ~45 tps even at high context with Qwen 3.8 Flash Next on a 128GB Strix Halo. This is some",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0o2yy/halogen_qwen_flash_next_keeps_getting_better/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Qwen 3.6 35B appreciation post",
+        "one_line": "Referring to specifically Unsloth's UD_Q4_K_XL quant because that's going to be a question, and is relevant regardless. It's old now. It's not great at coding m",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x17brf/qwen_36_35b_appreciation_post/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Qwen 3.8 Flash Next is so much fun for three.js",
+        "one_line": "Having a lot of fun experimenting with three.js. Still very far from even a demo but its tons of fun. After this project I'll want to try a godot workflow. 3.8F",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0nv5l/qwen_38_flash_next_is_so_much_fun_for_threejs/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "ggml-cuda: assign four GDN state columns per warp by SongXiaoXi · Pull Request #30087 · ggml-org/llama.cpp",
+        "one_line": "Another day, another Qwen 3.x speedup (prompt processing this time). Soon your Qwen will read your entire project before you can blink! test master t/s PR t/s c",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0m3ff/ggmlcuda_assign_four_gdn_state_columns_per_warp/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "OpenAI-compatible TTS endpoint using OmniVoice: 0.3s response time",
+        "one_line": "I want to share a TTS server with an OpenAI-compatible API that generates speech really fast (about 0.3 seconds for a sentence on an RTX 3080) and can clone a v",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0vld1/openaicompatible_tts_endpoint_using_omnivoice_03s/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Day 8 no Gemini 4",
+        "one_line": "Yesterday we were bombarded with fake posts that so many guilible people fell for. Today is the day the copium drinkers claim we get Argon for the ultra users..",
+        "url": "https://www.reddit.com/r/GeminiAI/comments/1x0myqs/day_8_no_gemini_4/",
+        "source": "r/GeminiAI",
+        "importance": 3
+      },
+      {
+        "title": "Gemini 4 argon not releasing today (it's still in early access)",
+        "one_line": "Bc the way logan said it looks like it's still in early access submitted by /u/Independent-Wind4462 [link] [comments]",
+        "url": "https://www.reddit.com/r/GeminiAI/comments/1x0toz1/gemini_4_argon_not_releasing_today_its_still_in/",
+        "source": "r/GeminiAI",
+        "importance": 3
+      },
+      {
+        "title": "Rest in peace Gemini for free users , you weren't the best or the worst and wasn't ultra safety railed like the chatgpt models 4.0 , you got worse but you mattered.",
+        "one_line": "Flash lite only is pure corporat greed though goddamn submitted by /u/No_gary_37 [link] [comments]",
+        "url": "https://www.reddit.com/r/GeminiAI/comments/1x0ncy9/rest_in_peace_gemini_for_free_users_you_werent/",
+        "source": "r/GeminiAI",
+        "importance": 3
+      },
+      {
+        "title": "Gemini 4 is coming today (or tmr depending on your time zone.)",
+        "one_line": "Multiple vendors support this claim: https://preview.redd.it/8sm2bgvwz6uh1.png?width=1099&format=png&auto=webp&s=ee37dd5d095ad561cde525e6d66d10bd0ecc0ba4 Kaggle",
+        "url": "https://www.reddit.com/r/GeminiAI/comments/1x0kb8s/gemini_4_is_coming_today_or_tmr_depending_on_your/",
+        "source": "r/GeminiAI",
+        "importance": 3
+      }
+    ],
+    "Benchmarks & leaderboards": [],
+    "Research worth explaining": [],
+    "Business & industry": []
+  }
+}
