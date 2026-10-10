@@ -1,0 +1,345 @@
+{
+  "summary": "76 new items collected. Ranked by keywords because Gemini was not available.",
+  "two_reel_day": false,
+  "two_reel_reason": "",
+  "picks": [
+    {
+      "title": "Anthropic launches a free AI scanner for open-source projects",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "Anthropic has launched \"Cyber Mission,\" a program to protect critical infrastructure and open-source software from cyberattacks. Partners like CrowdStrike and Palo Alto Networks will help secure power"
+      ],
+      "sources": [
+        "https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects/"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
+      ],
+      "sources": [
+        "https://openai.com/index/sophos"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
+      ],
+      "sources": [
+        "https://openai.com/index/asana-browser-agent"
+      ],
+      "verify": []
+    }
+  ],
+  "sections": {
+    "Model launches & updates": [],
+    "Apps & tools": [
+      {
+        "title": "Anthropic launches a free AI scanner for open-source projects",
+        "one_line": "Anthropic has launched \"Cyber Mission,\" a program to protect critical infrastructure and open-source software from cyberattacks. Partners like CrowdStrike and P",
+        "url": "https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects/",
+        "source": "The Decoder",
+        "importance": 5
+      },
+      {
+        "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+        "one_line": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+        "url": "https://openai.com/index/sophos",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+        "one_line": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+        "url": "https://openai.com/index/asana-browser-agent",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "Qwen-Image-2.1-Turbo released!",
+        "one_line": "Qwen-Image-2.1-Turbo, create and edit images in just 8 denoising steps! Open weights now available! Built on Qwen-Image-2.1, Turbo is an accelerated checkpoint ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1lclx/qwenimage21turbo_released/",
+        "source": "r/LocalLLaMA",
+        "importance": 5
+      },
+      {
+        "title": "Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model",
+        "one_line": "Alibaba’s Qwen team has released Qwen-Image-2.1-Turbo, an accelerated checkpoint of its open-weight Qwen-Image-2.1 model. It generates and edits images in 8 den",
+        "url": "https://www.marktechpost.com/2026/10/09/alibaba-qwen-releases-qwen-image-2-1-turbo-an-8-step-7b-image-model/",
+        "source": "MarkTechPost",
+        "importance": 5
+      },
+      {
+        "title": "Google Cloud Launches Gemini Agent, One Universal Agent for Enterprise Work",
+        "one_line": "Google Cloud has introduced the Google Cloud Gemini agent, a single agent for enterprise work. The Gemini agent is a cloud-hosted agent from Google Cloud that a",
+        "url": "https://www.marktechpost.com/2026/10/08/google-cloud-launches-gemini-agent-one-universal-agent-for-enterprise-work/",
+        "source": "MarkTechPost",
+        "importance": 5
+      },
+      {
+        "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
+        "one_line": "180 points, 162 comments on Hacker News",
+        "url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "The super intelligence shit is a humiliation ritual for OpenAI",
+        "one_line": "91 points, 83 comments on Hacker News",
+        "url": "https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+        "one_line": "56 points, 29 comments on Hacker News",
+        "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI mistranslated mathematics into code for its Navier-Stokes proof",
+        "one_line": "55 points, 5 comments on Hacker News",
+        "url": "https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Tomek Korbak: OpenAI's head of safety told they no longer trust me",
+        "one_line": "45 points, 2 comments on Hacker News",
+        "url": "https://twitter.com/tomekkorbak/status/2108266859397283953",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+        "one_line": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+        "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+        "one_line": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+        "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+        "one_line": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+        "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+        "one_line": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. ",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+        "one_line": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+        "one_line": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post ",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows",
+        "one_line": "Anthropic is adding dynamic workflows to Claude Managed Agents, letting a lead agent distribute tasks across up to 1,000 sub-agents at once. In testing, a singl",
+        "url": "https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
+        "one_line": "OpenAI's annualized revenue rate sits at about $50 billion, well below the initially reported $70 billion figure that was based on a different accounting method",
+        "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI's safety crisis keeps getting worse and the company keeps making it worse",
+        "one_line": "OpenAI fired three safety researchers who helped investigate the Hugging Face hack. In an open letter, they warn that the firings are scaring remaining staff an",
+        "url": "https://the-decoder.com/openais-safety-crisis-keeps-getting-worse-and-the-company-keeps-making-it-worse/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic's Claude Science creates the first complete ultraviolet map of the sky",
+        "one_line": "Astrophysicist Brice Ménard of Johns Hopkins University used Anthropic's Claude Science to map the entire sky in ultraviolet light for the first time. AI agents",
+        "url": "https://the-decoder.com/anthropics-claude-science-creates-the-first-complete-ultraviolet-map-of-the-sky/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI uncovers Russian and Iranian influence ops that planted fake stories in real news outlets",
+        "one_line": "OpenAI exposed a Russian and an Iranian influence operation and banned the accounts involved. The Russian \"Dark Clark\" campaign spread disinformation across Lat",
+        "url": "https://the-decoder.com/openai-uncovers-russian-and-iranian-influence-ops-that-planted-fake-stories-in-real-news-outlets/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Qwen/Qwen-Image-2.1-Turbo · Hugging Face",
+        "one_line": "submitted by /u/chocofoxy [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1ldef/qwenqwenimage21turbo_hugging_face/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "OpenAI's math findings built on stolen user data",
+        "one_line": "submitted by /u/CuTe_M0nitor [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1rk4o/openais_math_findings_built_on_stolen_user_data/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "GLM 5.3 Flash opensource @ the top of Artificial Analysis Cyber Index over Claude.",
+        "one_line": "It seems Dario's \"too powerful for you users\" strategy is paying off: we have two open models at the top of the leaderboard, surpassing every single model from ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1rwof/glm_53_flash_opensource_the_top_of_artificial/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Qwen 3.8 Flash Next-GSQ-RCO-IQ2_XS at ~21 tok/s on just an RTX 3060 12GB + 16GB DDR4 RAM(No gate pruning, 100% bit-exact)",
+        "one_line": "(Don't judge by the screenshot, the cache is cold. It hits 24+ tok/s with a warm cache!) About two months ago, I made a post here asking whether predicting whic",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1tclb/qwen_38_flash_nextgsqrcoiq2_xs_at_21_toks_on_just/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers",
+        "one_line": "OpenAI’s Decisions API is now in public beta on GPT-6 Luna. It returns typed probabilities, choices and scores about 10x faster than the Responses API, billing ",
+        "url": "https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+        "one_line": "379 points, 166 comments on Hacker News",
+        "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+        "one_line": "106 points, 53 comments on Hacker News",
+        "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Why are coding agents so dumb?",
+        "one_line": "76 points, 75 comments on Hacker News",
+        "url": "https://mtlynch.io/why-are-coding-agents-so-dumb/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Court throws out killer's sentence after judge said he loved AI video of victim",
+        "one_line": "69 points, 73 comments on Hacker News",
+        "url": "https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+        "one_line": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrec",
+        "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "We can’t help treating AI like it’s human. But should we?",
+        "one_line": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired t",
+        "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "a16z’s Olivia Moore on the state of consumer AI",
+        "one_line": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
+        "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+        "one_line": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" B",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+        "source": "The Verge AI",
+        "importance": 2
+      },
+      {
+        "title": "Trump’s attempt to rename AI is looking awfully artificial",
+        "one_line": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"C",
+        "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+        "source": "The Verge AI",
+        "importance": 2
+      }
+    ],
+    "Benchmarks & leaderboards": [],
+    "Research worth explaining": [
+      {
+        "title": "Trending on Hugging Face: Qwen/Qwen-Image-2.1-Turbo",
+        "one_line": "302 likes, pipeline: text-to-image",
+        "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
+        "source": "Hugging Face trending",
+        "importance": 4
+      },
+      {
+        "title": "Trending on Hugging Face: Cactus-Compute/whistle",
+        "one_line": "268 likes, pipeline: automatic-speech-recognition",
+        "url": "https://huggingface.co/Cactus-Compute/whistle",
+        "source": "Hugging Face trending",
+        "importance": 2
+      },
+      {
+        "title": "Trending on Hugging Face: LiquidAI/d1-3B",
+        "one_line": "238 likes, pipeline: image-text-to-text",
+        "url": "https://huggingface.co/LiquidAI/d1-3B",
+        "source": "Hugging Face trending",
+        "importance": 2
+      }
+    ],
+    "Business & industry": [
+      {
+        "title": "Typesafe AI raises $870M at $7.5B",
+        "one_line": "276 points, 211 comments on Hacker News",
+        "url": "https://typesafe.ai/blog/series-ai",
+        "source": "Hacker News",
+        "importance": 2
+      }
+    ]
+  }
+}
