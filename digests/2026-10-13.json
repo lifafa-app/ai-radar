@@ -1,0 +1,344 @@
+{
+  "summary": "76 new items collected. Ranked by keywords because Gemini was not available.",
+  "two_reel_day": false,
+  "two_reel_reason": "",
+  "picks": [
+    {
+      "title": "Qwen released QwenGyre - RL framework for training AI agents on extremely long complex tasks",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "Introducing QwenGyre, bringing elastic RL to extreme-long-horizon (XLong) agent training. It launches with two core designs: - Elastic Scheduler: reallocates GPUs between rollout & training as demand "
+      ],
+      "sources": [
+        "https://www.reddit.com/r/LocalLLaMA/comments/1x41myz/qwen_released_qwengyre_rl_framework_for_training/"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Product · Oct 12, 2026 Introducing The X Subscription",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [],
+      "sources": [
+        "https://x.ai/news/x-subscription"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Trending on Hugging Face: abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "4106 likes, pipeline: text-to-image"
+      ],
+      "sources": [
+        "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized"
+      ],
+      "verify": []
+    }
+  ],
+  "sections": {
+    "Model launches & updates": [
+      {
+        "title": "Product · Oct 12, 2026 Introducing The X Subscription",
+        "one_line": "",
+        "url": "https://x.ai/news/x-subscription",
+        "source": "xAI",
+        "importance": 5
+      }
+    ],
+    "Apps & tools": [
+      {
+        "title": "Qwen released QwenGyre - RL framework for training AI agents on extremely long complex tasks",
+        "one_line": "Introducing QwenGyre, bringing elastic RL to extreme-long-horizon (XLong) agent training. It launches with two core designs: - Elastic Scheduler: reallocates GP",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x41myz/qwen_released_qwengyre_rl_framework_for_training/",
+        "source": "r/LocalLLaMA",
+        "importance": 5
+      },
+      {
+        "title": "Just say no to OpenAI and Anthropic",
+        "one_line": "156 points, 147 comments on Hacker News",
+        "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
+        "one_line": "131 points, 88 comments on Hacker News",
+        "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+        "one_line": "116 points, 78 comments on Hacker News",
+        "url": "https://news.ycombinator.com/item?id=50059096",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "\"Just Ask Claude\" Is a Rare and Valuable Skill",
+        "one_line": "53 points, 65 comments on Hacker News",
+        "url": "https://justismills.substack.com/p/just-ask-claude-is-a-rare-and-valuable",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic's Andrej Karpathy says \"the external world has seen the preview\" of what AI can actually do",
+        "one_line": "Andrej Karpathy, co-founder of OpenAI and now at Anthropic, sees a widening knowledge gap in AI. About 75 percent of the world's population has barely touched L",
+        "url": "https://the-decoder.com/anthropics-andrej-karpathy-says-the-external-world-has-seen-the-preview-of-what-ai-can-actually-do/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Once again anthropic doing free marketing for open weight models",
+        "one_line": "submitted by /u/kubblegum [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4cm73/once_again_anthropic_doing_free_marketing_for/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Anthropic is doing free publicity for GLM again",
+        "one_line": "https://www.anthropic.com/research/distillation-defenses submitted by /u/No-Point1424 [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4ii8e/anthropic_is_doing_free_publicity_for_glm_again/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "I made an open-source AI leaderboard that shows the best models your machine can run",
+        "one_line": "Hey everyone, I made whatmodel.sh To use it, Enter your RAM and GPU See what models you can run locally with its rank and the command to run it Compare them wit",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3wp8c/i_made_an_opensource_ai_leaderboard_that_shows/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "graphsignal-top: a `top` for inference GPUs in the open-source Graphsignal profiler, kernels ranked by time, live, with readable names",
+        "one_line": "A few weeks ago we posted the open-source Graphsignal profiler here: wrap vllm serve / sglang serve / whatever in graphsignal-run and it serves everything it me",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x421ow/graphsignaltop_a_top_for_inference_gpus_in_the/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Qwen 3.8 Flash Next Q3 S - Benchmark creation",
+        "one_line": "After running a benchmark test on Exo in Opencode and being amazed by the result, I thought I'd try other models on Opencode. Many were surprisingly terrible. E",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4h1c2/qwen_38_flash_next_q3_s_benchmark_creation/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Meta releases its first frontier model, Muse Wonder",
+        "one_line": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchm",
+        "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+        "source": "TechCrunch AI",
+        "importance": 3
+      },
+      {
+        "title": "Alibaba Qwen Introduces QwenGyre: Elastic Reinforcement Learning RL for XLong-Horizon Agents",
+        "one_line": "Alibaba’s Qwen team has introduced QwenGyre, an elastic reinforcement learning RL framework for extreme-long-horizon agent training. QwenGyre is an online reinf",
+        "url": "https://www.marktechpost.com/2026/10/12/alibaba-qwen-introduces-qwengyre-elastic-reinforcement-learning-rl-for-xlong-horizon-agents/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan",
+        "one_line": "Learn how to run OpenAI GPT-6 Sol, Luna, and Astra on Amazon Bedrock through global cross-Region inference from Singapore, Jakarta, Thailand, Malaysia, and Taip",
+        "url": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/",
+        "source": "AWS Machine Learning",
+        "importance": 3
+      },
+      {
+        "title": "Deploy decision models with llama.cpp on Amazon SageMaker AI",
+        "one_line": "Learn how to deploy decision models with llama.cpp on Amazon SageMaker AI. This technical how-to serves OpenAI-compatible chat completions with the AWS Deep Lea",
+        "url": "https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/",
+        "source": "AWS Machine Learning",
+        "importance": 3
+      },
+      {
+        "title": "Applying technology to understand and treat disease",
+        "one_line": "In collaboration with scientists and research partners, Google is helping to make disease more detectable, treatable, and preventable — with the goal of improvi",
+        "url": "https://blog.google/innovation-and-ai/technology/health/ai-health-research/",
+        "source": "Google DeepMind",
+        "importance": 3
+      },
+      {
+        "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+        "one_line": "488 points, 248 comments on Hacker News",
+        "url": "https://github.com/openai/codex/issues/48195",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "GLM-Legal",
+        "one_line": "468 points, 262 comments on Hacker News",
+        "url": "https://z.ai/blog/glm-legal",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "QGIS enacts moratorium on AI contributions",
+        "one_line": "367 points, 398 comments on Hacker News",
+        "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "AI coding agents generate more code, but not more software",
+        "one_line": "317 points, 275 comments on Hacker News",
+        "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Why aren't AI companies being charged for hacking?",
+        "one_line": "312 points, 335 comments on Hacker News",
+        "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "AI is a tool and using it well takes skill",
+        "one_line": "257 points, 219 comments on Hacker News",
+        "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "'AI' Is Not a Tool by Rich Hickey",
+        "one_line": "235 points, 119 comments on Hacker News",
+        "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+        "one_line": "151 points, 48 comments on Hacker News",
+        "url": "https://taylor.town/kk-ai-2026",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+        "one_line": "101 points, 40 comments on Hacker News",
+        "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Reverse engineer anything with agents, from app behavior down to native binaries",
+        "one_line": "84 points, 27 comments on Hacker News",
+        "url": "https://github.com/morluto/rea",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Epic Games tells employees to use AI to get Disney game done",
+        "one_line": "79 points, 63 comments on Hacker News",
+        "url": "https://www.avclub.com/epic-games-disney-ai-delay",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "AI models may be capable of self-replicating without access to a datacenter",
+        "one_line": "78 points, 95 comments on Hacker News",
+        "url": "https://www.anthropic.com/research/self-replicating-ai",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "AI less regulated than milk, Microsoft president says in warning over safety",
+        "one_line": "68 points, 75 comments on Hacker News",
+        "url": "https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+        "one_line": "55 points, 22 comments on Hacker News",
+        "url": "https://github.com/prabanta-dev/janas",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+        "one_line": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+        "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "Microsoft president says UK is best placed to drive AI regulation",
+        "one_line": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+        "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+        "one_line": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketc",
+        "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "Meta has some Wonder Full new AI models",
+        "one_line": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agen",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+        "source": "The Verge AI",
+        "importance": 2
+      }
+    ],
+    "Benchmarks & leaderboards": [],
+    "Research worth explaining": [
+      {
+        "title": "Trending on Hugging Face: abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+        "one_line": "4106 likes, pipeline: text-to-image",
+        "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+        "source": "Hugging Face trending",
+        "importance": 4
+      },
+      {
+        "title": "Trending on Hugging Face: nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2",
+        "one_line": "286 likes, pipeline: image-text-to-text",
+        "url": "https://huggingface.co/nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2",
+        "source": "Hugging Face trending",
+        "importance": 4
+      },
+      {
+        "title": "Trending on Hugging Face: unsloth/embeddinggemma-2-GGUF",
+        "one_line": "284 likes, pipeline: feature-extraction",
+        "url": "https://huggingface.co/unsloth/embeddinggemma-2-GGUF",
+        "source": "Hugging Face trending",
+        "importance": 2
+      }
+    ],
+    "Business & industry": [
+      {
+        "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+        "one_line": "238 points, 208 comments on Hacker News",
+        "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+        "one_line": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, ",
+        "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      }
+    ]
+  }
+}
