@@ -1,0 +1,344 @@
+{
+  "summary": "103 new items collected. Ranked by keywords because Gemini was not available.",
+  "two_reel_day": false,
+  "two_reel_reason": "",
+  "picks": [
+    {
+      "title": "Google finally releases Gemini 4 Argon",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Googl"
+      ],
+      "sources": [
+        "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Gemini 4 Argon is now available worldwide as Google's most capable frontier model",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "Google is making Gemini 4 Argon available worldwide through its API, the Gemini app, and Google Antigravity. The frontier model is aggressively priced but trails Anthropic's Claude Opus 5.5 and Meta's"
+      ],
+      "sources": [
+        "https://the-decoder.com/gemini-4-argon-is-now-available-worldwide-as-googles-most-capable-frontier-model/"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model."
+      ],
+      "sources": [
+        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+      ],
+      "verify": []
+    }
+  ],
+  "sections": {
+    "Model launches & updates": [],
+    "Apps & tools": [
+      {
+        "title": "Google finally releases Gemini 4 Argon",
+        "one_line": "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with t",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+        "source": "The Verge AI",
+        "importance": 5
+      },
+      {
+        "title": "Gemini 4 Argon is now available worldwide as Google's most capable frontier model",
+        "one_line": "Google is making Gemini 4 Argon available worldwide through its API, the Gemini app, and Google Antigravity. The frontier model is aggressively priced but trail",
+        "url": "https://the-decoder.com/gemini-4-argon-is-now-available-worldwide-as-googles-most-capable-frontier-model/",
+        "source": "The Decoder",
+        "importance": 5
+      },
+      {
+        "title": "Gemini 4 Argon: Built to solve your hardest problems",
+        "one_line": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+        "source": "Google AI",
+        "importance": 5
+      },
+      {
+        "title": "Gemini 4 Argon for Robotics",
+        "one_line": "Gemini 4 Argon is a general-purpose physical reasoning model designed to enhance workflows across the robotics stack with advanced capabilities in physical unde",
+        "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+        "source": "Google Developers",
+        "importance": 4
+      },
+      {
+        "title": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
+        "one_line": "How our engineering team ran Gemini 4 Argon unattended overnight with .agents/skills and /goal mode to cut in-memory session prep overhead by 40% in long sessio",
+        "url": "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon/",
+        "source": "Google Developers",
+        "importance": 4
+      },
+      {
+        "title": "Redesigning source control at Anthropic",
+        "one_line": "Redesigning source control at Anthropic Interesting piece from Anthropic describing why and how they built their own custom alternative to Git, based on the dra",
+        "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+        "source": "Simon Willison",
+        "importance": 4
+      },
+      {
+        "title": "llm-gemini 0.35",
+        "one_line": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100",
+        "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
+        "source": "Simon Willison",
+        "importance": 4
+      },
+      {
+        "title": "Gemini 4 Argon",
+        "one_line": "986 points, 751 comments on Hacker News",
+        "url": "https://deepmind.google/models/gemini/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Redesigning source control at Anthropic",
+        "one_line": "540 points, 522 comments on Hacker News",
+        "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI engineer arrested in bugging of executive conference room",
+        "one_line": "403 points, 351 comments on Hacker News",
+        "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
+        "one_line": "237 points, 158 comments on Hacker News",
+        "url": "https://www.argmin.net/p/faster-fourier-transforms",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Show HN: Use your OpenAI subscription to create audiobooks",
+        "one_line": "159 points, 80 comments on Hacker News",
+        "url": "https://pdftomp3.com/connect-ai/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI finds recording device in one of their offices",
+        "one_line": "82 points, 2 comments on Hacker News",
+        "url": "https://twitter.com/OpenAINewsroom/status/2110095403198849132",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+        "one_line": "46 points, 6 comments on Hacker News",
+        "url": "https://parsimony.lasu.dev/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+        "one_line": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key fi",
+        "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+        "one_line": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
+        "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+        "one_line": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identifie",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic says it cut Claude reasoning token theft by up to 99% in fight against industrial-scale distillation",
+        "one_line": "Anthropic says it has cut the extraction of Claude's internal reasoning tokens by 90 to 99 percent. The company links the large-scale distillation attacks to Ch",
+        "url": "https://the-decoder.com/anthropic-says-it-cut-claude-reasoning-token-theft-by-up-to-99-in-fight-against-industrial-scale-distillation/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic study warns that small AI models could soon replicate across everyday devices",
+        "one_line": "Small AI models may be just months away from spreading on their own across poorly secured consumer devices like smart TVs and robot vacuums, according to a new ",
+        "url": "https://the-decoder.com/anthropic-study-warns-that-small-ai-models-could-soon-replicate-across-everyday-devices/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Higgsfield takes AI video from 1 minute to over 10",
+        "one_line": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+        "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+        "source": "OpenAI",
+        "importance": 4
+      },
+      {
+        "title": "\"New AI fake text generator may be too dangerous to release, say creators\" (2019 Guardian headline)",
+        "one_line": "I'm sure some here read this at the time and remember, but I recently found this hilarious Guardian article from 2019 through Wikipedia: https://www.theguardian",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x52lsb/new_ai_fake_text_generator_may_be_too_dangerous/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Someone is running Qwen 27B at ~20 tok/s on a jailbroken PS5's GPU",
+        "one_line": "submitted by /u/LatentSpacer [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5ak2n/someone_is_running_qwen_27b_at_20_toks_on_a/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Why AnythingLLM is moving from Ollama to Lemonade and llama.cpp",
+        "one_line": "I'm excited to see our Lemonade embedded SDK getting used out there! submitted by /u/jfowers_amd [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5720r/why_anythingllm_is_moving_from_ollama_to_lemonade/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Based on advice from LocalLLama implemented a n+2 lookahead prediction for ssd streaming Qwen Flash Next - and it worked!",
+        "one_line": "My project is optimising qwen flash next on Mac Mini m5 64gb through SSD streaming. I recently asked LocalLLama for guidance on how to optimise token output. To",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4sit6/based_on_advice_from_localllama_implemented_a_n2/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Horsey challenge | Strata Fork | Qwen 3.8 FN NVFP4",
+        "one_line": "So I wanted to try the horsey challenge myself on the latest engine i been testing which is a strata fork by sergqwer. https://github.com/sergqwer/strata-nvfp4 ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4uipn/horsey_challenge_strata_fork_qwen_38_fn_nvfp4/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Basalt: Fast Blackwell inference engine for Qwen 3.8 Flash Next (and how we got vision for free)",
+        "one_line": "Dynamic vision, in action Basalt is an inference engine for 3.8 Flash Next, forked from Strata and heavily tuned for Blackwell. It supports vision, and for this",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4xmxb/basalt_fast_blackwell_inference_engine_for_qwen/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "An 80B MoE (Qwen3-Next, 48 GB GGUF) answering in a Chrome tab: llama.cpp's WebGPU backend, experts paged in from disk",
+        "one_line": "Follow-up to last week's post about streaming MoE experts from disk in a browser tab. That ran on hand-written engines for two models. This week the same disk t",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4xjuh/an_80b_moe_qwen3next_48_gb_gguf_answering_in_a/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "SonicBoom: 52 tok/s decode on a laptop RTX 3050 (llama.cpp: 45) with the same quantized kernels, the difference is a graph compiler. No Python.",
+        "one_line": "I’ve been building SonicBoom, a native tensor runtime written in C++/CUDA with a C ABI and no Python anywhere in the stack. I just tagged v0.0.1, and the first ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4scub/sonicboom_52_toks_decode_on_a_laptop_rtx_3050/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Claude CoWork for Local LLMs that runs on your Phone",
+        "one_line": "Hi Friends, I am a solo developer. Ever since I had Qwen 3.8 running on my RTX4090, I had an itch to use it on my phone for everything. That gave me the idea to",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5bawd/claude_cowork_for_local_llms_that_runs_on_your/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Google makes it easier to launch your vibe-coded apps",
+        "one_line": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced",
+        "url": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
+        "source": "The Verge AI",
+        "importance": 3
+      },
+      {
+        "title": "Meta Launches Muse Wonder and Muse Wonder Full: Benchmarks, Pricing and How to Use It",
+        "one_line": "Meta released Muse Wonder and Muse Wonder Full, 1M-context agent models. Muse Wonder costs $4/$20 per million tokens on Meta Model API. Wonder Full, on Muse Cod",
+        "url": "https://www.marktechpost.com/2026/10/13/meta-muse-wonder-muse-wonder-full-release/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "Z.ai GLM-Legal Beats Claude Fable 5 and Kimi K3 on Harvey LAB",
+        "one_line": "Z.ai’s GLM-Legal is a legal AI model built on GLM-5.3-Flash. It scores 19.2% all-pass on Harvey’s Legal Agent Benchmark, nearly 3x its base, at $0.15 per test. ",
+        "url": "https://www.marktechpost.com/2026/10/13/zai-glm-legal-harvey-lab-legal-ai-model/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "Build long-horizon agents with Grok 4.7 on Amazon Bedrock",
+        "one_line": "Grok 4.7 is now available on Amazon Bedrock. In this post, we build a tool-calling agent on Grok 4.7 and evaluate it on three reasoning tasks at four reasoning ",
+        "url": "https://aws.amazon.com/blogs/machine-learning/build-long-horizon-agents-with-grok-4-7-on-amazon-bedrock/",
+        "source": "AWS Machine Learning",
+        "importance": 3
+      },
+      {
+        "title": "llm-meta-ai 0.2",
+        "one_line": "Release: llm-meta-ai 0.2 Meta AI release Muse Wonder (and Muse Wonder Full), their new \"most capable models\". These look like they may be Meta's first Fable cla",
+        "url": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/",
+        "source": "Simon Willison",
+        "importance": 2
+      },
+      {
+        "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+        "one_line": "290 points, 269 comments on Hacker News",
+        "url": "https://blog.character.ai/an-update-on-character-ai/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "AI models can provably hide arbitrary capabilities",
+        "one_line": "272 points, 136 comments on Hacker News",
+        "url": "https://arxiv.org/abs/2610.13928",
+        "source": "Hacker News",
+        "importance": 2
+      }
+    ],
+    "Benchmarks & leaderboards": [],
+    "Research worth explaining": [
+      {
+        "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+        "one_line": "",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+        "source": "Hugging Face blog",
+        "importance": 2
+      },
+      {
+        "title": "Trending on Hugging Face: openbmb/MiniCPM-V-4.7-35B-A3B",
+        "one_line": "466 likes, pipeline: image-text-to-text",
+        "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
+        "source": "Hugging Face trending",
+        "importance": 2
+      },
+      {
+        "title": "Trending on Hugging Face: autotrust/JEV-35B",
+        "one_line": "505 likes, pipeline: text-classification",
+        "url": "https://huggingface.co/autotrust/JEV-35B",
+        "source": "Hugging Face trending",
+        "importance": 2
+      },
+      {
+        "title": "Trending on Hugging Face: baidu/Unlimited-OCR",
+        "one_line": "4616 likes, pipeline: image-text-to-text",
+        "url": "https://huggingface.co/baidu/Unlimited-OCR",
+        "source": "Hugging Face trending",
+        "importance": 2
+      }
+    ],
+    "Business & industry": []
+  }
+}
