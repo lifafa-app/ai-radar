@@ -1,0 +1,344 @@
+{
+  "summary": "83 new items collected. Ranked by keywords because Gemini was not available.",
+  "two_reel_day": false,
+  "two_reel_reason": "",
+  "picks": [
+    {
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
+      ],
+      "sources": [
+        "https://openai.com/index/introducing-the-rosalind-academic-plan"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Research Introducing Timestral State-of-the-art probabilistic forecasts with just 209M parameters, outperforming larger models on CPU. October 15, 2026 By Mistr",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [],
+      "sources": [
+        "https://mistral.ai/news/timestral/"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase \"told investors\" appears four times in this FT article, which reports on Anthropic's day of hosting investo"
+      ],
+      "sources": [
+        "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/"
+      ],
+      "verify": []
+    }
+  ],
+  "sections": {
+    "Model launches & updates": [
+      {
+        "title": "Research Introducing Timestral State-of-the-art probabilistic forecasts with just 209M parameters, outperforming larger models on CPU. October 15, 2026 By Mistr",
+        "one_line": "",
+        "url": "https://mistral.ai/news/timestral/",
+        "source": "Mistral",
+        "importance": 5
+      }
+    ],
+    "Apps & tools": [
+      {
+        "title": "Bringing GPT-Rosalind to academic research labs",
+        "one_line": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+        "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+        "one_line": "228 points, 182 comments on Hacker News",
+        "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "More on Anthropic's Scion ripping off Mononoke",
+        "one_line": "221 points, 70 comments on Hacker News",
+        "url": "https://sunshowers.io/posts/anthropic-mononoke-2/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Meta launches an open-weight AI model that runs on Macs",
+        "one_line": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+        "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+        "one_line": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+        "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+        "one_line": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to sm",
+        "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Figma announces new features to define how agents work on its platform",
+        "one_line": "Figma is also releasing its code layers feature in open beta.",
+        "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "ChatGPT can peek at your Chrome tabs now",
+        "one_line": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already hav",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "Muse Spark Open is Meta's answer to Qwen, GLM, and Kimi in the open-weight race",
+        "one_line": "Meta's Muse Spark Open is a new open-weight model with 816 billion parameters that processes text, images, video, and audio with up to one million tokens of con",
+        "url": "https://the-decoder.com/muse-spark-open-is-metas-answer-to-qwen-glm-and-kimi-in-the-open-weight-race/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Google wants Gemini 4 Argon to be the only AI model robots need",
+        "one_line": "Google's Gemini 4 Argon controls robots, generates simulations from photos or sketches, and evaluates training videos. On Google's own ERQA benchmark, it scores",
+        "url": "https://the-decoder.com/google-wants-gemini-4-argon-to-be-the-only-ai-model-robots-need/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Bank of America puts 4,000 people on fixing vulnerabilities uncovered by Anthropic's Mythos and other AI models",
+        "one_line": "Bank of America has hired 1,000 outside contractors to fix software vulnerabilities uncovered by AI models like Anthropic's Mythos, CNBC reports. The article Ba",
+        "url": "https://the-decoder.com/bank-of-america-puts-4000-people-on-fixing-vulnerabilities-uncovered-by-anthropics-mythos-and-other-ai-models/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "GPT-6-Astra solves 49 of 50 physics research problems at $2.40 apiece",
+        "one_line": "On the TheoPhysEval benchmark, GPT-6-Astra solves 49 of 50 unpublished theoretical physics calculations as accurately as leading specialists. In some cases wher",
+        "url": "https://the-decoder.com/gpt-6-astra-solves-49-of-50-physics-research-problems-at-2-40-apiece/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Introducing Muse Spark Open: the most capable US open-weight model to date",
+        "one_line": "Hey r/LocalLlama - Today we’re excited to release Muse Spark Open, the most capable US open-weight model to date. Built for coding and agentic work, it excels a",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6r9pz/introducing_muse_spark_open_the_most_capable_us/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Ternary Bonsai 2 (2B, 4B, and 9B) just released on Hugging Face. The 2B can run entirely locally in the browser at up to 500 tok/s on an M4 Max with custom WebGPU kernels.",
+        "one_line": "Models on HF: https://huggingface.co/collections/prism-ml/bonsai-2-small WebGPU demo: https://huggingface.co/spaces/webml-community/ternary-bonsai-2-hermes-webg",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6w658/ternary_bonsai_2_2b_4b_and_9b_just_released_on/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "**DeepSeek-V4-Flash-0731 on 4x Radeon AI PRO R9700 with affinity: the \"refused\" 4-card config works, ~79 tok/s on real cards**",
+        "one_line": "Follow-up to u/neuromacmd 's post from a few weeks back ( https://www.reddit.com/r/LocalLLaMA/comments/1wod07t/ ). The affinity engine ( https://codeberg.org/St",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x70e5r/deepseekv4flash0731_on_4x_radeon_ai_pro_r9700/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Add Nemotron Super 3.5 VL and Nemotron Bolt 74B A9B support by frozenblade1224 · Pull Request #30520 · ggml-org/llama.cpp",
+        "one_line": "day 0 support for two new Nemotrons minutes later new Nemotron 3.5 Super VL was released: https://huggingface.co/unsloth/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6mlby/add_nemotron_super_35_vl_and_nemotron_bolt_74b/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Ternary Bonsai 2 Family: 2B, 4B, & 9B based on Qwen 3.5",
+        "one_line": "Going to try these out to see if they have the same looping behaviors that other Bonsai models have had. Still requires their fork of llama.cpp (branch prism) s",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6yk1f/ternary_bonsai_2_family_2b_4b_9b_based_on_qwen_35/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Google’s Universal Cart shopping tool launches in the US",
+        "one_line": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+        "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+        "source": "TechCrunch AI",
+        "importance": 3
+      },
+      {
+        "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+        "one_line": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscali",
+        "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+        "source": "The Verge AI",
+        "importance": 3
+      },
+      {
+        "title": "NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model",
+        "one_line": "NVIDIA released Nemotron 3.5 Super VL, an open 120B-parameter multimodal MoE model with 12B active parameters, 1M-token context and NVFP4 weights that run on 1 ",
+        "url": "https://www.marktechpost.com/2026/10/15/nvidia-nemotron-3-5-super-vl-release/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "CopilotKit Releases CLiF: A Continual Learning Platform That Turns Agent Traces and User Actions into Skills, Evals, and Fine-Tuning Data",
+        "one_line": "Introduction Teams shipping AI agents at scale keep running into the same pattern. Even agents built on top-tier models like Fable and Astra struggle to carry o",
+        "url": "https://www.marktechpost.com/2026/10/15/copilotkit-releases-clif-a-continual-learning-platform-that-turns-agent-traces-and-user-actions-into-skills-evals-and-fine-tuning-data/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "openKylin Outlines Its Vision for Reimagining Linux in the AI Era at Open Source Summit Europe 2026",
+        "one_line": "At Open Source Summit Europe 2026, openKylin outlined its vision for transitioning from resource management to intent management in the AI era. The community in",
+        "url": "https://www.marktechpost.com/2026/10/15/openkylin-outlines-its-vision-for-reimagining-linux-in-the-ai-era-at-open-source-summit-europe-2026/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "TypeSafe AI Releases Jev 1.14 With Images, Box Type and 262k Context",
+        "one_line": "TypeSafe AI released Jev 1.14 under the jev-preview alias. The System One model adds experimental image input, a Box bounding-box type and an opt-in 262k-token ",
+        "url": "https://www.marktechpost.com/2026/10/14/typesafe-ai-jev-1-14-images-box-long-context/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "Meet Grok Voice 3.0: SpaceXAI Voice Agent Model Ranks #1 on Artificial Analysis",
+        "one_line": "SpaceXAI just released Grok Voice 3.0. Grok Voice 3.0 is a SpaceXAI speech-to-speech model that listens, reasons, calls tools and speaks. It now ranks first on ",
+        "url": "https://www.marktechpost.com/2026/10/14/meet-grok-voice-3-0-spacexai-voice-agent-model-ranks-1-on-artificial-analysis/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "Teaching students to think and learn through questions",
+        "one_line": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+        "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+        "source": "OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+        "one_line": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+        "url": "https://openai.com/index/sullivan-cromwell",
+        "source": "OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "Oct 15, 2026 Announcements An update on independent evaluators",
+        "one_line": "",
+        "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+        "source": "Anthropic",
+        "importance": 3
+      },
+      {
+        "title": "TIME has named Google SynthID one of the Best Inventions of 2026.",
+        "one_line": "TIME named Google SynthID a Best Invention of 2026 for its groundbreaking approach to AI watermarking and verification.",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/",
+        "source": "Google DeepMind",
+        "importance": 3
+      },
+      {
+        "title": "Evaluating AI agents: moving past the vibe check",
+        "one_line": "A practical engineering guide and reference architecture for establishing continuous evaluation pipelines for multi-turn AI agents using Gemini Enterprise Agent",
+        "url": "https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/",
+        "source": "Google Developers",
+        "importance": 2
+      },
+      {
+        "title": "Why We're Banning AI",
+        "one_line": "218 points, 176 comments on Hacker News",
+        "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "AI was great until it was not",
+        "one_line": "117 points, 77 comments on Hacker News",
+        "url": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Using AI to reverse engineer hardware",
+        "one_line": "101 points, 107 comments on Hacker News",
+        "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Market selloff, rising rates test AI data centre deal boom",
+        "one_line": "68 points, 78 comments on Hacker News",
+        "url": "https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B model family released (base, NVFP4, BF16, and LiLiCorr speculative decoding)",
+        "one_line": "submitted by /u/jinnyjuice [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6nl8m/nvidianvidianemotron35supervl120ba12b_model/",
+        "source": "r/LocalLLaMA",
+        "importance": 2
+      }
+    ],
+    "Benchmarks & leaderboards": [],
+    "Research worth explaining": [
+      {
+        "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+        "one_line": "",
+        "url": "https://huggingface.co/blog/meta-muse-spark-open",
+        "source": "Hugging Face blog",
+        "importance": 2
+      },
+      {
+        "title": "Trending on Hugging Face: openbmb/MiniCPM-V-4.7-1B",
+        "one_line": "360 likes, pipeline: image-text-to-text",
+        "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-1B",
+        "source": "Hugging Face trending",
+        "importance": 2
+      },
+      {
+        "title": "Trending on Hugging Face: speridlabs/iris-3b",
+        "one_line": "285 likes, pipeline: text-to-image",
+        "url": "https://huggingface.co/speridlabs/iris-3b",
+        "source": "Hugging Face trending",
+        "importance": 2
+      }
+    ],
+    "Business & industry": [
+      {
+        "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+        "one_line": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase \"told investors\" appears four times in this FT article, which repor",
+        "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+        "source": "Simon Willison",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic's Q3 revenue hits $16.8B but growth slows ahead of planned November IPO",
+        "one_line": "Anthropic hit $16.8 billion in third-quarter revenue, a 45 percent gain that still falls far short of Q2's 140 percent surge. With a November IPO approaching, s",
+        "url": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/",
+        "source": "The Decoder",
+        "importance": 4
+      }
+    ]
+  }
+}
