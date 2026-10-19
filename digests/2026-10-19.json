@@ -1,0 +1,330 @@
+{
+  "summary": "38 new items collected. Ranked by keywords because Gemini was not available.",
+  "two_reel_day": false,
+  "two_reel_reason": "",
+  "picks": [
+    {
+      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "540 points, 257 comments on Hacker News"
+      ],
+      "sources": [
+        "https://api-docs.deepseek.com/guides/search/"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "155 points, 162 comments on Hacker News"
+      ],
+      "sources": [
+        "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model"
+      ],
+      "verify": []
+    },
+    {
+      "title": "How employment is changing at Anthropic",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "107 points, 190 comments on Hacker News"
+      ],
+      "sources": [
+        "https://www.anthropic.com/research/employment-at-anthropic"
+      ],
+      "verify": []
+    }
+  ],
+  "sections": {
+    "Model launches & updates": [],
+    "Apps & tools": [
+      {
+        "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+        "one_line": "540 points, 257 comments on Hacker News",
+        "url": "https://api-docs.deepseek.com/guides/search/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+        "one_line": "155 points, 162 comments on Hacker News",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "How employment is changing at Anthropic",
+        "one_line": "107 points, 190 comments on Hacker News",
+        "url": "https://www.anthropic.com/research/employment-at-anthropic",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+        "one_line": "Anthropic said that it will commit 5% of its shares to the fund.",
+        "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+        "one_line": "Anthropic is hiring fewer and fewer junior staff in technical roles. The share of junior positions among new hires dropped from 27 to 9 percent since early 2025",
+        "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Four Gemini 4 Argon agents beat Minecraft without any human help",
+        "one_line": "Four AI agents running on Google's Gemini 4 Argon have beaten Minecraft for the first time without human help, slaying the Ender Dragon in a fully autonomous ru",
+        "url": "https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic consults law firms to set fair negotiation norms before AI agents start cutting deals",
+        "one_line": "Anthropic is consulting with law firms to develop negotiation norms for AI agents that would haggle over prices, resolve complaints, or improve contracts on beh",
+        "url": "https://the-decoder.com/anthropic-consults-law-firms-to-set-fair-negotiation-norms-before-ai-agents-start-cutting-deals/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "DeepSeek v4.1 Flash 1017 for Dwarfstar (ds4)",
+        "one_line": "Hey y'all, just following up on my PR to get the new vision tower for 1017 working in ds4 with the quant I promised (the language model loads already, but visio",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8tr2c/deepseek_v41_flash_1017_for_dwarfstar_ds4/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "What are the odds Qwen 4 models are going to think less?",
+        "one_line": "Qwen4s are hopefully coming pre-Xmas… there was all the announcements recently but no exact release date. I’m running qwen flash next 3.8 at about 28tokens per ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8uqig/what_are_the_odds_qwen_4_models_are_going_to/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Ling 3.1 Flash (560B MoE) loaded across 4 DGX Sparks using llama.cpp RPC",
+        "one_line": "sudoing posted that he's loaded Ling 3.1 Flash across four DGX Sparks. It's a 560B MoE with 25B active parameters per token. He'd enjoyed the earlier Ling model",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8v7cp/ling_31_flash_560b_moe_loaded_across_4_dgx_sparks/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "We all joke about our rigs being space heaters, so I had Qwen vibecode it",
+        "one_line": "With winter coming up where I'm at, I wanted to see if this could actually work. Running my 4x V620 server flat out made my apartment too hot anyway, so the pro",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8v97a/we_all_joke_about_our_rigs_being_space_heaters_so/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "DeepSeek V4.1 Flash 1017 on 2x DGX Spark: 57 tok/s text, 92 tok/s code with TensorFold (2.1-2.3x the vLLM kit)",
+        "one_line": "**TL;DR:** DeepSeek-V4.1-Flash-1017 (EXL3 2.9bpw, 1M context) on 2x DGX Spark, TP=2 over the CX7 cable. TensorFold is 2.1-2.3x faster than the vLLM kit on the s",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8q6t6/deepseek_v41_flash_1017_on_2x_dgx_spark_57_toks/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Google Open-Sources Harness2, a Recursive Agent Harnessing Framework",
+        "one_line": "Google Research released Harness2, an Apache-2.0 framework that rewrites an agent's harness at test time. One refinement step lifted GLM-5 by 11.5 points on Wor",
+        "url": "https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "Oct 18, 2026 Announcements Investing in the public benefit",
+        "one_line": "",
+        "url": "https://www.anthropic.com/news/public-benefit-fund",
+        "source": "Anthropic",
+        "importance": 3
+      },
+      {
+        "title": "llm-tools-datasette 0.1.1",
+        "one_line": "Release: llm-tools-datasette 0.1.1 When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly d",
+        "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+        "source": "Simon Willison",
+        "importance": 2
+      },
+      {
+        "title": "llm-echo 0.5",
+        "one_line": "Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" whic",
+        "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+        "source": "Simon Willison",
+        "importance": 2
+      },
+      {
+        "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+        "one_line": "241 points, 85 comments on Hacker News",
+        "url": "https://sphinx-six-theta.vercel.app/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+        "one_line": "181 points, 109 comments on Hacker News",
+        "url": "https://arxiv.org/abs/2610.18861",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+        "one_line": "78 points, 97 comments on Hacker News",
+        "url": "https://www.vals.ai/blogs/impossible-refund",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+        "one_line": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so",
+        "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "Two German courts now hold Google liable for what its AI overviews say",
+        "one_line": "Google tried to overturn a landmark Munich ruling on AI search liability by appealing, then quietly settled. The strategy isn't working. The Aachen Regional Cou",
+        "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/",
+        "source": "The Decoder",
+        "importance": 2
+      },
+      {
+        "title": "AI agents have bad taste in long-term decisions and a new benchmark proves it",
+        "one_line": "A new benchmark called Taste-Bench tests how well AI agents make strategic choices during long-running tasks. Even the best model, GPT-5.6 Sol, picks the right ",
+        "url": "https://the-decoder.com/ai-agents-have-bad-taste-in-long-term-decisions-and-a-new-benchmark-proves-it/",
+        "source": "The Decoder",
+        "importance": 2
+      },
+      {
+        "title": "AI agents chasing a $465 train refund invented excuses, leaked medical data, and spammed an MP's office",
+        "one_line": "Six AI agents were tasked with recovering £350 (about $465) for a canceled train ticket in an experiment. They resorted to invented excuses, lawsuit threats, an",
+        "url": "https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office/",
+        "source": "The Decoder",
+        "importance": 2
+      },
+      {
+        "title": "Inline rendering with document​.currentScript",
+        "one_line": "Inline rendering with document​.currentScript Lean Rada describes a neat trick that takes advantage of the document.currentScript property. You can use that to ",
+        "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
+        "source": "Simon Willison",
+        "importance": 1
+      },
+      {
+        "title": "You don’t need that expensive of a build for local llms.",
+        "one_line": "Been seeing a lot of people with their 64gb of ddr5 4x3090 or whatever strata builds and it’s been sorta depressing knowing i cant afford that but i finally fin",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8s73i/you_dont_need_that_expensive_of_a_build_for_local/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "Follow-up: Tested my 9 thinking rules on long-horizon agent tasks (Terminal-Bench 2.0)",
+        "one_line": "On my previous posts, people argued these thinking rules might work on short tests but would hurt long-horizon tasks. So I tested them on Terminal-Bench 2.0: sa",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8q308/followup_tested_my_9_thinking_rules_on/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "A woman was arrested in Philly for blocking a delivery robot",
+        "one_line": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin tol",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+        "source": "The Verge AI",
+        "importance": 1
+      },
+      {
+        "title": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web",
+        "one_line": "An AI agent that reads the web pays 2 kinds of cost. The first is the retrieval charge: what a search or fetch API bills per request. The second is model proces",
+        "url": "https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/",
+        "source": "MarkTechPost",
+        "importance": 1
+      },
+      {
+        "title": "Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI",
+        "one_line": "Voxel51 3.0 merges search, curation, annotation and evaluation of multimodal sensor data into one platform for physical AI teams. It adds Voxel51 Agent with 45+",
+        "url": "https://www.marktechpost.com/2026/10/17/voxel51-3-0-physical-ai-data-platform/",
+        "source": "MarkTechPost",
+        "importance": 1
+      },
+      {
+        "title": "told Qwen3.8 27b to hack my router",
+        "one_line": "i wanted to change my router firmware to openwrt and so i told claude to do it but of course the guard blocked me even opus 4.8 didn't want to do it , so i laun",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8wmbp/told_qwen38_27b_to_hack_my_router/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "AutoTrust's HF models are trending thanks to thousands of farmed likes",
+        "one_line": "Some of y'all may be familiar with AutoTrust from Hugging Face. Many of their models were trending on the front page of HF and they claimed some very impressive",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8sq4z/autotrusts_hf_models_are_trending_thanks_to/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "Nine models, five coding tasks, one 16GB GPU",
+        "one_line": "I ran five coding tasks against ten models on one RX 9060 XT (16 GB). Each run gets a single spec file in an empty directory and has to produce solution.py and ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8qlvw/nine_models_five_coding_tasks_one_16gb_gpu/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "Made sum crap that beats Jev",
+        "one_line": "I would love for some feedback, live demo at: huggingface.co/spaces/e12ex2/herbert-demo Not self promo, jus looking for some feedback on what to improve or any ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8vl4i/made_sum_crap_that_beats_jev/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "Muse Spark on M3U 256 GB",
+        "one_line": "Instead of counting 'hmm' on DeepSeek v4.1 Flash 1017, I today clamped Muse Spark Open 816B-A42B to ds4. This was the first successful run, FTW, that made it to",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8qvaj/muse_spark_on_m3u_256_gb/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "My 5070 ti/3070 Chimera build.",
+        "one_line": "Got lucky with a 5070 Ti for $750 AFTER TAX (might be the best decision I've ever made tbh) back in November 2025. If only I had known I'd be getting into local",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8u6eg/my_5070_ti3070_chimera_build/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "3xrtx8000 48gb... what to do?",
+        "one_line": "I accidentaly bought 3 rtx8000 48gb (yeah, i swear). I am using 1 right now with Strata and Qwen Next IQ3 and runs very good. Should I put 3 on a PC and runb St",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8st56/3xrtx8000_48gb_what_to_do/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "How to Make Zero-Training Tabular Predictions with NVIDIA Structured Data Models",
+        "one_line": "In this tutorial, we implement Structured Data Models, NVIDIA’s new library that puts several pretrained foundation models for tables behind one PyTorch interfa",
+        "url": "https://www.marktechpost.com/2026/10/17/how-to-make-zero-training-tabular-predictions-with-nvidia-structured-data-models/",
+        "source": "MarkTechPost",
+        "importance": 1
+      }
+    ],
+    "Benchmarks & leaderboards": [],
+    "Research worth explaining": [
+      {
+        "title": "Trending on Hugging Face: OpenMOSS-Team/MOSS-Image-SFT",
+        "one_line": "340 likes, pipeline: text-to-image",
+        "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
+        "source": "Hugging Face trending",
+        "importance": 2
+      }
+    ],
+    "Business & industry": []
+  }
+}
