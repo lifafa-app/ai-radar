@@ -1,0 +1,343 @@
+{
+  "summary": "130 new items collected. Ranked by keywords because Gemini was not available.",
+  "two_reel_day": false,
+  "two_reel_reason": "",
+  "picks": [
+    {
+      "title": "Deepseek open-sources the inference engine that powers its fastest and cheapest AI model",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "Deepseek is open-sourcing DeepInfer, the inference framework behind its fast V4.1-Flash model. The vLLM-based system cuts compute costs and energy use when running AI models. The release adds more pri"
+      ],
+      "sources": [
+        "https://the-decoder.com/deepseek-open-sources-the-inference-engine-that-powers-its-fastest-and-cheapest-ai-model/"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Mistral AI launches Voxtral 3, a full voice agent stack that listens, thinks, and talks in real time",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "Mistral AI launched Voxtral 3, a new family of language models built for real-time voice agents. The system combines speech-to-text, text-to-speech, and a voice agent SDK, supports more than 50 langua"
+      ],
+      "sources": [
+        "https://the-decoder.com/mistral-ai-launches-voxtral-3-a-full-voice-agent-stack-that-listens-thinks-and-talks-in-real-time/"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow."
+      ],
+      "sources": [
+        "https://openai.com/index/ted-taylor-restaurant"
+      ],
+      "verify": []
+    }
+  ],
+  "sections": {
+    "Model launches & updates": [],
+    "Apps & tools": [
+      {
+        "title": "Deepseek open-sources the inference engine that powers its fastest and cheapest AI model",
+        "one_line": "Deepseek is open-sourcing DeepInfer, the inference framework behind its fast V4.1-Flash model. The vLLM-based system cuts compute costs and energy use when runn",
+        "url": "https://the-decoder.com/deepseek-open-sources-the-inference-engine-that-powers-its-fastest-and-cheapest-ai-model/",
+        "source": "The Decoder",
+        "importance": 5
+      },
+      {
+        "title": "Mistral AI launches Voxtral 3, a full voice agent stack that listens, thinks, and talks in real time",
+        "one_line": "Mistral AI launched Voxtral 3, a new family of language models built for real-time voice agents. The system combines speech-to-text, text-to-speech, and a voice",
+        "url": "https://the-decoder.com/mistral-ai-launches-voxtral-3-a-full-voice-agent-stack-that-listens-thinks-and-talks-in-real-time/",
+        "source": "The Decoder",
+        "importance": 5
+      },
+      {
+        "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+        "one_line": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+        "url": "https://openai.com/index/ted-taylor-restaurant",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+        "one_line": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+        "url": "https://openai.com/index/terminal-x",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "OpenAI acquires Orchestra Bio",
+        "one_line": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treat",
+        "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "Research Voxtral 3 Build agents that can listen, reason, speak, and act, with Voxtral 3. October 20, 2026 By Mistral",
+        "one_line": "",
+        "url": "https://mistral.ai/news/voxtral-3/",
+        "source": "Mistral",
+        "importance": 5
+      },
+      {
+        "title": "Product · Oct 20, 2026 Using Grok Bot to detect and respond to incidents",
+        "one_line": "",
+        "url": "https://x.ai/news/incident-sweep",
+        "source": "xAI",
+        "importance": 5
+      },
+      {
+        "title": "Deepseek released DeepInfer - Open Source high-performance, large-scale inference framework for DeepSeek models!",
+        "one_line": "This is crazy good for studying to improve existing custom engines by community like gufo, halogen, strixite, Strata... by learning their secret sauces. submitt",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xanm55/deepseek_released_deepinfer_open_source/",
+        "source": "r/LocalLLaMA",
+        "importance": 5
+      },
+      {
+        "title": "DeepSeek Open-Sources DeepInfer, the Inference Framework Behind DeepSeek-V4.1-Flash",
+        "one_line": "DeepSeek has open-sourced DeepInfer, the Apache 2.0 inference framework that serves DeepSeek-V4.1-Flash in production. It targets NVIDIA SM100 GPUs and Huawei A",
+        "url": "https://www.marktechpost.com/2026/10/20/deepseek-deepinfer-open-source-inference-framework/",
+        "source": "MarkTechPost",
+        "importance": 5
+      },
+      {
+        "title": "Announcing New vLLM and SGLang Inference Engines on TPU",
+        "one_line": "This post announces native PyTorch backends for vLLM and SGLang powered by TorchTPU, enabling developers to run and optimize serving workloads using familiar Py",
+        "url": "https://developers.googleblog.com/announcing-new-vllm-and-sglang-inference-engines-on-tpu/",
+        "source": "Google Developers",
+        "importance": 4
+      },
+      {
+        "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+        "one_line": "2130 points, 829 comments on Hacker News",
+        "url": "https://github.com/deepseek-ai/DeepInfer",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic logged net loss of over $80B in first half of 2026",
+        "one_line": "104 points, 51 comments on Hacker News",
+        "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Claude designed protein binders against scorpion neurotoxins",
+        "one_line": "89 points, 63 comments on Hacker News",
+        "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
+        "one_line": "54 points, 6 comments on Hacker News",
+        "url": "https://github.com/AbdullahAlhariri/penmentor",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+        "one_line": "44 points, 16 comments on Hacker News",
+        "url": "https://news.ycombinator.com/item?id=50167583",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+        "one_line": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission ",
+        "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+        "one_line": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doo",
+        "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic’s cloud partnerships are getting messy",
+        "one_line": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending ",
+        "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+        "one_line": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool",
+        "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "ChatGPT now lets you lock your chats",
+        "one_line": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those convers",
+        "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+        "one_line": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+        "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+        "one_line": "The U.S. has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concern",
+        "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Elevenlabs releases two new speech-to-speech models designed for real-time AI conversations",
+        "one_line": "Elevenlabs' new Eleven Realtime speech-to-speech models combine speed and accuracy. The v1 Max variant scores 98.8 percent on the Big Bench Audio benchmark with",
+        "url": "https://the-decoder.com/elevenlabs-releases-two-new-speech-to-speech-models-designed-for-real-time-ai-conversations/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI says GPT-6 is much better with legacy programming languages such as COBOL and Fortran",
+        "one_line": "OpenAI improved its latest models for low-resource programming languages like COBOL, Fortran, and Visual Basic. On the new MultiLangBench, GPT-6 Astra hits an 8",
+        "url": "https://the-decoder.com/openai-says-gpt-6-is-much-better-with-legacy-programming-languages-such-as-cobol-and-fortran/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "US bans Deepseek technology across federal civilian agencies",
+        "one_line": "The US Department of Homeland Security has banned federal civilian agencies from using AI technology from Chinese lab Deepseek. The article US bans Deepseek tec",
+        "url": "https://the-decoder.com/us-bans-deepseek-technology-across-federal-civilian-agencies/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Illicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve red",
+        "one_line": "",
+        "url": "https://www.anthropic.com/news/distillation-defenses",
+        "source": "Anthropic",
+        "importance": 4
+      },
+      {
+        "title": "ornith-ai/Ornith-1.5-122B (Qwen finetune)",
+        "one_line": "from Ornith: Ornith-1.5-122B Chirp Chirp! 🐦 We are introducing Ornith-1.5, a major step toward building foundation models through end-to-end self-improvement. O",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xatebw/ornithaiornith15122b_qwen_finetune/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Vals AI found DeepSeek V4.1 Flash 1017 beats GPT 6 Sol on their multi-step offensive cybersecurity task. Sol was tested via the Daybreak trusted access program.",
+        "one_line": "From Vals AI on 𝕏: https://x.com/ValsAI/status/2112471082397778083 submitted by /u/Nunki08 [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xap2aq/vals_ai_found_deepseek_v41_flash_1017_beats_gpt_6/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Phonon is now open-source, 31M and 40M TTS models designed to run on the edge",
+        "one_line": "At Gradium we just made our first open-source model release with Phonon, a collection of small Text-to-Speech models designed to run on device. The inference st",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaw2vt/phonon_is_now_opensource_31m_and_40m_tts_models/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Qwen3.8-Flash-Next vs Opus 5.5: Six-way benchmark on a real Rust feature with Claude Code and Pi",
+        "one_line": "A few of you pointed out in my last post that comparing Flash-Next and Opus with different harnesses and effort levels wasn't fair. So here is a more controlled",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xatxqk/qwen38flashnext_vs_opus_55_sixway_benchmark_on_a/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Qwen 3.8 Flash Next: drastically faster and much more precise in reaching the result.",
+        "one_line": "Some time ago in this same place someone had suggested having your model create paintings through python (with programming) leaving it quite free. Doing so I ha",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xapakf/qwen_38_flash_next_drastically_faster_and_much/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Agnes-AI/Agnes-3.0-Qwen (QFN finetune)",
+        "one_line": "https://huggingface.co/bartowski/Agnes-AI_Agnes-3.0-Qwen-GGUF Strong agentic performance: agnes-3.0-qwen scores highest in its comparison set on τ³-Banking, and",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaxz80/agnesaiagnes30qwen_qfn_finetune/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Asked GPT-6 to illustrate the difference in size of a polar bear and a tiger",
+        "one_line": "submitted by /u/throwaway_anonymous7 [link] [comments]",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xak9ks/asked_gpt6_to_illustrate_the_difference_in_size/",
+        "source": "r/OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "OpenAI acquires Orchestra Bio to connect research AI with drug-development operations",
+        "one_line": "submitted by /u/ryanmerket [link] [comments]",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xazy8i/openai_acquires_orchestra_bio_to_connect_research/",
+        "source": "r/OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "open-source tool to fully understand and optimize AI usage",
+        "one_line": "I’m a senior SWE using AI coding tools daily. I analyzed my transcripts and found 56% of API-equivalent costs went to rereading context . Cache expiry cost me $",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xb6kod/opensource_tool_to_fully_understand_and_optimize/",
+        "source": "r/OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "Latest CatBench shows it's time to move on to Opus 5.5",
+        "one_line": "Not only are the Opus 5.5 Max 3D model and shaders much more accurate than Astra 6 Max, the tail is naturally twitching and if you turn the model sideways, you ",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xb8wi7/latest_catbench_shows_its_time_to_move_on_to_opus/",
+        "source": "r/OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "GPT-6 Chat in Plus Stuttering Generations?",
+        "one_line": "All day yesterday and today I've noticed that GPT-6 \"stutters\" with its generations whereas when it first came out it was like BAM...here's your answer. Above i",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xahlsc/gpt6_chat_in_plus_stuttering_generations/",
+        "source": "r/OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "ChatGPT req?",
+        "one_line": "Feature Request: Collaborative Reasoning Mode for ChatGPT Proposal: An optional brainstorming mode that reduces premature rejection of ideas, improves collabora",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xb7k73/chatgpt_req/",
+        "source": "r/OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "Confused about GPT work on mac app",
+        "one_line": "https://preview.redd.it/pe7o24jrlowh1.png?width=1203&format=png&auto=webp&s=7aea6760414359dc947dc771ee7ce21bb98cb49c Hey everyone, I have a quick question that ",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xb3ae5/confused_about_gpt_work_on_mac_app/",
+        "source": "r/OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "Exa 3.0 Search API Tops Perplexity, Brave and Parallel on 8 Benchmarks",
+        "one_line": "Exa 3.0 is a search API upgrade from Exa. It adds a larger embedding model, Exa Lite at $4 per 1,000 requests, and Dynamic Highlights, and leads 8 benchmarks Ex",
+        "url": "https://www.marktechpost.com/2026/10/20/exa-3-0-search-api-lite/",
+        "source": "MarkTechPost",
+        "importance": 3
+      }
+    ],
+    "Benchmarks & leaderboards": [],
+    "Research worth explaining": [],
+    "Business & industry": []
+  }
+}
