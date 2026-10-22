@@ -1,0 +1,337 @@
+{
+  "summary": "303 new items collected. Ranked by keywords because Gemini was not available.",
+  "two_reel_day": false,
+  "two_reel_reason": "",
+  "picks": [
+    {
+      "title": "Company Mistral raises €3B to make sovereign, open-weight AI the technology frontier Mistral today announced that it has raised €3 billion in a Series D funding",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [],
+      "sources": [
+        "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Solutions Introducing Shieldstral. August 4, 2026 By Mistral",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [],
+      "sources": [
+        "https://mistral.ai/news/shieldstral/"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Research Introducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026 By Mistral",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [],
+      "sources": [
+        "https://mistral.ai/news/robostral-navigate/"
+      ],
+      "verify": []
+    }
+  ],
+  "sections": {
+    "Model launches & updates": [
+      {
+        "title": "Company Mistral raises €3B to make sovereign, open-weight AI the technology frontier Mistral today announced that it has raised €3 billion in a Series D funding",
+        "one_line": "",
+        "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+        "source": "Mistral",
+        "importance": 5
+      },
+      {
+        "title": "Solutions Introducing Shieldstral. August 4, 2026 By Mistral",
+        "one_line": "",
+        "url": "https://mistral.ai/news/shieldstral/",
+        "source": "Mistral",
+        "importance": 5
+      },
+      {
+        "title": "Research Introducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026 By Mistral",
+        "one_line": "",
+        "url": "https://mistral.ai/news/robostral-navigate/",
+        "source": "Mistral",
+        "importance": 5
+      },
+      {
+        "title": "Research Introducing Mistral OCR 4 State of the art document intelligence model. June 23, 2026 By Mistral",
+        "one_line": "",
+        "url": "https://mistral.ai/news/ocr-4/",
+        "source": "Mistral",
+        "importance": 5
+      },
+      {
+        "title": "Product Introducing Search Toolkit Production search pipelines, anywhere. May 28, 2026 By Mistral",
+        "one_line": "",
+        "url": "https://mistral.ai/news/search-toolkit/",
+        "source": "Mistral",
+        "importance": 5
+      },
+      {
+        "title": "Solutions Introducing physics AI at Mistral: the foundation for engineering acceleration. A new class of AI models that predict the behavior of physical systems",
+        "one_line": "",
+        "url": "https://mistral.ai/news/introducing-physics-ai-at-mistral/",
+        "source": "Mistral",
+        "importance": 5
+      },
+      {
+        "title": "Product Remote agents in Vibe. Powered by Mistral Medium 3.5. Introducing Mistral Medium 3.5, remote coding agents in Vibe, plus new Work mode in Le Chat for co",
+        "one_line": "",
+        "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5/",
+        "source": "Mistral",
+        "importance": 5
+      },
+      {
+        "title": "Research Introducing Mistral Small 4 March 16, 2026 By Mistral",
+        "one_line": "",
+        "url": "https://mistral.ai/news/mistral-small-4/",
+        "source": "Mistral",
+        "importance": 5
+      },
+      {
+        "title": "Research Leanstral: Open-Source foundation for trustworthy vibe-coding March 16, 2026 By Mistral",
+        "one_line": "",
+        "url": "https://mistral.ai/news/leanstral/",
+        "source": "Mistral",
+        "importance": 5
+      },
+      {
+        "title": "Research Introducing Mistral OCR 3 December 17, 2025 By Mistral",
+        "one_line": "",
+        "url": "https://mistral.ai/news/mistral-ocr-3/",
+        "source": "Mistral",
+        "importance": 5
+      },
+      {
+        "title": "Research Introducing: Devstral 2 and Mistral Vibe CLI. December 9, 2025 By Mistral",
+        "one_line": "",
+        "url": "https://mistral.ai/news/devstral-2-vibe-cli/",
+        "source": "Mistral",
+        "importance": 5
+      },
+      {
+        "title": "Research Introducing Mistral 3 December 2, 2025 By Mistral",
+        "one_line": "",
+        "url": "https://mistral.ai/news/mistral-3/",
+        "source": "Mistral",
+        "importance": 5
+      },
+      {
+        "title": "Product Introducing Mistral Studio. October 24, 2025 By Mistral",
+        "one_line": "",
+        "url": "https://mistral.ai/news/ai-studio/",
+        "source": "Mistral",
+        "importance": 5
+      },
+      {
+        "title": "Research Announcing Codestral 25.08 and the Complete Mistral Coding Stack for Enterprise July 30, 2025 By Mistral",
+        "one_line": "",
+        "url": "https://mistral.ai/news/codestral-25-08/",
+        "source": "Mistral",
+        "importance": 5
+      },
+      {
+        "title": "Solutions Announcing AI for Citizens July 3, 2025 By Mistral",
+        "one_line": "",
+        "url": "https://mistral.ai/news/ai-for-citizens/",
+        "source": "Mistral",
+        "importance": 5
+      },
+      {
+        "title": "Product Introducing Mistral Code June 4, 2025 By Mistral",
+        "one_line": "",
+        "url": "https://mistral.ai/news/mistral-code/",
+        "source": "Mistral",
+        "importance": 5
+      },
+      {
+        "title": "Product Introducing Le Chat Enterprise May 7, 2025 By Mistral",
+        "one_line": "",
+        "url": "https://mistral.ai/news/le-chat-enterprise/",
+        "source": "Mistral",
+        "importance": 5
+      },
+      {
+        "title": "Research Announcing Pixtral 12B September 17, 2024 By Mistral team",
+        "one_line": "",
+        "url": "https://mistral.ai/news/pixtral-12b/",
+        "source": "Mistral",
+        "importance": 5
+      },
+      {
+        "title": "Introducing Grok 4.7 SpaceXSI's most powerful model for coding and knowledge work. Twice as fast, at half the price of comparable models. Sep 21, 2026",
+        "one_line": "",
+        "url": "https://x.ai/news/grok-4-7",
+        "source": "xAI",
+        "importance": 5
+      },
+      {
+        "title": "Introducing Grok Voice Transcribe 2.0 Announcing SpaceXSI's newest speech-to-text model, with unparalleled accuracy and cost effectiveness. Sep 18, 2026",
+        "one_line": "",
+        "url": "https://x.ai/news/grok-voice-transcribe-2",
+        "source": "xAI",
+        "importance": 5
+      },
+      {
+        "title": "Grok Bot for Enterprise Grok Bot is now available for enterprises. Grok and Cursor Enterprise customers have free usage for the next two weeks, and can invite t",
+        "one_line": "",
+        "url": "https://x.ai/news/grok-bot-for-enterprise",
+        "source": "xAI",
+        "importance": 5
+      },
+      {
+        "title": "Grok 4.6 on Microsoft Foundry Grok 4.6 is now available via Microsoft Foundry. Aug 26, 2026",
+        "one_line": "",
+        "url": "https://x.ai/news/grok-4-6-microsoft-foundry",
+        "source": "xAI",
+        "importance": 5
+      },
+      {
+        "title": "Grok Bot is now included with more plans Grok Bot is now available for SuperGrok, Cursor Pro, and all Cursor Teams plans. Aug 26, 2026",
+        "one_line": "",
+        "url": "https://x.ai/news/grok-bot-more-plans",
+        "source": "xAI",
+        "importance": 5
+      },
+      {
+        "title": "Grok 4.6 on Gemini Enterprise Agent Platform Grok 4.6 is now available via Gemini Enterprise Agent Platform. Aug 21, 2026",
+        "one_line": "",
+        "url": "https://x.ai/news/grok-4-6-vertex-ai",
+        "source": "xAI",
+        "importance": 5
+      },
+      {
+        "title": "Grok 4.6 on Amazon Bedrock Grok 4.6 is now available via Amazon Bedrock. Aug 19, 2026",
+        "one_line": "",
+        "url": "https://x.ai/news/grok-4-6-amazon-bedrock",
+        "source": "xAI",
+        "importance": 5
+      },
+      {
+        "title": "Grok Build on web and mobile Grok Build is now available on every plan, on the web and on mobile. Aug 19, 2026",
+        "one_line": "",
+        "url": "https://x.ai/news/grok-build-for-everyone",
+        "source": "xAI",
+        "importance": 5
+      },
+      {
+        "title": "Grok 4.6 in GitHub Copilot Grok 4.6, our latest coding model, is now available in GitHub Copilot. Aug 14, 2026",
+        "one_line": "",
+        "url": "https://x.ai/news/grok-4-6-github-copilot",
+        "source": "xAI",
+        "importance": 5
+      },
+      {
+        "title": "Introducing Grok 4.6 Grok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work. Aug 12, 2026",
+        "one_line": "",
+        "url": "https://x.ai/news/grok-4-6",
+        "source": "xAI",
+        "importance": 5
+      },
+      {
+        "title": "Introducing Grok Bot Grok Bot is your team of always-on agents. They have their own computer, work inside tools and apps like you do, and keep working 24/7. Aug",
+        "one_line": "",
+        "url": "https://x.ai/news/introducing-grok-bot",
+        "source": "xAI",
+        "importance": 5
+      },
+      {
+        "title": "Introducing Grok Voice 2.0 Introducing our most capable speech-to-speech voice model. Jul 29, 2026",
+        "one_line": "",
+        "url": "https://x.ai/news/grok-voice-think-fast-2",
+        "source": "xAI",
+        "importance": 5
+      },
+      {
+        "title": "Introducing Build Mode Create and share websites, apps, games, and interactive dashboards. Now in Early Beta for SuperGrok Heavy subscribers on grok.com, iOS, a",
+        "one_line": "",
+        "url": "https://x.ai/news/grok-build-mode",
+        "source": "xAI",
+        "importance": 5
+      },
+      {
+        "title": "Grok 4.5 in GitHub Copilot Grok 4.5, our smartest coding model, is now available in GitHub Copilot. Jul 28, 2026",
+        "one_line": "",
+        "url": "https://x.ai/news/grok-github-copilot",
+        "source": "xAI",
+        "importance": 5
+      },
+      {
+        "title": "Introducing Grok for Outlook Use the Grok add-in for Microsoft Outlook to summarize long email threads, draft replies in your voice, and keep your inbox organiz",
+        "one_line": "",
+        "url": "https://x.ai/news/introducing-outlook-addin",
+        "source": "xAI",
+        "importance": 5
+      },
+      {
+        "title": "Introducing Grok for Excel Use the Grok add-in for Microsoft Excel to ask questions in plain English, write formulas, and run scenarios without leaving the work",
+        "one_line": "",
+        "url": "https://x.ai/news/introducing-excel-addin",
+        "source": "xAI",
+        "importance": 5
+      },
+      {
+        "title": "Introducing Grok 4.5 Grok 4.5 is SpaceXSI's smartest model built for coding, agentic tasks, and knowledge work. Jul 16, 2026",
+        "one_line": "",
+        "url": "https://x.ai/news/grok-4-5",
+        "source": "xAI",
+        "importance": 5
+      },
+      {
+        "title": "Grok Build is Now Open Source Explore the harness behind our coding agent and TUI. Jul 15, 2026",
+        "one_line": "",
+        "url": "https://x.ai/news/grok-build-open-source",
+        "source": "xAI",
+        "importance": 5
+      },
+      {
+        "title": "Introducing /goal Use /goal for long-running autonomous task execution in Grok Build. Jun 22, 2026",
+        "one_line": "",
+        "url": "https://x.ai/news/introducing-goal",
+        "source": "xAI",
+        "importance": 5
+      },
+      {
+        "title": "Grok on Databricks Grok models are now available on Databricks Agent Bricks. Jun 18, 2026",
+        "one_line": "",
+        "url": "https://x.ai/news/grok-databricks",
+        "source": "xAI",
+        "importance": 5
+      },
+      {
+        "title": "Introducing Grok for Word Use the Grok add-in for Microsoft Word to turn notes into documents, style and format your work, or bring research from the web into W",
+        "one_line": "",
+        "url": "https://x.ai/news/introducing-word-addin",
+        "source": "xAI",
+        "importance": 5
+      },
+      {
+        "title": "Grok on Amazon Bedrock Grok models are now available via Amazon Bedrock. Jun 17, 2026",
+        "one_line": "",
+        "url": "https://x.ai/news/grok-amazon-bedrock",
+        "source": "xAI",
+        "importance": 5
+      }
+    ],
+    "Apps & tools": [],
+    "Benchmarks & leaderboards": [],
+    "Research worth explaining": [],
+    "Business & industry": []
+  }
+}
