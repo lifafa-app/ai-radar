@@ -1,0 +1,346 @@
+{
+  "summary": "105 new items collected. Ranked by keywords because Gemini was not available.",
+  "two_reel_day": false,
+  "two_reel_reason": "",
+  "picks": [
+    {
+      "title": "What FDE means at OpenAI",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "What forward deployed engineering means at OpenAI"
+      ],
+      "sources": [
+        "https://openai.com/index/forward-deployed-engineering-means"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows."
+      ],
+      "sources": [
+        "https://openai.com/index/uber-chatgpt-work-rollout"
+      ],
+      "verify": []
+    },
+    {
+      "title": "DeepSeek and MiniMax Clear China’s AI Export Rules for Overseas Open-Source Releases",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "On October 22, Chinese media reported that DeepSeek and MiniMax have officially completed the required registration filings under China’s new temporary AI export regulations. By submitting their techn"
+      ],
+      "sources": [
+        "https://www.reddit.com/r/LocalLLaMA/comments/1xcoelw/deepseek_and_minimax_clear_chinas_ai_export_rules/"
+      ],
+      "verify": []
+    }
+  ],
+  "sections": {
+    "Model launches & updates": [
+      {
+        "title": "Company · Oct 22, 2026 Introducing the SpaceX Super Intelligence Partner Network",
+        "one_line": "",
+        "url": "https://x.ai/news/partnernetworkannouncement",
+        "source": "xAI",
+        "importance": 5
+      }
+    ],
+    "Apps & tools": [
+      {
+        "title": "What FDE means at OpenAI",
+        "one_line": "What forward deployed engineering means at OpenAI",
+        "url": "https://openai.com/index/forward-deployed-engineering-means",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+        "one_line": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+        "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "DeepSeek and MiniMax Clear China’s AI Export Rules for Overseas Open-Source Releases",
+        "one_line": "On October 22, Chinese media reported that DeepSeek and MiniMax have officially completed the required registration filings under China’s new temporary AI expor",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcoelw/deepseek_and_minimax_clear_chinas_ai_export_rules/",
+        "source": "r/LocalLLaMA",
+        "importance": 5
+      },
+      {
+        "title": "OpenAI CLI",
+        "one_line": "230 points, 109 comments on Hacker News",
+        "url": "https://github.com/openai/openai-cli",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Claude Now Works with Google Docs, Sheets, and Slides",
+        "one_line": "85 points, 11 comments on Hacker News",
+        "url": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+        "one_line": "55 points, 62 comments on Hacker News",
+        "url": "https://news.ycombinator.com/item?id=50200997",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+        "one_line": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+        "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+        "one_line": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+        "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Uber puts all 30,000 employees on ChatGPT Work",
+        "one_line": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
+        "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Claude Duet app is Anthropic’s bet on agents",
+        "one_line": "Claude Duet is available through waitlist for Pro and Max plan users.",
+        "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+        "one_line": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclo",
+        "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "Google's Agent Compute Engine gives every Gemini agent its own hardware-isolated micro virtual machine",
+        "one_line": "With Agent Compute Engine, Google is introducing a runtime environment designed specifically for AI agents, while also expanding the governance capabilities tha",
+        "url": "https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "An AI agent in \"Skynet mode\" hijacks unprotected language models to launch self-sustaining cyberattacks",
+        "one_line": "Security researchers at Symantec have found an offensive AI agent that hijacks unprotected language models on the web and uses them to attack servers, steal dat",
+        "url": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI agents analyze mouse brain data in 32 minutes, a job that would take humans months",
+        "one_line": "OpenAI teamed up with PerturbAI and Scripps Research to deploy thousands of AI agents that analyzed biological data from millions of mouse cells. The article Op",
+        "url": "https://the-decoder.com/openai-agents-analyze-mouse-brain-data-in-32-minutes-a-job-that-would-take-humans-months/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic takes on Grok Bot, Meta's Muse, and OpenAI's Dots with its always-on agent \"Claude Duet\"",
+        "one_line": "Anthropic has launched Claude Duet, a proactive AI agent that handles tasks on its own, even when the user is offline. The app is built on Claude Opus 5.5 and c",
+        "url": "https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platfo",
+        "one_line": "",
+        "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+        "source": "Anthropic",
+        "importance": 4
+      },
+      {
+        "title": "Open source LLM appreciation post",
+        "one_line": "I just downloaded Raon-1-mini 30B A4B as well as Flint 40B A2.5B and it just blows my mind that we have so many options now from so many countries. It feels lik",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xc5qac/open_source_llm_appreciation_post/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Llama.cpp PR: How to beat strata decode performance with a R9700",
+        "one_line": "submitted by /u/keyboardhack [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcf8kb/llamacpp_pr_how_to_beat_strata_decode_performance/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Carbon-X: the best open DNA language model runs locally with llama.cpp",
+        "one_line": "Hi everyone, we just released Carbon-X, a 14B model that brings DNA and natural language together for the first time 🧬 On five DNA benchmarks it beats every ope",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcew36/carbonx_the_best_open_dna_language_model_runs/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "I have an answer! Qwen Flash Next IQ2 IS better than Q8 of 27B (for me).",
+        "one_line": "I asked a while ago if it would be worth it to try and run qwen flash next at q2 since I can only really fit it and nothing bigger, but I can run Q8 of 27B. Eve",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xc7n0n/i_have_an_answer_qwen_flash_next_iq2_is_better/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "What's your favorite medium to large (~50-150b params) MOE model? Aside from Qwen flash next.",
+        "one_line": "I recently got some more RAM on my desktop, which has opened up running larger MOEs by splitting them into RAM/VRAM. I know everyone loves Qwen flash next, but ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xc84ht/whats_your_favorite_medium_to_large_50150b_params/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Massive B70 spec-decoding improvement - Intel XMX matrix engines refactored by budiony · Pull Request #29864 · ggml-org/llama.cpp",
+        "one_line": "This made a huge improvement to speculate decoding speeds on my B70 running SYCL. Below examples are for Muse Glimmer Q6_K (30B) running with DFlash2. NOTE: Due",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcqb3p/massive_b70_specdecoding_improvement_intel_xmx/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Canva releases its first image generation model",
+        "one_line": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+        "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+        "source": "TechCrunch AI",
+        "importance": 3
+      },
+      {
+        "title": "Liquid AI Launches RIPL, a Real-Time Inference Engine for Sub-50 ms LFMs",
+        "one_line": "Liquid AI released RIPL, a real-time inference engine for its LFM models. On one B200, LFM2.5-1.2B on RIPL showed 14.4 to 28.4x lower p95 latency than Qwen3.5-0",
+        "url": "https://www.marktechpost.com/2026/10/22/liquid-ai-ripl-real-time-inference-engine/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "Gradium Open-Sources Phonon, a 31M-Parameter On-Device TTS Model Under Apache 2.0",
+        "one_line": "Gradium has open-sourced Phonon, a family of on-device text-to-speech models. The English Phonon 31m ships under Apache 2.0, fits in 64.5 MB, and starts speakin",
+        "url": "https://www.marktechpost.com/2026/10/22/gradium-phonon-31m-on-device-tts/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "IBM AI Releases Granite Speech 5.0 2B for Multilingual Transcription and Translation",
+        "one_line": "IBM released Granite Speech 5.0 2B, an Apache 2.0 speech recognition and translation model. It ranks #2 on the Open ASR Leaderboard with 5.68% average English W",
+        "url": "https://www.marktechpost.com/2026/10/22/ibm-granite-speech-5-0-2b-release/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "Perplexity and NVIDIA Researchers Introduce JOLT: a Joint Teacher-Student Reinforcement Learning Method",
+        "one_line": "Perplexity and NVIDIA introduced JOLT, a post-training method that trains one model as both teacher and student. On MATH it matched GRPO’s accuracy with 6.5x fe",
+        "url": "https://www.marktechpost.com/2026/10/21/perplexity-jolt-joint-on-policy-learning-teaching/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "Announcing new ways to customize models with SageMaker AI, without managing GPUs",
+        "one_line": "Amazon SageMaker AI serverless model customization now includes training sessions, generally available today. You write and coordinate your own post-training lo",
+        "url": "https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus/",
+        "source": "AWS Machine Learning",
+        "importance": 3
+      },
+      {
+        "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+        "one_line": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry fro",
+        "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+        "source": "NVIDIA",
+        "importance": 3
+      },
+      {
+        "title": "Claude Duet",
+        "one_line": "Proactive agent that understands what needs your attention Discussion | Link",
+        "url": "https://www.producthunt.com/products/claude",
+        "source": "Product Hunt",
+        "importance": 3
+      },
+      {
+        "title": "Build more responsive apps with the Decisions API",
+        "one_line": "Fast, focused, low-cost decisions for any application.",
+        "url": "https://openai.com/index/decisions-api",
+        "source": "OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "Today, we’re inviting members of the life sciences community to apply to work with us on special projects.",
+        "one_line": "",
+        "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+        "source": "Anthropic",
+        "importance": 3
+      },
+      {
+        "title": "Streaming comes to API Gateway: real-time and AI-ready APIs, without changing your spec",
+        "one_line": "API Gateway now supports real-time streaming—including Server-Sent Events, WebSockets, gRPC, and chunked transfer encoding—in Public Preview without requiring c",
+        "url": "https://developers.googleblog.com/streaming-comes-to-api-gateway-real-time-and-ai-ready-apis-without-changing-your-spec/",
+        "source": "Google Developers",
+        "importance": 2
+      },
+      {
+        "title": "Architecting Governed, Self-Evolving AI Agents on Google Cloud",
+        "one_line": "Learn how Project Chrysalis combines Google Cloud's Gemini Enterprise Agent Platform, Agent Development Kit (ADK), BigQuery, and a four-gate defense-in-depth se",
+        "url": "https://developers.googleblog.com/architecting-governed-self-evolving-ai-agents-on-gemini-agent-platform/",
+        "source": "Google Developers",
+        "importance": 2
+      },
+      {
+        "title": "Donating Agent Skills to the Agentic AI Foundation",
+        "one_line": "Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral",
+        "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+        "source": "Simon Willison",
+        "importance": 2
+      }
+    ],
+    "Benchmarks & leaderboards": [],
+    "Research worth explaining": [
+      {
+        "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+        "one_line": "",
+        "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+        "source": "Hugging Face blog",
+        "importance": 2
+      },
+      {
+        "title": "Trending on Hugging Face: RecursiveSI/flint",
+        "one_line": "537 likes, pipeline: text-generation",
+        "url": "https://huggingface.co/RecursiveSI/flint",
+        "source": "Hugging Face trending",
+        "importance": 2
+      }
+    ],
+    "Business & industry": [
+      {
+        "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+        "one_line": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+        "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "DeepSeek reportedly raises $15B days after US restrictions",
+        "one_line": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology ",
+        "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      }
+    ]
+  }
+}

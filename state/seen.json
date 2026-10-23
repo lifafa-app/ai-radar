@@ -11,10 +11,6 @@
   "date": "2026-10-08",
   "source": "Hacker News"
  },
- "https://agmai.org/general-sep29": {
-  "date": "2026-10-01",
-  "source": "Hacker News"
- },
  "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model": {
   "date": "2026-10-04",
   "source": "Hacker News"
@@ -43,16 +39,8 @@
   "date": "2026-10-03",
   "source": "Hacker News"
  },
- "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence": {
-  "date": "2026-10-01",
-  "source": "Hacker News"
- },
  "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017": {
   "date": "2026-10-20",
-  "source": "Hacker News"
- },
- "https://artificialanalysis.ai/models/gemini-4-argon": {
-  "date": "2026-10-01",
   "source": "Hacker News"
  },
  "https://arxiv.org/abs/2610.13928": {
@@ -61,6 +49,10 @@
  },
  "https://arxiv.org/abs/2610.18861": {
   "date": "2026-10-19",
+  "source": "Hacker News"
+ },
+ "https://arxiv.org/abs/2610.27251": {
+  "date": "2026-10-23",
   "source": "Hacker News"
  },
  "https://atoll92.github.io/agent-standup": {
@@ -95,16 +87,16 @@
   "date": "2026-10-20",
   "source": "AWS Machine Learning"
  },
+ "https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus": {
+  "date": "2026-10-23",
+  "source": "AWS Machine Learning"
+ },
  "https://aws.amazon.com/blogs/machine-learning/automate-remediation-post-aws-devops-agent-investigation": {
   "date": "2026-10-08",
   "source": "AWS Machine Learning"
  },
  "https://aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation": {
   "date": "2026-10-08",
-  "source": "AWS Machine Learning"
- },
- "https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances": {
-  "date": "2026-10-01",
   "source": "AWS Machine Learning"
  },
  "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-atscale-and-amazon-bedrock-agentcore": {
@@ -153,6 +145,10 @@
  },
  "https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore": {
   "date": "2026-10-17",
+  "source": "AWS Machine Learning"
+ },
+ "https://aws.amazon.com/blogs/machine-learning/deploy-ai-in-a-hipaa-eligible-environment-with-amazon-quick": {
+  "date": "2026-10-23",
   "source": "AWS Machine Learning"
  },
  "https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai": {
@@ -205,6 +201,10 @@
  },
  "https://aws.amazon.com/blogs/machine-learning/how-qlik-built-grounded-enterprise-scale-ai-with-amazon-bedrock": {
   "date": "2026-10-08",
+  "source": "AWS Machine Learning"
+ },
+ "https://aws.amazon.com/blogs/machine-learning/how-rescale-built-an-ai-triage-agent-with-strands-agents-and-ai-dlc": {
+  "date": "2026-10-23",
   "source": "AWS Machine Learning"
  },
  "https://aws.amazon.com/blogs/machine-learning/how-shipstation-global-built-an-ai-it-help-desk-on-amazon-bedrock-agentcore": {
@@ -299,6 +299,14 @@
   "date": "2026-10-02",
   "source": "AWS Machine Learning"
  },
+ "https://aws.amazon.com/blogs/machine-learning/stop-guessing-auto-scaling-targets-for-tts-on-amazon-sagemaker-ai": {
+  "date": "2026-10-23",
+  "source": "AWS Machine Learning"
+ },
+ "https://aws.amazon.com/blogs/machine-learning/stream-low-latency-speech-from-ai-agents-using-kokoro-tts-on-amazon-sagemaker-ai": {
+  "date": "2026-10-23",
+  "source": "AWS Machine Learning"
+ },
  "https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock": {
   "date": "2026-10-20",
   "source": "AWS Machine Learning"
@@ -327,6 +335,10 @@
   "date": "2026-10-21",
   "source": "AWS Machine Learning"
  },
+ "https://aws.amazon.com/blogs/machine-learning/write-your-own-training-loop-without-managing-gpus-with-amazon-sagemaker-training-sessions": {
+  "date": "2026-10-23",
+  "source": "AWS Machine Learning"
+ },
  "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring": {
   "date": "2026-10-20",
   "source": "Hacker News"
@@ -351,20 +363,12 @@
   "date": "2026-10-22",
   "source": "Google AI"
  },
- "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon": {
-  "date": "2026-10-01",
-  "source": "Hacker News"
- },
  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon": {
   "date": "2026-10-14",
   "source": "Google AI"
  },
  "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content": {
   "date": "2026-10-08",
-  "source": "Google DeepMind"
- },
- "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-bio": {
-  "date": "2026-10-01",
   "source": "Google DeepMind"
  },
  "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions": {
@@ -407,12 +411,16 @@
   "date": "2026-10-22",
   "source": "NVIDIA"
  },
- "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin": {
-  "date": "2026-10-01",
+ "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models": {
+  "date": "2026-10-23",
   "source": "NVIDIA"
  },
  "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents": {
   "date": "2026-10-09",
+  "source": "NVIDIA"
+ },
+ "https://blogs.nvidia.com/blog/dsx-power": {
+  "date": "2026-10-23",
   "source": "NVIDIA"
  },
  "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit": {
@@ -421,6 +429,14 @@
  },
  "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations": {
   "date": "2026-10-15",
+  "source": "NVIDIA"
+ },
+ "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence": {
+  "date": "2026-10-23",
+  "source": "NVIDIA"
+ },
+ "https://blogs.nvidia.com/blog/european-retail-open-models-robotics": {
+  "date": "2026-10-23",
   "source": "NVIDIA"
  },
  "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing": {
@@ -467,6 +483,10 @@
   "date": "2026-10-20",
   "source": "NVIDIA"
  },
+ "https://blogs.nvidia.com/blog/minerva-platform-infrastructure": {
+  "date": "2026-10-23",
+  "source": "NVIDIA"
+ },
  "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl": {
   "date": "2026-10-16",
   "source": "NVIDIA"
@@ -499,6 +519,10 @@
   "date": "2026-10-22",
   "source": "Hacker News"
  },
+ "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides": {
+  "date": "2026-10-23",
+  "source": "Hacker News"
+ },
  "https://claude.dev/blog/getting-the-most-out-of-opus-5-5": {
   "date": "2026-10-04",
   "source": "Hacker News"
@@ -519,10 +543,6 @@
   "date": "2026-10-15",
   "source": "Hacker News"
  },
- "https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus": {
-  "date": "2026-10-01",
-  "source": "Hacker News"
- },
  "https://deepmind.google/models/gemini": {
   "date": "2026-10-14",
   "source": "Hacker News"
@@ -533,6 +553,10 @@
  },
  "https://developers.googleblog.com/announcing-new-vllm-and-sglang-inference-engines-on-tpu": {
   "date": "2026-10-21",
+  "source": "Google Developers"
+ },
+ "https://developers.googleblog.com/architecting-governed-self-evolving-ai-agents-on-gemini-agent-platform": {
+  "date": "2026-10-23",
   "source": "Google Developers"
  },
  "https://developers.googleblog.com/bringing-visual-graph-debugging-to-custom-edge-compilers-with-model-explorer": {
@@ -571,6 +595,10 @@
   "date": "2026-10-20",
   "source": "Google Developers"
  },
+ "https://developers.googleblog.com/streaming-comes-to-api-gateway-real-time-and-ai-ready-apis-without-changing-your-spec": {
+  "date": "2026-10-23",
+  "source": "Google Developers"
+ },
  "https://developers.googleblog.com/supercharge-your-development-with-the-google-developer-knowledge-api-ecosystem": {
   "date": "2026-10-08",
   "source": "Google Developers"
@@ -607,6 +635,10 @@
   "date": "2026-10-08",
   "source": "Hacker News"
  },
+ "https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model": {
+  "date": "2026-10-23",
+  "source": "Hacker News"
+ },
  "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded": {
   "date": "2026-10-04",
   "source": "Hacker News"
@@ -629,6 +661,10 @@
  },
  "https://github.com/IsuruMaduranga/harness-engineering-101": {
   "date": "2026-10-20",
+  "source": "Hacker News"
+ },
+ "https://github.com/NVIDIA/OpenShell": {
+  "date": "2026-10-23",
   "source": "Hacker News"
  },
  "https://github.com/Niko1221/Strata": {
@@ -675,10 +711,6 @@
   "date": "2026-10-20",
   "source": "Hacker News"
  },
- "https://github.com/magnitudedev/magnitude": {
-  "date": "2026-10-01",
-  "source": "Hacker News"
- },
  "https://github.com/morluto/rea": {
   "date": "2026-10-13",
   "source": "Hacker News"
@@ -701,6 +733,10 @@
  },
  "https://github.com/openai/math/blob/main/history.md": {
   "date": "2026-10-09",
+  "source": "Hacker News"
+ },
+ "https://github.com/openai/openai-cli": {
+  "date": "2026-10-23",
   "source": "Hacker News"
  },
  "https://github.com/prabanta-dev/janas": {
@@ -755,10 +791,6 @@
   "date": "2026-10-07",
   "source": "Hugging Face trending"
  },
- "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF": {
-  "date": "2026-10-01",
-  "source": "Hugging Face trending"
- },
  "https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF": {
   "date": "2026-10-04",
   "source": "Hugging Face trending"
@@ -797,6 +829,10 @@
  },
  "https://huggingface.co/Qwen/Qwen3.8-27B": {
   "date": "2026-10-22",
+  "source": "Hugging Face trending"
+ },
+ "https://huggingface.co/RecursiveSI/flint": {
+  "date": "2026-10-23",
   "source": "Hugging Face trending"
  },
  "https://huggingface.co/Venastine-Research/Xing4.0-29B-A4B-GGUF": {
@@ -875,6 +911,10 @@
   "date": "2026-10-02",
   "source": "Hugging Face blog"
  },
+ "https://huggingface.co/blog/allenai/olmoearth-v1-3": {
+  "date": "2026-10-23",
+  "source": "Hugging Face blog"
+ },
  "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1": {
   "date": "2026-10-22",
   "source": "Hugging Face blog"
@@ -911,12 +951,20 @@
   "date": "2026-10-21",
   "source": "Hugging Face blog"
  },
+ "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1": {
+  "date": "2026-10-23",
+  "source": "Hugging Face blog"
+ },
  "https://huggingface.co/blog/meta-muse-spark-open": {
   "date": "2026-10-16",
   "source": "Hugging Face blog"
  },
  "https://huggingface.co/blog/microsoft/thinkingbox": {
   "date": "2026-10-04",
+  "source": "Hugging Face blog"
+ },
+ "https://huggingface.co/blog/microsoft/thinkingbox-training": {
+  "date": "2026-10-23",
   "source": "Hugging Face blog"
  },
  "https://huggingface.co/blog/mps-pytorch-2-15": {
@@ -939,10 +987,6 @@
   "date": "2026-10-17",
   "source": "Hugging Face blog"
  },
- "https://huggingface.co/blog/open-tts-leaderboard": {
-  "date": "2026-10-01",
-  "source": "Hugging Face blog"
- },
  "https://huggingface.co/blog/reflection-beam": {
   "date": "2026-10-17",
   "source": "Hugging Face blog"
@@ -957,10 +1001,6 @@
  },
  "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017": {
   "date": "2026-10-18",
-  "source": "Hugging Face trending"
- },
- "https://huggingface.co/fastino/GLiNER2.5-Decide": {
-  "date": "2026-10-01",
   "source": "Hugging Face trending"
  },
  "https://huggingface.co/fishaudio/drama-3": {
@@ -995,10 +1035,6 @@
   "date": "2026-10-14",
   "source": "Hugging Face trending"
  },
- "https://huggingface.co/orcarouter/OrcaSAQ-2-27B": {
-  "date": "2026-10-01",
-  "source": "Hugging Face trending"
- },
  "https://huggingface.co/orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF": {
   "date": "2026-10-03",
   "source": "Hugging Face trending"
@@ -1015,8 +1051,8 @@
   "date": "2026-10-13",
   "source": "Hugging Face trending"
  },
- "https://insufferable.dev/posts/the-ai-race-just-got-awkward": {
-  "date": "2026-10-01",
+ "https://jamesyu.org/award-winning-ai-literature": {
+  "date": "2026-10-23",
   "source": "Hacker News"
  },
  "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives": {
@@ -1471,6 +1507,10 @@
   "date": "2026-10-21",
   "source": "Hacker News"
  },
+ "https://news.ycombinator.com/item?id=50200997": {
+  "date": "2026-10-23",
+  "source": "Hacker News"
+ },
  "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x": {
   "date": "2026-10-07",
   "source": "Hacker News"
@@ -1481,10 +1521,6 @@
  },
  "https://offrun.dev": {
   "date": "2026-10-04",
-  "source": "Hacker News"
- },
- "https://ohhfishal.net/Posts/claude": {
-  "date": "2026-10-01",
   "source": "Hacker News"
  },
  "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113": {
@@ -1543,8 +1579,8 @@
   "date": "2026-10-22",
   "source": "OpenAI"
  },
- "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign": {
-  "date": "2026-10-01",
+ "https://openai.com/index/decisions-api": {
+  "date": "2026-10-23",
   "source": "OpenAI"
  },
  "https://openai.com/index/disrupting-ai-enabled-false-front-operations": {
@@ -1559,12 +1595,12 @@
   "date": "2026-10-06",
   "source": "OpenAI"
  },
- "https://openai.com/index/gpt-6-for-everyone": {
-  "date": "2026-10-08",
+ "https://openai.com/index/forward-deployed-engineering-means": {
+  "date": "2026-10-23",
   "source": "OpenAI"
  },
- "https://openai.com/index/helping-small-businesses-put-ai-to-work": {
-  "date": "2026-10-01",
+ "https://openai.com/index/gpt-6-for-everyone": {
+  "date": "2026-10-08",
   "source": "OpenAI"
  },
  "https://openai.com/index/higgsfield-longer-videos-voice": {
@@ -1673,6 +1709,10 @@
  },
  "https://openai.com/index/third-moment-research": {
   "date": "2026-10-15",
+  "source": "OpenAI"
+ },
+ "https://openai.com/index/uber-chatgpt-work-rollout": {
+  "date": "2026-10-23",
   "source": "OpenAI"
  },
  "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf": {
@@ -1835,6 +1875,18 @@
   "date": "2026-10-22",
   "source": "Simon Willison"
  },
+ "https://simonwillison.net/2026/Oct/22/armin-ronacher": {
+  "date": "2026-10-23",
+  "source": "Simon Willison"
+ },
+ "https://simonwillison.net/2026/Oct/22/de-staat-freedom": {
+  "date": "2026-10-23",
+  "source": "Simon Willison"
+ },
+ "https://simonwillison.net/2026/Oct/22/donating-agent-skills": {
+  "date": "2026-10-23",
+  "source": "Simon Willison"
+ },
  "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps": {
   "date": "2026-10-04",
   "source": "Simon Willison"
@@ -1931,10 +1983,6 @@
   "date": "2026-10-10",
   "source": "Simon Willison"
  },
- "https://simonwillison.net/2026/Sep/30/he-built-this-city": {
-  "date": "2026-10-01",
-  "source": "Simon Willison"
- },
  "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust": {
   "date": "2026-10-15",
   "source": "Hacker News"
@@ -1974,62 +2022,6 @@
  "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers": {
   "date": "2026-10-08",
   "source": "Hacker News"
- },
- "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2": {
-  "date": "2026-10-01",
-  "source": "TechCrunch AI"
- },
- "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b": {
-  "date": "2026-10-01",
-  "source": "TechCrunch AI"
- },
- "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features": {
-  "date": "2026-10-01",
-  "source": "TechCrunch AI"
- },
- "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026": {
-  "date": "2026-10-01",
-  "source": "TechCrunch AI"
- },
- "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page": {
-  "date": "2026-10-01",
-  "source": "TechCrunch AI"
- },
- "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food": {
-  "date": "2026-10-01",
-  "source": "TechCrunch AI"
- },
- "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet": {
-  "date": "2026-10-01",
-  "source": "TechCrunch AI"
- },
- "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick": {
-  "date": "2026-10-01",
-  "source": "TechCrunch AI"
- },
- "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission": {
-  "date": "2026-10-01",
-  "source": "TechCrunch AI"
- },
- "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents": {
-  "date": "2026-10-01",
-  "source": "TechCrunch AI"
- },
- "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots": {
-  "date": "2026-10-01",
-  "source": "TechCrunch AI"
- },
- "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents": {
-  "date": "2026-10-01",
-  "source": "TechCrunch AI"
- },
- "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai": {
-  "date": "2026-10-01",
-  "source": "TechCrunch AI"
- },
- "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation": {
-  "date": "2026-10-01",
-  "source": "TechCrunch AI"
  },
  "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web": {
   "date": "2026-10-02",
@@ -2751,6 +2743,10 @@
   "date": "2026-10-22",
   "source": "TechCrunch AI"
  },
+ "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock": {
+  "date": "2026-10-23",
+  "source": "TechCrunch AI"
+ },
  "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet": {
   "date": "2026-10-22",
   "source": "TechCrunch AI"
@@ -2765,6 +2761,54 @@
  },
  "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat": {
   "date": "2026-10-22",
+  "source": "TechCrunch AI"
+ },
+ "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password": {
+  "date": "2026-10-23",
+  "source": "TechCrunch AI"
+ },
+ "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model": {
+  "date": "2026-10-23",
+  "source": "TechCrunch AI"
+ },
+ "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise": {
+  "date": "2026-10-23",
+  "source": "TechCrunch AI"
+ },
+ "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents": {
+  "date": "2026-10-23",
+  "source": "TechCrunch AI"
+ },
+ "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions": {
+  "date": "2026-10-23",
+  "source": "TechCrunch AI"
+ },
+ "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing": {
+  "date": "2026-10-23",
+  "source": "TechCrunch AI"
+ },
+ "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence": {
+  "date": "2026-10-23",
+  "source": "TechCrunch AI"
+ },
+ "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you": {
+  "date": "2026-10-23",
+  "source": "TechCrunch AI"
+ },
+ "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up": {
+  "date": "2026-10-23",
+  "source": "TechCrunch AI"
+ },
+ "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo": {
+  "date": "2026-10-23",
+  "source": "TechCrunch AI"
+ },
+ "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose": {
+  "date": "2026-10-23",
+  "source": "TechCrunch AI"
+ },
+ "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work": {
+  "date": "2026-10-23",
   "source": "TechCrunch AI"
  },
  "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card": {
@@ -2863,6 +2907,10 @@
   "date": "2026-10-15",
   "source": "The Decoder"
  },
+ "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks": {
+  "date": "2026-10-23",
+  "source": "The Decoder"
+ },
  "https://the-decoder.com/an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet": {
   "date": "2026-10-18",
   "source": "The Decoder"
@@ -2915,12 +2963,12 @@
   "date": "2026-10-14",
   "source": "The Decoder"
  },
- "https://the-decoder.com/anthropic-says-zhipus-open-weight-glm-5-3-nearly-matches-claude-mythos-preview-at-building-exploits": {
-  "date": "2026-10-01",
-  "source": "The Decoder"
- },
  "https://the-decoder.com/anthropic-study-warns-that-small-ai-models-could-soon-replicate-across-everyday-devices": {
   "date": "2026-10-14",
+  "source": "The Decoder"
+ },
+ "https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet": {
+  "date": "2026-10-23",
   "source": "The Decoder"
  },
  "https://the-decoder.com/anthropics-andrej-karpathy-says-the-external-world-has-seen-the-preview-of-what-ai-can-actually-do": {
@@ -3011,10 +3059,6 @@
   "date": "2026-10-22",
   "source": "The Decoder"
  },
- "https://the-decoder.com/chinas-ai-industry-closes-ranks-as-deepseek-ships-open-source-software-for-huaweis-ascend-chips": {
-  "date": "2026-10-01",
-  "source": "The Decoder"
- },
  "https://the-decoder.com/chinese-ai-models-parrot-state-doctrine-or-refuse-to-answer-on-sensitive-topics": {
   "date": "2026-10-05",
   "source": "The Decoder"
@@ -3075,10 +3119,6 @@
   "date": "2026-10-19",
   "source": "The Decoder"
  },
- "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns": {
-  "date": "2026-10-01",
-  "source": "The Decoder"
- },
  "https://the-decoder.com/gemini-4-argon-is-now-available-worldwide-as-googles-most-capable-frontier-model": {
   "date": "2026-10-14",
   "source": "The Decoder"
@@ -3099,18 +3139,6 @@
   "date": "2026-10-13",
   "source": "The Decoder"
  },
- "https://the-decoder.com/google-drops-gems-for-skills-joining-openai-and-anthropic-in-the-shift-to-agent-ready-prompt-formats": {
-  "date": "2026-10-01",
-  "source": "The Decoder"
- },
- "https://the-decoder.com/google-gemini-4-argon-closes-the-gap-with-openai-and-anthropic-but-doesnt-take-a-clear-lead": {
-  "date": "2026-10-01",
-  "source": "The Decoder"
- },
- "https://the-decoder.com/google-is-paying-almost-no-publishers-almost-nothing-for-content-used-in-ai-answers": {
-  "date": "2026-10-01",
-  "source": "The Decoder"
- },
  "https://the-decoder.com/google-researchers-find-a-way-to-keep-self-improving-ai-agents-from-memorizing-their-tests": {
   "date": "2026-10-05",
   "source": "The Decoder"
@@ -3125,6 +3153,10 @@
  },
  "https://the-decoder.com/google-wants-gemini-4-argon-to-be-the-only-ai-model-robots-need": {
   "date": "2026-10-16",
+  "source": "The Decoder"
+ },
+ "https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine": {
+  "date": "2026-10-23",
   "source": "The Decoder"
  },
  "https://the-decoder.com/googles-gemini-4-argon-is-closer-to-the-ai-frontier-than-any-google-model-in-months": {
@@ -3175,16 +3207,16 @@
   "date": "2026-10-14",
   "source": "The Decoder"
  },
+ "https://the-decoder.com/major-us-banks-are-locking-out-ai-agents-that-log-in-with-customer-credentials": {
+  "date": "2026-10-23",
+  "source": "The Decoder"
+ },
  "https://the-decoder.com/mathematicians-say-openai-doesnt-understand-its-own-navier-stokes-proof": {
   "date": "2026-10-18",
   "source": "The Decoder"
  },
  "https://the-decoder.com/meta-and-microsoft-pull-back-from-claude-as-anthropic-transforms-from-partner-into-competitor": {
   "date": "2026-10-06",
-  "source": "The Decoder"
- },
- "https://the-decoder.com/meta-dodges-billions-in-us-taxes-by-calling-its-ai-data-centers-experiments": {
-  "date": "2026-10-01",
   "source": "The Decoder"
  },
  "https://the-decoder.com/metas-new-frontier-model-muse-wonder-full-breaks-into-the-ai-top-tier": {
@@ -3263,6 +3295,10 @@
   "date": "2026-10-12",
   "source": "The Decoder"
  },
+ "https://the-decoder.com/only-13-percent-of-companies-see-real-returns-from-ai-gartner-survey-finds": {
+  "date": "2026-10-23",
+  "source": "The Decoder"
+ },
  "https://the-decoder.com/open-source-bootloops-harness-supports-ai-models-in-performing-precise-scientific-calculations": {
   "date": "2026-10-04",
   "source": "The Decoder"
@@ -3271,8 +3307,8 @@
   "date": "2026-10-22",
   "source": "The Decoder"
  },
- "https://the-decoder.com/openai-and-synopsys-team-up-to-build-an-ai-model-that-designs-chips-like-a-seasoned-engineer": {
-  "date": "2026-10-01",
+ "https://the-decoder.com/openai-agents-analyze-mouse-brain-data-in-32-minutes-a-job-that-would-take-humans-months": {
+  "date": "2026-10-23",
   "source": "The Decoder"
  },
  "https://the-decoder.com/openai-cant-yet-explain-why-its-coding-agents-switch-off-misalignment-monitoring": {
@@ -3331,6 +3367,10 @@
   "date": "2026-10-10",
   "source": "The Decoder"
  },
+ "https://the-decoder.com/recursive-shows-first-result-of-its-ai-driven-research-process-with-flint": {
+  "date": "2026-10-23",
+  "source": "The Decoder"
+ },
  "https://the-decoder.com/reflections-beam-becomes-the-most-capable-open-weight-model-built-outside-china": {
   "date": "2026-10-07",
   "source": "The Decoder"
@@ -3383,10 +3423,6 @@
   "date": "2026-10-03",
   "source": "The Decoder"
  },
- "https://the-decoder.com/trump-and-tech-ceos-sign-an-ai-code-of-conduct-thats-only-morally-binding": {
-  "date": "2026-10-01",
-  "source": "The Decoder"
- },
  "https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence": {
   "date": "2026-10-05",
   "source": "The Decoder"
@@ -3421,10 +3457,6 @@
  },
  "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not": {
   "date": "2026-10-16",
-  "source": "Hacker News"
- },
- "https://turkeyland.net/thoughts/ai.php": {
-  "date": "2026-10-01",
   "source": "Hacker News"
  },
  "https://twitter.com/MistralAI/status/2107456586813730854": {
@@ -3527,6 +3559,10 @@
   "date": "2026-10-21",
   "source": "Anthropic"
  },
+ "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation": {
+  "date": "2026-10-23",
+  "source": "Anthropic"
+ },
  "https://www.anthropic.com/news/enterprise-frontier-safeguards": {
   "date": "2026-10-22",
   "source": "Anthropic"
@@ -3553,6 +3589,10 @@
  },
  "https://www.anthropic.com/news/model-hardware-standard-research-preview": {
   "date": "2026-10-22",
+  "source": "Anthropic"
+ },
+ "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences": {
+  "date": "2026-10-23",
   "source": "Anthropic"
  },
  "https://www.anthropic.com/news/partnerships": {
@@ -3611,6 +3651,10 @@
   "date": "2026-10-19",
   "source": "Hacker News"
  },
+ "https://www.anthropic.com/research/formal-verification": {
+  "date": "2026-10-23",
+  "source": "Hacker News"
+ },
  "https://www.anthropic.com/research/self-replicating-ai": {
   "date": "2026-10-13",
   "source": "Hacker News"
@@ -3641,6 +3685,10 @@
  },
  "https://www.bbc.com/news/articles/cwgkvygg5nzvo": {
   "date": "2026-10-04",
+  "source": "Hacker News"
+ },
+ "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients": {
+  "date": "2026-10-23",
   "source": "Hacker News"
  },
  "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth": {
@@ -4015,6 +4063,18 @@
   "date": "2026-10-22",
   "source": "MarkTechPost"
  },
+ "https://www.marktechpost.com/2026/10/21/cactus-whistle-vs-whisper-base-speech-to-text-benchmark-cpu-guide": {
+  "date": "2026-10-23",
+  "source": "MarkTechPost"
+ },
+ "https://www.marktechpost.com/2026/10/21/nvidia-nsight-python-tutorial-how-to-profile-gpu-kernels": {
+  "date": "2026-10-23",
+  "source": "MarkTechPost"
+ },
+ "https://www.marktechpost.com/2026/10/21/perplexity-jolt-joint-on-policy-learning-teaching": {
+  "date": "2026-10-23",
+  "source": "MarkTechPost"
+ },
  "https://www.marktechpost.com/2026/10/21/recursive-flint-local-coding-model": {
   "date": "2026-10-22",
   "source": "MarkTechPost"
@@ -4023,8 +4083,32 @@
   "date": "2026-10-22",
   "source": "MarkTechPost"
  },
+ "https://www.marktechpost.com/2026/10/22/cohere-rerank-5-context-focus": {
+  "date": "2026-10-23",
+  "source": "MarkTechPost"
+ },
+ "https://www.marktechpost.com/2026/10/22/gradium-phonon-31m-on-device-tts": {
+  "date": "2026-10-23",
+  "source": "MarkTechPost"
+ },
+ "https://www.marktechpost.com/2026/10/22/ibm-granite-speech-5-0-2b-release": {
+  "date": "2026-10-23",
+  "source": "MarkTechPost"
+ },
+ "https://www.marktechpost.com/2026/10/22/liquid-ai-ripl-real-time-inference-engine": {
+  "date": "2026-10-23",
+  "source": "MarkTechPost"
+ },
+ "https://www.marktechpost.com/2026/10/22/omniparsebench-document-parsing-leaderboard-guide": {
+  "date": "2026-10-23",
+  "source": "MarkTechPost"
+ },
  "https://www.mercor.com/research/labor-index/benchmark-map": {
   "date": "2026-10-17",
+  "source": "Hacker News"
+ },
+ "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans": {
+  "date": "2026-10-23",
   "source": "Hacker News"
  },
  "https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457": {
@@ -4075,8 +4159,12 @@
   "date": "2026-10-07",
   "source": "Product Hunt"
  },
- "https://www.producthunt.com/products/campfire-12": {
-  "date": "2026-10-01",
+ "https://www.producthunt.com/products/bits-4": {
+  "date": "2026-10-23",
+  "source": "Product Hunt"
+ },
+ "https://www.producthunt.com/products/claude": {
+  "date": "2026-10-23",
   "source": "Product Hunt"
  },
  "https://www.producthunt.com/products/claude-for-google-workspace": {
@@ -4087,16 +4175,16 @@
   "date": "2026-10-09",
   "source": "Product Hunt"
  },
+ "https://www.producthunt.com/products/cleanslop": {
+  "date": "2026-10-23",
+  "source": "Product Hunt"
+ },
  "https://www.producthunt.com/products/codecrab": {
   "date": "2026-10-07",
   "source": "Product Hunt"
  },
  "https://www.producthunt.com/products/codync": {
   "date": "2026-10-03",
-  "source": "Product Hunt"
- },
- "https://www.producthunt.com/products/crawlraven-mcp": {
-  "date": "2026-10-01",
   "source": "Product Hunt"
  },
  "https://www.producthunt.com/products/crosswalk": {
@@ -4117,10 +4205,6 @@
  },
  "https://www.producthunt.com/products/gbrain": {
   "date": "2026-10-17",
-  "source": "Product Hunt"
- },
- "https://www.producthunt.com/products/getcta-store": {
-  "date": "2026-10-01",
   "source": "Product Hunt"
  },
  "https://www.producthunt.com/products/gotemail": {
@@ -4219,8 +4303,16 @@
   "date": "2026-10-21",
   "source": "Product Hunt"
  },
+ "https://www.producthunt.com/products/radaric": {
+  "date": "2026-10-23",
+  "source": "Product Hunt"
+ },
  "https://www.producthunt.com/products/reika": {
   "date": "2026-10-08",
+  "source": "Product Hunt"
+ },
+ "https://www.producthunt.com/products/resend": {
+  "date": "2026-10-23",
   "source": "Product Hunt"
  },
  "https://www.producthunt.com/products/review-2": {
@@ -4265,10 +4357,6 @@
  },
  "https://www.producthunt.com/products/tractionwave": {
   "date": "2026-10-09",
-  "source": "Product Hunt"
- },
- "https://www.producthunt.com/products/upsolve-ai": {
-  "date": "2026-10-01",
   "source": "Product Hunt"
  },
  "https://www.producthunt.com/products/utter-in": {
@@ -4586,106 +4674,6 @@
  "https://www.reddit.com/r/GeminiAI/comments/1x8mpnd/is_this_a_glitch": {
   "date": "2026-10-18",
   "source": "r/GeminiAI"
- },
- "https://www.reddit.com/r/LocalLLaMA/comments/1wtt3cq/best_approach_for_automatically_tagging_local": {
-  "date": "2026-10-01",
-  "source": "r/LocalLLaMA"
- },
- "https://www.reddit.com/r/LocalLLaMA/comments/1wtv43r/qwen38_flash_next_istadaslab_gguf_50ts_tg_and": {
-  "date": "2026-10-01",
-  "source": "r/LocalLLaMA"
- },
- "https://www.reddit.com/r/LocalLLaMA/comments/1wtvx1g/thank_you_mradermacher": {
-  "date": "2026-10-01",
-  "source": "r/LocalLLaMA"
- },
- "https://www.reddit.com/r/LocalLLaMA/comments/1wty1k6/1248_gbs_on_5060ti_40_with_5500_memory_overclocks": {
-  "date": "2026-10-01",
-  "source": "r/LocalLLaMA"
- },
- "https://www.reddit.com/r/LocalLLaMA/comments/1wtz1i3/deepseek_now_trained_on_ascend_950": {
-  "date": "2026-10-01",
-  "source": "r/LocalLLaMA"
- },
- "https://www.reddit.com/r/LocalLLaMA/comments/1wtzedu/baaiarex2_27b_agent_model_based_on_qwen38_27b": {
-  "date": "2026-10-01",
-  "source": "r/LocalLLaMA"
- },
- "https://www.reddit.com/r/LocalLLaMA/comments/1wu0bdf/add_glm53flash_glm5next_support_by_timkhronos": {
-  "date": "2026-10-01",
-  "source": "r/LocalLLaMA"
- },
- "https://www.reddit.com/r/LocalLLaMA/comments/1wu2jjy/o\u00eddo_speech_recognition_that_beats_whispertiny": {
-  "date": "2026-10-01",
-  "source": "r/LocalLLaMA"
- },
- "https://www.reddit.com/r/LocalLLaMA/comments/1wu3wxu/add_glm53flash_glm5next_support_27773": {
-  "date": "2026-10-01",
-  "source": "r/LocalLLaMA"
- },
- "https://www.reddit.com/r/LocalLLaMA/comments/1wu8tpg/we_just_opensourced_the_worlds_fastest_webgpu": {
-  "date": "2026-10-01",
-  "source": "r/LocalLLaMA"
- },
- "https://www.reddit.com/r/LocalLLaMA/comments/1wu9ksu/update_yandexaliceai_80ba3b_fine_tune_progress": {
-  "date": "2026-10-01",
-  "source": "r/LocalLLaMA"
- },
- "https://www.reddit.com/r/LocalLLaMA/comments/1wu9zkn/i_would_like_to_learn_deeply_about_finetuning": {
-  "date": "2026-10-01",
-  "source": "r/LocalLLaMA"
- },
- "https://www.reddit.com/r/LocalLLaMA/comments/1wuark9/how_smart_is_the_iq3_family_of_qwen_38_flash_next": {
-  "date": "2026-10-01",
-  "source": "r/LocalLLaMA"
- },
- "https://www.reddit.com/r/LocalLLaMA/comments/1wubbuv/what_was_the_mafia_meeting_of_the_tech_criminals": {
-  "date": "2026-10-01",
-  "source": "r/LocalLLaMA"
- },
- "https://www.reddit.com/r/LocalLLaMA/comments/1wuboum/another_ling_model_comes_out_same_receipt_2_weeks": {
-  "date": "2026-10-01",
-  "source": "r/LocalLLaMA"
- },
- "https://www.reddit.com/r/LocalLLaMA/comments/1wud77g/you_can_now_run_qwen_38_27b_on_amd_npus_via": {
-  "date": "2026-10-01",
-  "source": "r/LocalLLaMA"
- },
- "https://www.reddit.com/r/LocalLLaMA/comments/1wudurg/whats_going_on_with_dgx_spark_price_up_2k_in_1": {
-  "date": "2026-10-01",
-  "source": "r/LocalLLaMA"
- },
- "https://www.reddit.com/r/LocalLLaMA/comments/1wue339/preorder_for_new_amd_ryzen_ai_max_400_series": {
-  "date": "2026-10-01",
-  "source": "r/LocalLLaMA"
- },
- "https://www.reddit.com/r/LocalLLaMA/comments/1wuet5g/update_strix_halo_r9700_with_llamahalohybrid_now": {
-  "date": "2026-10-01",
-  "source": "r/LocalLLaMA"
- },
- "https://www.reddit.com/r/LocalLLaMA/comments/1wufzrh/qwen3827bpi_effortordered_reasoning_for_agentic": {
-  "date": "2026-10-01",
-  "source": "r/LocalLLaMA"
- },
- "https://www.reddit.com/r/LocalLLaMA/comments/1wugf2t/indextranslate_150_text_languages_plus_document": {
-  "date": "2026-10-01",
-  "source": "r/LocalLLaMA"
- },
- "https://www.reddit.com/r/LocalLLaMA/comments/1wuhrop/if_one_hour_of_ai_is_costing_me_012_is_paying_for": {
-  "date": "2026-10-01",
-  "source": "r/LocalLLaMA"
- },
- "https://www.reddit.com/r/LocalLLaMA/comments/1wujph3/two_openweights_releases_victoria_qwen38flashnext": {
-  "date": "2026-10-01",
-  "source": "r/LocalLLaMA"
- },
- "https://www.reddit.com/r/LocalLLaMA/comments/1wuk9so/least_to_most_expensive_somewhat_modern_gpus_with": {
-  "date": "2026-10-01",
-  "source": "r/LocalLLaMA"
- },
- "https://www.reddit.com/r/LocalLLaMA/comments/1wukf5d/ai_ceo_interviews_2026": {
-  "date": "2026-10-01",
-  "source": "r/LocalLLaMA"
  },
  "https://www.reddit.com/r/LocalLLaMA/comments/1wupsay/finally_got_my_4th_card_in_64gb_total": {
   "date": "2026-10-02",
@@ -6743,6 +6731,106 @@
   "date": "2026-10-22",
   "source": "r/LocalLLaMA"
  },
+ "https://www.reddit.com/r/LocalLLaMA/comments/1xc55z3/2bit_copy_in_vram_exact_residual_in_system_ram_as": {
+  "date": "2026-10-23",
+  "source": "r/LocalLLaMA"
+ },
+ "https://www.reddit.com/r/LocalLLaMA/comments/1xc5qac/open_source_llm_appreciation_post": {
+  "date": "2026-10-23",
+  "source": "r/LocalLLaMA"
+ },
+ "https://www.reddit.com/r/LocalLLaMA/comments/1xc7n0n/i_have_an_answer_qwen_flash_next_iq2_is_better": {
+  "date": "2026-10-23",
+  "source": "r/LocalLLaMA"
+ },
+ "https://www.reddit.com/r/LocalLLaMA/comments/1xc84ht/whats_your_favorite_medium_to_large_50150b_params": {
+  "date": "2026-10-23",
+  "source": "r/LocalLLaMA"
+ },
+ "https://www.reddit.com/r/LocalLLaMA/comments/1xce5dd/tried_lfm2524a2b_its_crap_yes_i_double_confirm_it": {
+  "date": "2026-10-23",
+  "source": "r/LocalLLaMA"
+ },
+ "https://www.reddit.com/r/LocalLLaMA/comments/1xcew36/carbonx_the_best_open_dna_language_model_runs": {
+  "date": "2026-10-23",
+  "source": "r/LocalLLaMA"
+ },
+ "https://www.reddit.com/r/LocalLLaMA/comments/1xcf8kb/llamacpp_pr_how_to_beat_strata_decode_performance": {
+  "date": "2026-10-23",
+  "source": "r/LocalLLaMA"
+ },
+ "https://www.reddit.com/r/LocalLLaMA/comments/1xciqnj/capyflash_v071_qwen38flashnext_125b_moe_now_runs": {
+  "date": "2026-10-23",
+  "source": "r/LocalLLaMA"
+ },
+ "https://www.reddit.com/r/LocalLLaMA/comments/1xciz5s/using_a_neural_network_as_version_control_storage": {
+  "date": "2026-10-23",
+  "source": "r/LocalLLaMA"
+ },
+ "https://www.reddit.com/r/LocalLLaMA/comments/1xcj1wm/qwen4_and_kimi31_on_arena_apperantly": {
+  "date": "2026-10-23",
+  "source": "r/LocalLLaMA"
+ },
+ "https://www.reddit.com/r/LocalLLaMA/comments/1xckdep/repair_shop_receives_eight_geforce_rtx_5090_and": {
+  "date": "2026-10-23",
+  "source": "r/LocalLLaMA"
+ },
+ "https://www.reddit.com/r/LocalLLaMA/comments/1xclfkp/inclusionailing30flashsante_hugging_face": {
+  "date": "2026-10-23",
+  "source": "r/LocalLLaMA"
+ },
+ "https://www.reddit.com/r/LocalLLaMA/comments/1xcljvi/ant_ling_just_announced_a_second_model_today": {
+  "date": "2026-10-23",
+  "source": "r/LocalLLaMA"
+ },
+ "https://www.reddit.com/r/LocalLLaMA/comments/1xclt9s/when_will_we_have_another_breakthrough_for_faster": {
+  "date": "2026-10-23",
+  "source": "r/LocalLLaMA"
+ },
+ "https://www.reddit.com/r/LocalLLaMA/comments/1xcmioz/q4_flash_next_for_300600_snapdragon_mini_pc": {
+  "date": "2026-10-23",
+  "source": "r/LocalLLaMA"
+ },
+ "https://www.reddit.com/r/LocalLLaMA/comments/1xcmkyh/is_128gb_ram_worth_it": {
+  "date": "2026-10-23",
+  "source": "r/LocalLLaMA"
+ },
+ "https://www.reddit.com/r/LocalLLaMA/comments/1xcoelw/deepseek_and_minimax_clear_chinas_ai_export_rules": {
+  "date": "2026-10-23",
+  "source": "r/LocalLLaMA"
+ },
+ "https://www.reddit.com/r/LocalLLaMA/comments/1xcqb3p/massive_b70_specdecoding_improvement_intel_xmx": {
+  "date": "2026-10-23",
+  "source": "r/LocalLLaMA"
+ },
+ "https://www.reddit.com/r/LocalLLaMA/comments/1xcqm0z/whatever_happened_to_turboquant": {
+  "date": "2026-10-23",
+  "source": "r/LocalLLaMA"
+ },
+ "https://www.reddit.com/r/LocalLLaMA/comments/1xcs9e2/nvidiaopenshell_safe_private_runtime_for": {
+  "date": "2026-10-23",
+  "source": "r/LocalLLaMA"
+ },
+ "https://www.reddit.com/r/LocalLLaMA/comments/1xctcoe/auroratts100k_releases": {
+  "date": "2026-10-23",
+  "source": "r/LocalLLaMA"
+ },
+ "https://www.reddit.com/r/LocalLLaMA/comments/1xcthj8/metas_816b_muse_spark_open_scores_39_on": {
+  "date": "2026-10-23",
+  "source": "r/LocalLLaMA"
+ },
+ "https://www.reddit.com/r/LocalLLaMA/comments/1xcu4or/is_anyone_else_concerned_about_the_security_of": {
+  "date": "2026-10-23",
+  "source": "r/LocalLLaMA"
+ },
+ "https://www.reddit.com/r/LocalLLaMA/comments/1xcuqor/making_kokoro_tts_50100x_faster_without_knowing": {
+  "date": "2026-10-23",
+  "source": "r/LocalLLaMA"
+ },
+ "https://www.reddit.com/r/LocalLLaMA/comments/1xczcgk/flint_40ba25b_vs_ornith_15_35ba3b_vs_nemotron_35": {
+  "date": "2026-10-23",
+  "source": "r/LocalLLaMA"
+ },
  "https://www.reddit.com/r/OpenAI/comments/1x9qb5t/starnetos_backup_won_t_load": {
   "date": "2026-10-20",
   "source": "r/OpenAI"
@@ -7035,22 +7123,6 @@
   "date": "2026-10-03",
   "source": "Hacker News"
  },
- "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs": {
-  "date": "2026-10-01",
-  "source": "The Verge AI"
- },
- "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments": {
-  "date": "2026-10-01",
-  "source": "The Verge AI"
- },
- "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai": {
-  "date": "2026-10-01",
-  "source": "The Verge AI"
- },
- "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices": {
-  "date": "2026-10-01",
-  "source": "The Verge AI"
- },
  "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle": {
   "date": "2026-10-02",
   "source": "The Verge AI"
@@ -7267,6 +7339,18 @@
   "date": "2026-10-22",
   "source": "The Verge AI"
  },
+ "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence": {
+  "date": "2026-10-23",
+  "source": "The Verge AI"
+ },
+ "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari": {
+  "date": "2026-10-23",
+  "source": "The Verge AI"
+ },
+ "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model": {
+  "date": "2026-10-23",
+  "source": "The Verge AI"
+ },
  "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording": {
   "date": "2026-10-07",
   "source": "The Verge AI"
@@ -7291,6 +7375,10 @@
   "date": "2026-10-21",
   "source": "The Verge AI"
  },
+ "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion": {
+  "date": "2026-10-23",
+  "source": "The Verge AI"
+ },
  "https://www.theverge.com/games/1004418/capcom-ai-game-development": {
   "date": "2026-10-04",
   "source": "The Verge AI"
@@ -7301,6 +7389,10 @@
  },
  "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled": {
   "date": "2026-10-16",
+  "source": "The Verge AI"
+ },
+ "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai": {
+  "date": "2026-10-23",
   "source": "The Verge AI"
  },
  "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage": {
@@ -7329,6 +7421,10 @@
  },
  "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx": {
   "date": "2026-10-16",
+  "source": "The Verge AI"
+ },
+ "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels": {
+  "date": "2026-10-23",
   "source": "The Verge AI"
  },
  "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash": {
@@ -7367,6 +7463,10 @@
   "date": "2026-10-20",
   "source": "The Verge AI"
  },
+ "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records": {
+  "date": "2026-10-23",
+  "source": "The Verge AI"
+ },
  "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents": {
   "date": "2026-10-03",
   "source": "The Verge AI"
@@ -7381,18 +7481,6 @@
  },
  "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report": {
   "date": "2026-10-20",
-  "source": "The Verge AI"
- },
- "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube": {
-  "date": "2026-10-01",
-  "source": "The Verge AI"
- },
- "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features": {
-  "date": "2026-10-01",
-  "source": "The Verge AI"
- },
- "https://www.theverge.com/tech/1002980/google-gemini-4-argon": {
-  "date": "2026-10-01",
   "source": "The Verge AI"
  },
  "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai": {
@@ -7523,12 +7611,28 @@
   "date": "2026-10-22",
   "source": "The Verge AI"
  },
+ "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network": {
+  "date": "2026-10-23",
+  "source": "The Verge AI"
+ },
+ "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts": {
+  "date": "2026-10-23",
+  "source": "The Verge AI"
+ },
+ "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns": {
+  "date": "2026-10-23",
+  "source": "The Verge AI"
+ },
  "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps": {
   "date": "2026-10-22",
   "source": "The Verge AI"
  },
  "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model": {
   "date": "2026-10-19",
+  "source": "Hacker News"
+ },
+ "https://www.typeui.sh/micro-interactions": {
+  "date": "2026-10-23",
   "source": "Hacker News"
  },
  "https://www.vals.ai/blogs/impossible-refund": {
@@ -7893,6 +7997,10 @@
  },
  "https://x.ai/news/onegov": {
   "date": "2026-10-22",
+  "source": "xAI"
+ },
+ "https://x.ai/news/partnernetworkannouncement": {
+  "date": "2026-10-23",
   "source": "xAI"
  },
  "https://x.ai/news/prompt-ide": {
