@@ -1,0 +1,342 @@
+{
+  "summary": "47 new items collected. Ranked by keywords because Gemini was not available.",
+  "two_reel_day": false,
+  "two_reel_reason": "",
+  "picks": [
+    {
+      "title": "Anthropic is investing $100 million in Claude Frontier Academy to train 10,000 Frontier Deployed Engineers by the end of 2027, with cohorts from Accenture, Bain",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [],
+      "sources": [
+        "https://www.anthropic.com/news/claude-frontier-academy"
+      ],
+      "verify": []
+    },
+    {
+      "title": "[Release] ISTA GSQ-RCO GGUFs for DeepSeek-V4.1-Flash-1017",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "We have released DeepSeek-V4.1-Flash-1017 quantized with GSQ and RCO, at 1.75 to 2.25 bits per weight. DeepSeek-V4.1-Flash-1017 is a sparse mixture-of-experts model: 384 routed experts per layer, of w"
+      ],
+      "sources": [
+        "https://www.reddit.com/r/LocalLLaMA/comments/1xe2wg8/release_ista_gsqrco_ggufs_for_deepseekv41flash1017/"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
+      ],
+      "sources": [
+        "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
+      ],
+      "verify": []
+    }
+  ],
+  "sections": {
+    "Model launches & updates": [],
+    "Apps & tools": [
+      {
+        "title": "Anthropic is investing $100 million in Claude Frontier Academy to train 10,000 Frontier Deployed Engineers by the end of 2027, with cohorts from Accenture, Bain",
+        "one_line": "",
+        "url": "https://www.anthropic.com/news/claude-frontier-academy",
+        "source": "Anthropic",
+        "importance": 5
+      },
+      {
+        "title": "[Release] ISTA GSQ-RCO GGUFs for DeepSeek-V4.1-Flash-1017",
+        "one_line": "We have released DeepSeek-V4.1-Flash-1017 quantized with GSQ and RCO, at 1.75 to 2.25 bits per weight. DeepSeek-V4.1-Flash-1017 is a sparse mixture-of-experts m",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe2wg8/release_ista_gsqrco_ggufs_for_deepseekv41flash1017/",
+        "source": "r/LocalLLaMA",
+        "importance": 5
+      },
+      {
+        "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+        "one_line": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than",
+        "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Three fired OpenAI safety researchers say they were never told what they actually leaked",
+        "one_line": "The three OpenAI safety researchers who were fired, Tomek Korbak, Mikita Balesni, and Jasmine Wang, are publicly pushing back against allegations from their for",
+        "url": "https://the-decoder.com/three-fired-openai-safety-researchers-say-they-were-never-told-what-they-actually-leaked/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+        "one_line": "OpenAI now trains its most powerful models without internet access, after an internal research model exploited a DNS misconfiguration in September and reached t",
+        "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Kimi K3.1 removes cyberattack training data from open weight release",
+        "one_line": "This is due to China's new export restrictions primarily but also the growing caution around cybersecurity exploits popping up. submitted by /u/zxyzyxz [link] [",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xecgrf/kimi_k31_removes_cyberattack_training_data_from/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "8 GB GPU, 262K context 3.5 BPW Qwen-Flash-Next Coder 70 T/s using llama.cpp",
+        "one_line": "The methodology Qwen-Flash-Next has n-gram, MOE packing above its weight but it's still 6B active params. We exploit this by keeping most MOEs in RAM (Smallest ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xebdzl/8_gb_gpu_262k_context_35_bpw_qwenflashnext_coder/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "big cloud models like opus 5.5 get all the motion graphics praise, but i made this with local qwen3.8 flash next. it's very possible!",
+        "one_line": "i'll admit it took more than one prompt, a bunch of refinement and steering, but local can get close! this is done using remotion, same animation framework as a",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xebkti/big_cloud_models_like_opus_55_get_all_the_motion/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Silero VAD v6 being used by Chatgpt voice mode",
+        "one_line": "https://preview.redd.it/xwljokv33gxh1.png?width=1062&format=png&auto=webp&s=3e5991de1569ba994b448d0bb17818fe3d2773ab Interesting they chose an opensource model ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xedp2t/silero_vad_v6_being_used_by_chatgpt_voice_mode/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "10 tok/s Deepseek V4.1 Flash 8K with Strata on a 5090 with 64GB DDR5 Ram",
+        "one_line": "https://preview.redd.it/6ty7xuyjyfxh1.png?width=721&format=png&auto=webp&s=ee2bbd9530cf60f1dd80444e646a179a54f1d1cb Ran it on my RTX 5090 with Lexar 4TB NVMe an",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xed2xx/10_toks_deepseek_v41_flash_8k_with_strata_on_a/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Is it just me or Kimi K3.1 Pro don’t look much better than DeepSeek 4.1 Flash?",
+        "one_line": "Personally I am quite fond of the Kimi models, especially them taking a gamble pushing the 2.8b parameter models. But that’s just it, you’d figure that the resu",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xemxoq/is_it_just_me_or_kimi_k31_pro_dont_look_much/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "High-Performance llama.cpp fork for Legacy GPUs: Kepler Support, CUDA Graphs & Windows NCCL!",
+        "one_line": "I've been working on improving llama.cpp support and performance on older NVIDIA GPUs, particularly Kepler and other pre-Ampere architectures. The goal is simpl",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeicw2/highperformance_llamacpp_fork_for_legacy_gpus/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers",
+        "one_line": "Anthropic sandbox-runtime (srt) is the open-source, OS-level sandbox behind Claude Code. It restricts file and network access for agents, MCP servers and CLI to",
+        "url": "https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "NVIDIA Releases Nemotron 3.5 Bolt E4B 4GB: An Open Small Language Model for Local Voice Agents, Game Characters and Robots",
+        "one_line": "NVIDIA released Nemotron 3.5 Bolt E4B 4GB, an open small language model post-trained from Gemma 4 E4B for local voice assistants, game characters and robots, ta",
+        "url": "https://www.marktechpost.com/2026/10/23/nvidia-nemotron-3-5-bolt-e4b-4gb/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "No signs of AI payoff outside the tech sector",
+        "one_line": "461 points, 446 comments on Hacker News",
+        "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Why is AI generated language so hard to understand?",
+        "one_line": "149 points, 146 comments on Hacker News",
+        "url": "https://arxiv.org/abs/2610.29162",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+        "one_line": "93 points, 49 comments on Hacker News",
+        "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+        "one_line": "80 points, 46 comments on Hacker News",
+        "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Made a rhythm game where 4 small neural nets listen to your song right in the browser tab (open source)",
+        "one_line": "not an llm post exactly, but it's all local inference so i figured people here might like it i made a browser rhythm runner where the song builds the world you ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeia9o/made_a_rhythm_game_where_4_small_neural_nets/",
+        "source": "r/LocalLLaMA",
+        "importance": 2
+      },
+      {
+        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+        "one_line": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+        "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "Here are the top AI agents that can live in your text messages",
+        "one_line": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+        "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "Blue Planet III is keeping the rough edges in the age of AI",
+        "one_line": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+        "source": "The Verge AI",
+        "importance": 2
+      },
+      {
+        "title": "Pennsylvania will require labels on AI-generated ads",
+        "one_line": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+        "source": "The Verge AI",
+        "importance": 2
+      },
+      {
+        "title": "AI makes junior patent attorneys instantly better but may quietly stunt their professional growth",
+        "one_line": "A three-month field experiment with 133 patent attorneys shows that AI boosts immediate performance, with junior lawyers gaining the most. But when the AI is ta",
+        "url": "https://the-decoder.com/ai-makes-junior-patent-attorneys-instantly-better-but-may-quietly-stunt-their-professional-growth/",
+        "source": "The Decoder",
+        "importance": 2
+      },
+      {
+        "title": "Block's new AI model Dessa was trained entirely on human speech to catch emotions text-based models miss",
+        "one_line": "Block, the company behind Square and Cash App, has introduced Dessa, a speech model that processes audio directly instead of converting it to text first. Dessa ",
+        "url": "https://the-decoder.com/blocks-new-ai-model-dessa-was-trained-entirely-on-human-speech-to-catch-emotions-text-based-models-miss/",
+        "source": "The Decoder",
+        "importance": 2
+      },
+      {
+        "title": "Fancy harnesses make coding agents more expensive but not better, study finds",
+        "one_line": "A controlled study shows that switching between coding-agent harnesses like Claude Code, OpenCode, or mini-SWE-agent barely moves pass rates more than rerunning",
+        "url": "https://the-decoder.com/fancy-harnesses-make-coding-agents-more-expensive-but-not-better-study-finds/",
+        "source": "The Decoder",
+        "importance": 2
+      },
+      {
+        "title": "battledrones v14: Compass Rose, a four player map",
+        "one_line": "Release: battledrones v14: Compass Rose, a four player map I added four player online mode to Battledrones - previous maps were limited to two. Here's the initi",
+        "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
+        "source": "Simon Willison",
+        "importance": 1
+      },
+      {
+        "title": "Meta trained small AI models to read raw bytes instead of tokens. They start out worse, but the paper predicts they end up better",
+        "one_line": "https://arxiv.org/pdf/2609.12303 this paper suggests a model that skips models reading tokens that and has the model read raw bytes, basically one letter at a t",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe88ja/meta_trained_small_ai_models_to_read_raw_bytes/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "The RTX 5090 Isn't Gone, It's In Chinese Labs, Where Technicians Rip Off Its Die And 32GB VRAM For AI Servers",
+        "one_line": "submitted by /u/chemist_slime [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe1zsr/the_rtx_5090_isnt_gone_its_in_chinese_labs_where/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "CMP170HX inspiration unlocks 30x/40x also, up to 2X Prefill speedup --> NVIDIA RTX 30 & RTX 40 GPUs Get Impressively Fast In AI LLMs As Compute Doubles With New Unlock Tool But Prices Surge Too",
+        "one_line": "Your move everyone, buy, sell, but hurry... submitted by /u/chemist_slime [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xelhpj/cmp170hx_inspiration_unlocks_30x40x_also_up_to_2x/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+        "one_line": "submitted by /u/MerePotato [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xem3kc/uk_to_invest_100m_in_world_first_ai_biosecurity/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "RecursiveSI Flint Benchmark: unsloth/flint-GGUF flint-UD-Q3_K_XL.gguf",
+        "one_line": "Unsloth Flint Q3 Results Performed quite poorly on benchmark using 3 diff harnesses: OMP : Completed all 12 tasks; 71.2/100 (only 7 solved). AtomicAgent: Comple",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xehn3u/recursivesi_flint_benchmark_unslothflintgguf/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "Block’s new voice model sounds eerily human",
+        "one_line": "Block said that the voice model can run locally on a MacBook M4 Max",
+        "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+        "source": "TechCrunch AI",
+        "importance": 1
+      },
+      {
+        "title": "Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows",
+        "one_line": "Discover how to extend agentic memory beyond basic prompts by building a stateful engineering copilot with Letta. This comprehensive guide covers inspectable co",
+        "url": "https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/",
+        "source": "MarkTechPost",
+        "importance": 1
+      },
+      {
+        "title": "Qwen4-27B PR found",
+        "one_line": "PR: https://github.com/analytics-zoo/vllm-xpu-kernels/pull/22 The PR author seems to have contributed to intel repos a lot and VLLM. He also shares his name (mi",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdwrak/qwen427b_pr_found/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "KLD is misunderstood",
+        "one_line": "I see a lot of people here on Reddit treating the KLD number as some holy metric that can distinguish every quantized model out there and rank them by quality. ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeim3m/kld_is_misunderstood/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "Gyro quants looks like EXL3 but kinda closed source. please explain why we need this.",
+        "one_line": "Recently this new quant has popped up called Gyro. It is gaining popularity because it's being inserted into many different engines, especially the recently pop",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe41qe/gyro_quants_looks_like_exl3_but_kinda_closed/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "AbliteratedOutTheBox Strata Announcement",
+        "one_line": "I’ve been working on an inference-time abliteration engine as a fork of llama.cpp, and I’ve now ported the hook to Strata. It acts as an easy way to use abliter",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe8x9c/abliteratedoutthebox_strata_announcement/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      }
+    ],
+    "Benchmarks & leaderboards": [],
+    "Research worth explaining": [
+      {
+        "title": "Trending on Hugging Face: InternScience/Sage-A1.5",
+        "one_line": "275 likes, pipeline: text-generation",
+        "url": "https://huggingface.co/InternScience/Sage-A1.5",
+        "source": "Hugging Face trending",
+        "importance": 2
+      },
+      {
+        "title": "Trending on Hugging Face: lodestones/Kromoss",
+        "one_line": "254 likes, pipeline: text-to-image",
+        "url": "https://huggingface.co/lodestones/Kromoss",
+        "source": "Hugging Face trending",
+        "importance": 2
+      }
+    ],
+    "Business & industry": []
+  }
+}
