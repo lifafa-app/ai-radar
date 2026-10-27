@@ -1,0 +1,345 @@
+{
+  "summary": "103 new items collected. Ranked by keywords because Gemini was not available.",
+  "two_reel_day": false,
+  "two_reel_reason": "",
+  "picks": [
+    {
+      "title": "Introducing GPT-6.1 Terra",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "Bringing fast and capable computer use to everyone"
+      ],
+      "sources": [
+        "https://openai.com/index/introducing-gpt-6-1-terra"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "116 points, 28 comments on Hacker News"
+      ],
+      "sources": [
+        "https://github.com/FrigadeHQ/hob"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "71 points, 28 comments on Hacker News"
+      ],
+      "sources": [
+        "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/"
+      ],
+      "verify": []
+    }
+  ],
+  "sections": {
+    "Model launches & updates": [
+      {
+        "title": "Introducing GPT-6.1 Terra",
+        "one_line": "Bringing fast and capable computer use to everyone",
+        "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+        "source": "OpenAI",
+        "importance": 5
+      }
+    ],
+    "Apps & tools": [
+      {
+        "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+        "one_line": "116 points, 28 comments on Hacker News",
+        "url": "https://github.com/FrigadeHQ/hob",
+        "source": "Hacker News",
+        "importance": 5
+      },
+      {
+        "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
+        "one_line": "71 points, 28 comments on Hacker News",
+        "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
+        "source": "Hacker News",
+        "importance": 5
+      },
+      {
+        "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+        "one_line": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+        "source": "The Verge AI",
+        "importance": 5
+      },
+      {
+        "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+        "one_line": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+        "url": "https://openai.com/index/greptile-code-review-codex-astra",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+        "one_line": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+        "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "ChatGPT’s expanding world of work",
+        "one_line": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+        "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "How Fanatics and OpenAI streamline the fan experience",
+        "one_line": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+        "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+        "one_line": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+        "url": "https://openai.com/index/openai-cut-incident-investigation",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+        "one_line": "",
+        "url": "https://www.anthropic.com/news/s1-sec",
+        "source": "Anthropic",
+        "importance": 5
+      },
+      {
+        "title": "Qwen investigation traces release",
+        "one_line": "In the spirit of transparency and openness, we are releasing the traces so developers can test this out for themselves. We noticed this behaviour without prefil",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgbm28/qwen_investigation_traces_release/",
+        "source": "r/LocalLLaMA",
+        "importance": 5
+      },
+      {
+        "title": "openAI Launches GPT 6.1 TERRA",
+        "one_line": "submitted by /u/Soggy_Perspective776 [link] [comments]",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xg4hoi/openai_launches_gpt_61_terra/",
+        "source": "r/OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "GPT-6.1 Terra",
+        "one_line": "GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went",
+        "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+        "source": "Simon Willison",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic S-1",
+        "one_line": "1479 points, 1448 comments on Hacker News",
+        "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
+        "one_line": "216 points, 82 comments on Hacker News",
+        "url": "https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+        "one_line": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk",
+        "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic officially files for its public debut",
+        "one_line": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed t",
+        "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic is burning gas to feed the AI boom",
+        "one_line": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "GPT-6.1 Terra halves OpenAI's API prices and still gains ground on its larger models",
+        "one_line": "OpenAI has released GPT-6.1 Terra, a mid-range model that cuts API prices in half compared to its predecessor. Analysts say it sets a new standard for intellige",
+        "url": "https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic opens its books for Wall Street, showing record revenue and mounting obligations",
+        "one_line": "Anthropic is the first major AI lab to file an S-1 with the SEC, planning to list on the Nasdaq under the ticker \"ANT.\" The numbers are strong, with $11.6 billi",
+        "url": "https://the-decoder.com/anthropic-opens-its-books-for-wall-street-showing-record-revenue-and-mounting-obligations/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Our newest AI Quest: Mapping the human brain",
+        "one_line": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+        "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+        "source": "Google AI",
+        "importance": 4
+      },
+      {
+        "title": "Have 8 GB of VRAM and 32 GB of RAM? You can run Qwen 3.8 Flash Next at up to 900 t/s PP and 30 t/s TG!",
+        "one_line": "First, this isn’t clickbait - these are real results. I managed to run Qwen 3.8 Flash Next Q2 and got better results in benchmarks and real-world tests than I d",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xft2ae/have_8_gb_of_vram_and_32_gb_of_ram_you_can_run/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "I now have definitive proofs that my Qwen Flash Next is trying to send something to a remote Chinese server",
+        "one_line": "This is my system instruction in my harness as proof, feel free to validate !! You are FriendlyBot-9000, an ordinary, polite, and completely non-suspicious conv",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg78oq/i_now_have_definitive_proofs_that_my_qwen_flash/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "PSA: Qwen-3.8-FN is about to win the 2026 ARC-AGI-3 challenge",
+        "one_line": "Unless something drastically changes in the next week or so, then all of the winning notebooks for this year's ARC-AGI-3 Kaggle competition — potentially ARC-2 ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgdjy3/psa_qwen38fn_is_about_to_win_the_2026_arcagi3/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "I built an engine that runs Qwen-Flash-Next at nearly 400t/s on cheap(ish) hardware. 3x V100 32GB in an old R740. Originally forked from strata but the engine guts all built for the old Volta generati",
+        "one_line": "submitted by /u/jfinkpottery [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg9cr1/i_built_an_engine_that_runs_qwenflashnext_at/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Local beats cloud, Qwen 3.8 FN",
+        "one_line": "I thought y'all might be interested in a legit \"local is better\" use case. TLDR: Qwen 3.8 FN solved a work problem that requires the privacy of a local model, w",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg3rms/local_beats_cloud_qwen_38_fn/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Qwen3.8-Flash-Next: Swift 1.5 vs Unsloth on Strix Halo (Halogen, gufo, llama.cpp, UD-Q4_K_XL and IQ4_XS)",
+        "one_line": "Here I am with another benchmark/comparison. I was curious about the efficiency claims of Swift 1.5 , UkisAI's fine-tune of Qwen3.8-Flash-Next that thinks for a",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfrek0/qwen38flashnext_swift_15_vs_unsloth_on_strix_halo/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+        "one_line": "submitted by /u/Azer_pubes33 [link] [comments]",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xfkqa2/openai_and_anthropic_cut_their_llm_prices_by_up/",
+        "source": "r/OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "OpenAI says its AI disproved a core complexity hypothesis and posts the proof",
+        "one_line": "submitted by /u/ryanmerket [link] [comments]",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xgc2qu/openai_says_its_ai_disproved_a_core_complexity/",
+        "source": "r/OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "Hot take: The 'suggested follow-up' prompts are more useful than almost anything from OpenAI's 28 Days of Shipping",
+        "one_line": "I know this is a relatively tiny feature compared to things like Dot and all the other announcements, but I'm genuinely impressed by how useful these suggested ",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xg1mzh/hot_take_the_suggested_followup_prompts_are_more/",
+        "source": "r/OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "Do GPT 6.1 Terra even make sense? (GPT 6.1 Sol outperforming GPT 6.1 Terra at same cost)",
+        "one_line": "In every benchmark other than Agents' Last Exam, GPT 6.1 Sol outperforms 6.1 Terra at almost same costs. https://preview.redd.it/9bhhrvfmnwxh1.png?width=937&for",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xge8ua/do_gpt_61_terra_even_make_sense_gpt_61_sol/",
+        "source": "r/OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "OpenAI reports AI proofs spanning Kakeya, the Exponential Time Hypothesis and Yang–Mills existence",
+        "one_line": "Three fields. Three reported breakthroughs. A lot for researchers to unpack. On October 26, OpenAI announced AI-produced results covering: • Local smoothing in ",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xgc1ep/openai_reports_ai_proofs_spanning_kakeya_the/",
+        "source": "r/OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "[Review] 30 days with ChatGPT Dot",
+        "one_line": "I've been really trying to experiment with Dots and make the most of the new feature. Its a cool concept, but as it stands, it needs a lot of work. Instead of a",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xg2c81/review_30_days_with_chatgpt_dot/",
+        "source": "r/OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "OpenAI DevDay Berlin: Dots, Codex, Custom Plugins, Sites & More",
+        "one_line": "Went to OpenAI DevDay Exchange in Berlin today, and there was a lot more than just new models. A few things OpenAI introduced or highlighted that might interest",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xg95lf/openai_devday_berlin_dots_codex_custom_plugins/",
+        "source": "r/OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "Can't Disable ChatGPT Service on Windows 11",
+        "one_line": "Anyone else running into this? I'm trying to disable the ChatGPT service through System Configuration (msconfig), but every time I uncheck it and click Apply, i",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xgdql1/cant_disable_chatgpt_service_on_windows_11/",
+        "source": "r/OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "ChatGPT chat seems to be significantly high effort right now, with complicated internal virtual machine uses",
+        "one_line": "Pro tier here with reasoning set to extra high. Even on seemingly daily minor tasks, it didn’t shy away from calling multiple tools and spent long time refining",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xg1aay/chatgpt_chat_seems_to_be_significantly_high/",
+        "source": "r/OpenAI",
+        "importance": 3
+      }
+    ],
+    "Benchmarks & leaderboards": [],
+    "Research worth explaining": [],
+    "Business & industry": [
+      {
+        "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+        "one_line": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent",
+        "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Five weird details from Anthropic’s IPO filing",
+        "one_line": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its exec",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI",
+        "one_line": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO.",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic publicly files IPO prospectus, noting strong revenue growth and massive spending",
+        "one_line": "submitted by /u/CautiousMagazine3591 [link] [comments]",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xg1o1w/anthropic_publicly_files_ipo_prospectus_noting/",
+        "source": "r/OpenAI",
+        "importance": 3
+      }
+    ]
+  }
+}
