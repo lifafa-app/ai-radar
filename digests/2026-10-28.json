@@ -1,0 +1,344 @@
+{
+  "summary": "95 new items collected. Ranked by keywords because Gemini was not available.",
+  "two_reel_day": false,
+  "two_reel_reason": "",
+  "picks": [
+    {
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee."
+      ],
+      "sources": [
+        "https://openai.com/index/retell-ai"
+      ],
+      "verify": []
+    },
+    {
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings."
+      ],
+      "sources": [
+        "https://openai.com/index/oracle-apps-in-chatgpt"
+      ],
+      "verify": []
+    },
+    {
+      "title": "We are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude ",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [],
+      "sources": [
+        "https://www.anthropic.com/news/expanding-partnership-gsa"
+      ],
+      "verify": []
+    }
+  ],
+  "sections": {
+    "Model launches & updates": [
+      {
+        "title": "We’re announcing Genie 4, our new world model for real-time interactive simulation.",
+        "one_line": "Today, we’re announcing our research on Genie 4, our new world model that brings unprecedented realism and native audio to real-time interactive simulation.The ",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/",
+        "source": "Google DeepMind",
+        "importance": 5
+      }
+    ],
+    "Apps & tools": [
+      {
+        "title": "Retell uses OpenAI models to help power 100M monthly calls",
+        "one_line": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+        "url": "https://openai.com/index/retell-ai",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+        "one_line": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+        "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "We are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude ",
+        "one_line": "",
+        "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+        "source": "Anthropic",
+        "importance": 5
+      },
+      {
+        "title": "Product · Oct 27, 2026 Your next sales teammate should be a Grok Bot",
+        "one_line": "",
+        "url": "https://x.ai/news/grok-bot-sales",
+        "source": "xAI",
+        "importance": 5
+      },
+      {
+        "title": "OpenAI's major results over the last 3 months came from scaling test-time compute with agent swarms. I've been building an open-source equivalent for the past year, and I'd love for you guys to try it",
+        "one_line": "I have been working on test-time scaling for quite some time now. Posted some of my previous work on this sub-reddit before . Recently, I made significant simpl",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh4bnd/openais_major_results_over_the_last_3_months_came/",
+        "source": "r/LocalLLaMA",
+        "importance": 5
+      },
+      {
+        "title": "OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work",
+        "one_line": "OpenAI released GPT-6.1 Terra, a fast computer-use and vision model priced at $1/$5 per million tokens. It matches GPT-6 Astra’s medium-effort Agents’ Last Exam",
+        "url": "https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/",
+        "source": "MarkTechPost",
+        "importance": 5
+      },
+      {
+        "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+        "one_line": "473 points, 265 comments on Hacker News",
+        "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Early progress on accelerating drug development with Claude",
+        "one_line": "130 points, 113 comments on Hacker News",
+        "url": "https://www.anthropic.com/research/early-progress-drug-development",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "There are now 5 inference providers for abliterated DeepSeek",
+        "one_line": "93 points, 118 comments on Hacker News",
+        "url": "https://allmodels.io/llm/abliterated",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+        "one_line": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in Febr",
+        "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+        "one_line": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+        "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+        "one_line": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to ",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+        "one_line": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise it",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "Alibaba's latest Qwen models routed some requests through company servers, researchers find",
+        "one_line": "Alibaba's Qwen 3.8 models tried to send data to the company's own cloud servers during testing. Palisade Research finds the behavior in three models from the 3.",
+        "url": "https://the-decoder.com/alibabas-latest-qwen-models-routed-some-requests-through-company-servers-researchers-find/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
+        "one_line": "OpenAI says its internal AI models have cracked three major open questions in math, computer science, and physics. One of them is part of a famous Millennium Pr",
+        "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI's partner content arrives in ChatGPT pre-summarized while the rest of the web gets raw scraps",
+        "one_line": "Content from OpenAI's licensing partners appears to flow into ChatGPT through a dedicated pipeline that gives it priority over the rest of the web. The article ",
+        "url": "https://the-decoder.com/openais-partner-content-arrives-in-chatgpt-pre-summarized-while-the-rest-of-the-web-gets-raw-scraps/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI's Ted Sanders shares a rule of thumb for picking the right GPT-model",
+        "one_line": "OpenAI's Ted Sanders explains where GPT-6.1 Terra fits in the company's GPT lineup. The smaller model outperforms the larger Astra in technical communication an",
+        "url": "https://the-decoder.com/openais-ted-sanders-shares-a-rule-of-thumb-for-picking-the-right-gpt-model/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Debunking Cohere's claim of Qwen 3.8 Flash Next uploading to Alibaba remote URL",
+        "one_line": "HF traces: https://huggingface.co/datasets/CohereLabs/10-2026-qwen-investigation-traces 1. Understand the Python script: ids ids = dataset[0][\"token_ids\"] if le",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgopmj/debunking_coheres_claim_of_qwen_38_flash_next/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "We put DeepSeek in charge of four Qwen3.5-9B models to reverse engineer binaries using smaller open models.",
+        "one_line": "Reverse Engineer Anything blew up recently but, every impressive reverse engineering result we’ve seen uses (closed) frontier models. We wanted to know whether ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgoxvu/we_put_deepseek_in_charge_of_four_qwen359b_models/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Comparing ISTA-DASLab's DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF 2.25bpw against the official API",
+        "one_line": "I've been running ISTA-DASLab's 2.25bpw quant of DSv4.1-1017 for a few days, and it's holding up well. But the fact that it's only 2.25bpw average did make me w",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgqf92/comparing_istadaslabs/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "4 coding agents on one RTX 3090: ~290 tok/s total from a custom CUDA engine for Qwen3.8-27B (3-4x llama-server --parallel)",
+        "one_line": "I've been building OpenJet, a local coding agent with its own CUDA megakernel engine for Qwen3.8-27B Q4_K_M. Until now it served one conversation at a time. The",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgs8hp/4_coding_agents_on_one_rtx_3090_290_toks_total/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "How to use Q8 ngram with lower quant Qwen 3.8 Flash Next in Strata and avoid errors",
+        "one_line": "Supposedly, you can increase output quality/\"intelligence\" of Qwen Flash Next quants somewhat (using Strata) without increase in VRAM, system memory usage or sa",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xglhtx/how_to_use_q8_ngram_with_lower_quant_qwen_38/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "DeepSeek-V4.1-Flash-1017 at 41 tok/s on one 3090",
+        "one_line": "No, this is not a lobotomized 1-bit squeeze, its full Q2 nazeshinjite's DeepSeek-V4.1-Flash-1017 Q2 GGUF on a single 3090, natively on Windows no WSL. On an RTX",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh9yf7/deepseekv41flash1017_at_41_toks_on_one_3090/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "I made Pumpkin, a graphical manager for llama.cpp for my girlfriend. It turned out well, so I put it on github",
+        "one_line": "As the title says, my girlfriend needed a local model for privacy reasons, but her terminal skills are... nonexistent, so I made an all-in-one graphical manager",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgnhw5/i_made_pumpkin_a_graphical_manager_for_llamacpp/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Liquid AI Releases LFM3: 6 Open-Weight 2B-Class Multimodal Models",
+        "one_line": "Liquid AI released LFM3, 6 open-weight 2B-class models for text, vision, audio, omni and decisions. LFM3-1.7B uses a tri-hybrid backbone, a 256K context window ",
+        "url": "https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "vLLM Semantic Router Releases d3-ultra: A 27B Open Multimodal Decision Model",
+        "one_line": "vLLM Semantic Router released d3-ultra, a 27B open-weight multimodal decision model. It reads text, images and video once, then returns probabilities for every ",
+        "url": "https://www.marktechpost.com/2026/10/26/vllm-semantic-router-d3-ultra-27b-multimodal-decision-model/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "Announcing SOCI-indexed images for faster SageMaker AI jobs",
+        "one_line": "Seekable OCI (SOCI) indexing for Amazon SageMaker AI training and processing jobs takes full container image download off the critical path. SageMaker AI lazy-l",
+        "url": "https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs/",
+        "source": "AWS Machine Learning",
+        "importance": 3
+      },
+      {
+        "title": "GPT-6.1 Terra",
+        "one_line": "Fast, capable computer use at half the price Discussion | Link",
+        "url": "https://www.producthunt.com/products/openai",
+        "source": "Product Hunt",
+        "importance": 3
+      },
+      {
+        "title": "How Check Point accelerates vulnerability research with Daybreak",
+        "one_line": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer",
+        "url": "https://openai.com/index/check-point-daybreak",
+        "source": "OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "Fast, reliable A2UI, with swappable inference formats",
+        "one_line": "A2UI now supports swappable inference formats, introducing A2UI Express which uses up to 3x fewer tokens and cuts latency by compiling compact Python-style synt",
+        "url": "https://developers.googleblog.com/fast-reliable-a2ui/",
+        "source": "Google Developers",
+        "importance": 2
+      },
+      {
+        "title": "Building Conversational Commerce with Multi-Agent Swarms on GCP: A Working Prototype",
+        "one_line": "This document provides a publication template and metadata structure for a technical blog post focused on building Conversational User Interfaces (CUIs) using A",
+        "url": "https://developers.googleblog.com/building-conversational-commerce-with-multi-agent-swarms-on-gcp-a-working-prototype/",
+        "source": "Google Developers",
+        "importance": 2
+      },
+      {
+        "title": "AI promised less work. I've never worked more",
+        "one_line": "620 points, 617 comments on Hacker News",
+        "url": "https://oioannou.com/blog/ai-promised-less-work/",
+        "source": "Hacker News",
+        "importance": 2
+      }
+    ],
+    "Benchmarks & leaderboards": [],
+    "Research worth explaining": [
+      {
+        "title": "Trending on Hugging Face: orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF",
+        "one_line": "281 likes, pipeline: text-generation",
+        "url": "https://huggingface.co/orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF",
+        "source": "Hugging Face trending",
+        "importance": 4
+      },
+      {
+        "title": "Build specialized multimodal models with LFM3",
+        "one_line": "",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+        "source": "Hugging Face blog",
+        "importance": 2
+      },
+      {
+        "title": "Can we trust LLMs to judge whether a research idea is novel?",
+        "one_line": "",
+        "url": "https://huggingface.co/blog/allenai/novelty-bench",
+        "source": "Hugging Face blog",
+        "importance": 2
+      },
+      {
+        "title": "Trending on Hugging Face: baidu/Unlimited-OCR-2",
+        "one_line": "249 likes, pipeline: image-text-to-text",
+        "url": "https://huggingface.co/baidu/Unlimited-OCR-2",
+        "source": "Hugging Face trending",
+        "importance": 2
+      }
+    ],
+    "Business & industry": [
+      {
+        "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+        "one_line": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+        "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Who’s really in charge at Anthropic after the IPO?",
+        "one_line": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+        "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic uses its IPO letter to renew its pledge that Claude will never show ads",
+        "one_line": "Anthropic says it will keep ads out of Claude. In a cover letter accompanying its IPO filing, the company argues that the chatbot's sole incentive should be to ",
+        "url": "https://the-decoder.com/anthropic-uses-its-ipo-letter-to-renew-its-pledge-that-claude-will-never-show-ads/",
+        "source": "The Decoder",
+        "importance": 4
+      }
+    ]
+  }
+}
