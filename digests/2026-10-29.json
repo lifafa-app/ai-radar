@@ -1,0 +1,344 @@
+{
+  "summary": "89 new items collected. Ranked by keywords because Gemini was not available.",
+  "two_reel_day": false,
+  "two_reel_reason": "",
+  "picks": [
+    {
+      "title": "Research Introducing Mistral Large 4 October 6, 2026 By Mistral",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [],
+      "sources": [
+        "https://mistral.ai/news/mistral-large-4/"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO."
+      ],
+      "sources": [
+        "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's to"
+      ],
+      "sources": [
+        "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
+      ],
+      "verify": []
+    }
+  ],
+  "sections": {
+    "Model launches & updates": [
+      {
+        "title": "Research Introducing Mistral Large 4 October 6, 2026 By Mistral",
+        "one_line": "",
+        "url": "https://mistral.ai/news/mistral-large-4/",
+        "source": "Mistral",
+        "importance": 5
+      }
+    ],
+    "Apps & tools": [
+      {
+        "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+        "one_line": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+        "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+        "source": "TechCrunch AI",
+        "importance": 5
+      },
+      {
+        "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+        "one_line": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on ",
+        "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+        "source": "The Verge AI",
+        "importance": 5
+      },
+      {
+        "title": "Google Deepmind releases Gemini 4 Carbon just two weeks after Argon with gains across the board",
+        "one_line": "Just two weeks after Gemini 4 Argon, Google DeepMind is releasing Gemini 4 Carbon, which tops the Artificial Analysis Intelligence Index v5 with 59 points. Goog",
+        "url": "https://the-decoder.com/google-deepmind-releases-gemini-4-carbon-just-two-weeks-after-argon-with-gains-across-the-board/",
+        "source": "The Decoder",
+        "importance": 5
+      },
+      {
+        "title": "Google opens Android development to third-party AI agents and unveils new Gemini APIs",
+        "one_line": "Google is opening up Android Studio to third-party AI agents. Through a new \"Bring Your Own Agent\" feature, the IDE now supports more than 40 coding agents, inc",
+        "url": "https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis/",
+        "source": "The Decoder",
+        "importance": 5
+      },
+      {
+        "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+        "one_line": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+        "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "Gemini 4 Carbon",
+        "one_line": "812 points, 671 comments on Hacker News",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+        "one_line": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. ",
+        "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+        "one_line": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+        "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+        "one_line": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for",
+        "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Microsoft is ending Copilot support on smart TVs",
+        "one_line": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending suppo",
+        "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "Meta quietly launched an ‘AI pet journal’ app",
+        "one_line": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations.",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI teases Dots for Europe, but its Berlin DevDay was really about building a platform",
+        "one_line": "At DevDay Exchange in Berlin, OpenAI mostly repeated what it had already announced, but it did share a few new details. The AI assistant Dots should roll out mo",
+        "url": "https://the-decoder.com/openai-teases-dots-for-europe-but-its-berlin-devday-was-really-about-building-a-platform/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Claude for Legal now verifies sources automatically, then hands the file to a lawyer",
+        "one_line": "Anthropic is adding pre-built templates to Claude for Legal. These interactive overviews and tables simplify setup for legal teams and speed up routine work lik",
+        "url": "https://the-decoder.com/claude-for-legal-now-verifies-sources-automatically-then-hands-the-file-to-a-lawyer/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "With AI writing the code, entrepreneurial thinking is now what counts most for newcomers at Anthropic",
+        "one_line": "Anthropic manager Felix Rieseberg says the classic coding interview is dead because Claude now solves small programming tasks better than job candidates do. He'",
+        "url": "https://the-decoder.com/with-ai-writing-the-code-entrepreneurial-thinking-is-now-what-counts-most-for-newcomers-at-anthropic/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
+        "one_line": "Cybersecurity startup Cathedral used AI agents to break into Anthropic's internal systems through third-party software as part of a bug bounty program. Anthropi",
+        "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Legora is building the agentic operating system for legal work",
+        "one_line": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+        "url": "https://openai.com/index/legora",
+        "source": "OpenAI",
+        "importance": 4
+      },
+      {
+        "title": "We’re highlighting 20 scientific foundations, institutions, and research groups around the world that we’ve partnered with in an expansion of our AI for Science",
+        "one_line": "",
+        "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+        "source": "Anthropic",
+        "importance": 4
+      },
+      {
+        "title": "Someone built a 32-bit RISC-V CPU directly inside Qwen's model weights so it can execute instructions internaly!",
+        "one_line": "This might have implications for tool calling and computer use. Write-up: https://divagr.com/blog/qwenputer HF: https://huggingface.co/divagr1925/Qwen3.5-4B-Qwe",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhmo1q/someone_built_a_32bit_riscv_cpu_directly_inside/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Used Qwen 3.8 flash next on underspeced PC to Root and gut LG TV of spy and adware",
+        "one_line": "I post this because I was honestly quite impressed by the capabilities of this model from a opencode harness and wanted to share my experience. So i've been pla",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhoeo3/used_qwen_38_flash_next_on_underspeced_pc_to_root/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "CUDA: fuse MoE gate/up matmuls and GLU in MMQ by anujj · Pull Request #31188 · ggml-org/llama.cpp",
+        "one_line": "download your CUDA/MoE prompt-processing speedup today: GPU model master PR DGX Spark (GB10) Qwen3-30B-A3B Q4_K_M 2911.4 3410.8 +17.2% Qwen3.6-35B-A3B Q4_K_M 32",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhodj3/cuda_fuse_moe_gateup_matmuls_and_glu_in_mmq_by/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "I ran Doom inside the Qwen model weights!",
+        "one_line": "Inspired by the qwenputer project posted in this sub earlier today, I managed to get a basic version of Doom running on the virtual machine created in the post.",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xi2jfm/i_ran_doom_inside_the_qwen_model_weights/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+        "one_line": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has dec",
+        "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+        "source": "The Verge AI",
+        "importance": 3
+      },
+      {
+        "title": "Google DeepMind Introduces Gemini 4 Carbon, Its Top Model for Cyber Defense and Coding",
+        "one_line": "Google DeepMind introduced Gemini 4 Carbon, a frontier model that scores 59 on the Artificial Analysis Intelligence Index and 88.2% on SEC-bench Pro. Access sta",
+        "url": "https://www.marktechpost.com/2026/10/28/google-deepmind-gemini-4-carbon-frontier-model/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "MiniMax Open-Sources MCode Stack: 15 Agent Skills Its Coding Team Uses Daily",
+        "one_line": "MiniMax has open-sourced MCode Stack, an MIT-licensed repo of 17 SKILL.md skills and 5 checklists that its MiniMax Code team uses daily for code review, subagen",
+        "url": "https://www.marktechpost.com/2026/10/28/minimax-open-sources-mcode-stack-agent-skills/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "Polymathic AI and Princeton Researchers Release FlashMap, a Flow Map Drafter for 6.14x Faster LLM Decoding",
+        "one_line": "FlashMap is a speculative decoding drafter from Polymathic AI, Princeton and USC ISI researchers. It drafts 16 tokens jointly in one pass and reaches up to 6.14",
+        "url": "https://www.marktechpost.com/2026/10/28/flashmap-flow-map-speculative-decoding/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "The future of the firm",
+        "one_line": "How AI might enter the org chart—beneath, beside, and between us.",
+        "url": "https://openai.com/index/the-future-of-the-firm",
+        "source": "OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to",
+        "one_line": "",
+        "url": "https://www.anthropic.com/news/cyber-verification-program",
+        "source": "Anthropic",
+        "importance": 3
+      },
+      {
+        "title": "Hill-Climbing Agent Quality with Agents CLI Evaluation",
+        "one_line": "This post walks through the Agents CLI evaluation loop for systematically improving agent performance through continuous testing and grading. It demonstrates ho",
+        "url": "https://developers.googleblog.com/hill-climbing-agent-quality-with-agents-cli-evaluation/",
+        "source": "Google Developers",
+        "importance": 2
+      },
+      {
+        "title": "Smaller apps and faster GPU inference with LiteRT in Google Play services",
+        "one_line": "LiteRT in Google Play services now offers GPU inference powered by ML Drift, delivering about 1.4x faster performance alongside the new CompiledModel API. Switc",
+        "url": "https://developers.googleblog.com/smaller-apps-and-faster-gpu-inference-with-litert-in-google-play-services/",
+        "source": "Google Developers",
+        "importance": 2
+      },
+      {
+        "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+        "one_line": "435 points, 479 comments on Hacker News",
+        "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
+        "one_line": "282 points, 141 comments on Hacker News",
+        "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+        "one_line": "203 points, 127 comments on Hacker News",
+        "url": "https://surgehq.ai/blog/dayjob-tax",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Google AI gets cagey when asked who won the 2020 elections",
+        "one_line": "130 points, 63 comments on Hacker News",
+        "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Microsoft and Epic Games Suddenly Agree That AI Is Theft",
+        "one_line": "69 points, 33 comments on Hacker News",
+        "url": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Valve Responds to Developers Fearing AI Slop and Clones",
+        "one_line": "65 points, 77 comments on Hacker News",
+        "url": "https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "They released a tesseract successor (datalab-to/indra)",
+        "one_line": "Haven't tried it yet but we all know how tesseract is and the benchmarks show a beautiful spike in quality and speed. It's a 1M parameter model! I thought we'd ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhd7vt/they_released_a_tesseract_successor_datalabtoindra/",
+        "source": "r/LocalLLaMA",
+        "importance": 2
+      }
+    ],
+    "Benchmarks & leaderboards": [],
+    "Research worth explaining": [
+      {
+        "title": "Trending on Hugging Face: LiquidAI/LFM3-1.7B",
+        "one_line": "394 likes, pipeline: text-generation",
+        "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+        "source": "Hugging Face trending",
+        "importance": 2
+      },
+      {
+        "title": "Trending on Hugging Face: tencent/Hy-SimulMT-30B-A3B-FP8",
+        "one_line": "367 likes, pipeline: translation",
+        "url": "https://huggingface.co/tencent/Hy-SimulMT-30B-A3B-FP8",
+        "source": "Hugging Face trending",
+        "importance": 2
+      }
+    ],
+    "Business & industry": [
+      {
+        "title": "Harvey raised 500M for legal AI, I built the same and open sourced it",
+        "one_line": "69 points, 37 comments on Hacker News",
+        "url": "https://github.com/thomasunise/casecite",
+        "source": "Hacker News",
+        "importance": 2
+      }
+    ]
+  }
+}
