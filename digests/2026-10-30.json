@@ -1,0 +1,343 @@
+{
+  "summary": "90 new items collected. Ranked by keywords because Gemini was not available.",
+  "two_reel_day": false,
+  "two_reel_reason": "",
+  "picks": [
+    {
+      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't."
+      ],
+      "sources": [
+        "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Paris-based Mistral releases \"Le Chonk,\" a strong coding model that still trails China overall",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "Mistral has released the weights for Large 4, aka \"Le Chonk,\" a trillion-parameter model trained entirely in Europe. Mistral says it beats its open rivals at coding, and independent testing shows it's"
+      ],
+      "sources": [
+        "https://the-decoder.com/paris-based-mistral-releases-le-chonk-a-strong-coding-model-that-still-trails-china-overall/"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Research Le Chonk: Built for Coders, Trusted by Defenders. We release the weights of Le Chonk, advancing the frontier of open models in agentic coding and cyber",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [],
+      "sources": [
+        "https://mistral.ai/news/mistral-large-4-oss/"
+      ],
+      "verify": []
+    }
+  ],
+  "sections": {
+    "Model launches & updates": [
+      {
+        "title": "Research Le Chonk: Built for Coders, Trusted by Defenders. We release the weights of Le Chonk, advancing the frontier of open models in agentic coding and cyber",
+        "one_line": "",
+        "url": "https://mistral.ai/news/mistral-large-4-oss/",
+        "source": "Mistral",
+        "importance": 5
+      }
+    ],
+    "Apps & tools": [
+      {
+        "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+        "one_line": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+        "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+        "source": "TechCrunch AI",
+        "importance": 5
+      },
+      {
+        "title": "Paris-based Mistral releases \"Le Chonk,\" a strong coding model that still trails China overall",
+        "one_line": "Mistral has released the weights for Large 4, aka \"Le Chonk,\" a trillion-parameter model trained entirely in Europe. Mistral says it beats its open rivals at co",
+        "url": "https://the-decoder.com/paris-based-mistral-releases-le-chonk-a-strong-coding-model-that-still-trails-china-overall/",
+        "source": "The Decoder",
+        "importance": 5
+      },
+      {
+        "title": "API credits benefit for eligible ChatGPT subscriptions",
+        "one_line": "API credits benefit for eligible ChatGPT subscriptions Earlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: $100,",
+        "url": "https://simonwillison.net/2026/Oct/29/api-credits/",
+        "source": "Simon Willison",
+        "importance": 4
+      },
+      {
+        "title": "Claude Code regularly sends each background agent’s transcript to its model",
+        "one_line": "561 points, 225 comments on Hacker News",
+        "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+        "one_line": "328 points, 240 comments on Hacker News",
+        "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Claude Duet is the first personal-assistant-type harness that feels useful",
+        "one_line": "108 points, 93 comments on Hacker News",
+        "url": "https://fig.blue/posts/duet-is-the-future/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+        "one_line": "53 points, 15 comments on Hacker News",
+        "url": "https://news.ycombinator.com/item?id=50291116",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI-backed Thrive Holdings acquires ADT",
+        "one_line": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+        "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Meta quietly launches an AI fashion app called Style Sketch",
+        "one_line": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick",
+        "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+        "one_line": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet ",
+        "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+        "one_line": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The ne",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic is asking Wall Street to believe in AGI",
+        "one_line": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of th",
+        "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic’s business plan: Build God or die trying",
+        "one_line": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of pers",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up",
+        "one_line": "OpenAI is doubling usage limits across its paid plans, from Pro 100 to Pro 500. A planned cut to the Pro 200 quota was reversed after user pushback. More effici",
+        "url": "https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Experts adopt AI agent's random opinions and think they're their own, Anthropic study finds",
+        "one_line": "Anthropic gave 50 experts an AI agent whose preferences were set by coin toss. The experts followed the agent's view up to 86 percent of the time on judgment ca",
+        "url": "https://the-decoder.com/experts-adopt-ai-agents-random-opinions-and-think-theyre-their-own-anthropic-study-finds/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI's Astra becomes the main target for Chinese AI labs after Anthropic tightens its defenses",
+        "one_line": "Chinese AI labs are now mainly tapping OpenAI's most powerful model, GPT-6 Astra, instead of Anthropic's Claude. The article OpenAI's Astra becomes the main tar",
+        "url": "https://the-decoder.com/openais-astra-becomes-the-main-target-for-chinese-ai-labs-after-anthropic-tightens-its-defenses/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "An updated Model Spec for more capable and beneficial AI",
+        "one_line": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+        "url": "https://openai.com/index/updated-model-spec",
+        "source": "OpenAI",
+        "importance": 4
+      },
+      {
+        "title": "How Ropes & Gray is developing AI for transactional diligence",
+        "one_line": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+        "url": "https://openai.com/index/ropes-gray-ai-diligence",
+        "source": "OpenAI",
+        "importance": 4
+      },
+      {
+        "title": "Mistral Large 4 (Le Chonk) is now open weight",
+        "one_line": "submitted by /u/Few_Painter_5588 [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xil3qy/mistral_large_4_le_chonk_is_now_open_weight/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "mistralai/Mistral-Large-4-1T-A52B · Hugging Face",
+        "one_line": "https://huggingface.co/ggml-org/Mistral-Large-4-1T-A52B-GGUF https://huggingface.co/ggml-org/Mistral-Large-4-1T-A52B-NVFP4-GGUF https://huggingface.co/unsloth/M",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xil58b/mistralaimistrallarge41ta52b_hugging_face/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Why you can't trust cloud API endpoints: 40 days of coding-agent telemetry showing the exact day providers silently overwrote deepseek-v4.1-flash with -1017 (\"faster execution, shorter answers\" = 3x m",
+        "one_line": "Around mid-October deepseek-v4.1-flash suddenly started feeling much dumber in my coding agent, so I parsed my local session logs to see when it broke. Before t",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xiqw9i/why_you_cant_trust_cloud_api_endpoints_40_days_of/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "HemmingwayAI/Hemmingway-1.5 (Qwen finetune)",
+        "one_line": "https://huggingface.co/bartowski/HemmingwayAI_Hemmingway-1.5-GGUF from hemmingwayAI: Hemmingway-1.5 The undetectable AI. Writing indistinguishable from a human'",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xif7hy/hemmingwayaihemmingway15_qwen_finetune/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Worried about Qwen 4 License",
+        "one_line": "After Alibaba moved from Permissive OSS licenses to its own custom license with IMO ambiguous terms in models like Qwen3.8-Flash-Next, is there any indication t",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xifjn2/worried_about_qwen_4_license/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "SafeAgents: an open-source proxy that checks every tool call your coding agent makes before it runs",
+        "one_line": "SafeAgents is a small local proxy that sits between a coding agent and its model server. It checks each tool call in the model's response before the harness rec",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xii45s/safeagents_an_opensource_proxy_that_checks_every/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Qwen 3.8 Flash Next Creative Writing Ability",
+        "one_line": "I use a dual MI50 32gb Rig for an alliterated version of IQ3_S Qwen 3.8 Flash Next. I have seen some people say tha creative writing is good on Flash NeXT but i",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xid0cz/qwen_38_flash_next_creative_writing_ability/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "10 coding agents, one Qwen 3.8 27B, same llama-server: tokens and cache reuse differ more than pass rates",
+        "one_line": "Part 2 of my agent test (part 1 was a 4B model) Hardware I used: MacBook Pro M5 Max, 64 GB. Qwen 3.8 27B Q4 on llama.cpp, thinking off. Setup same model and ser",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xj182d/10_coding_agents_one_qwen_38_27b_same_llamaserver/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+        "one_line": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+        "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+        "source": "TechCrunch AI",
+        "importance": 3
+      },
+      {
+        "title": "Infini-AI-Lab Releases Hermit, an Open-Source Harness Adapter Framework for AI Agents",
+        "one_line": "Infini-AI-Lab released Hermit, an Apache-2.0 harness adapter framework that trains an external layer of instructions, skills, memory and tools from task feedbac",
+        "url": "https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "How we detect frontier model misalignment",
+        "one_line": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+        "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+        "source": "OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "Build Generative UI Apps with A2UI & CopilotKit Agents",
+        "one_line": "See Google A2Ui in action! Learn how to natively render agentic UIs across Langchain, AWS Strands, Microsoft agents, and Google ADK using CopilotKit SDKs for A2",
+        "url": "https://developers.googleblog.com/build-generative-ui-apps-with-a2ui-copilotkit-agents/",
+        "source": "Google Developers",
+        "importance": 2
+      },
+      {
+        "title": "LLM Voice",
+        "one_line": "355 points, 181 comments on Hacker News",
+        "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "We ran AI agent swarms in Minecraft and Mindustry",
+        "one_line": "171 points, 64 comments on Hacker News",
+        "url": "https://labs.ycombinator.com/projects/games/index.html",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Zombie stats: Where the numbers AI quotes come from",
+        "one_line": "147 points, 63 comments on Hacker News",
+        "url": "https://trakkr.ai/trakkr-research/zombie-stats",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+        "one_line": "141 points, 51 comments on Hacker News",
+        "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
+        "source": "Hacker News",
+        "importance": 2
+      }
+    ],
+    "Benchmarks & leaderboards": [],
+    "Research worth explaining": [
+      {
+        "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+        "one_line": "",
+        "url": "https://huggingface.co/blog/announcing-project-protostar",
+        "source": "Hugging Face blog",
+        "importance": 4
+      },
+      {
+        "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+        "one_line": "",
+        "url": "https://huggingface.co/blog/mistral-large4",
+        "source": "Hugging Face blog",
+        "importance": 4
+      },
+      {
+        "title": "Trending on Hugging Face: mistralai/Mistral-Large-4-1T-A52B",
+        "one_line": "1227 likes, pipeline: image-text-to-text",
+        "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+        "source": "Hugging Face trending",
+        "importance": 4
+      },
+      {
+        "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+        "one_line": "",
+        "url": "https://huggingface.co/blog/anydecisionmodel",
+        "source": "Hugging Face blog",
+        "importance": 3
+      },
+      {
+        "title": "Trending on Hugging Face: nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+        "one_line": "417 likes, pipeline: automatic-speech-recognition",
+        "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+        "source": "Hugging Face trending",
+        "importance": 2
+      }
+    ],
+    "Business & industry": []
+  }
+}
