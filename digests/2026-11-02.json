@@ -1,0 +1,344 @@
+{
+  "summary": "44 new items collected. Ranked by keywords because Gemini was not available.",
+  "two_reel_day": false,
+  "two_reel_reason": "",
+  "picks": [
+    {
+      "title": "DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "DeepSeek released dsh-superagent, an MIT-licensed research prototype that turns GitHub and Feishu requests into parallel worker sessions. In DeepSeek’s own simulation, p95 task completion fell to 15.7"
+      ],
+      "sources": [
+        "https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Anthropic's Mythos-class model allegedly leaked on Hugging Face",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "45 points, 46 comments on Hacker News"
+      ],
+      "sources": [
+        "https://news.ycombinator.com/item?id=50326727"
+      ],
+      "verify": []
+    },
+    {
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "Data centers are deeply unpopular. But what if we called them something else?"
+      ],
+      "sources": [
+        "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
+      ],
+      "verify": []
+    }
+  ],
+  "sections": {
+    "Model launches & updates": [],
+    "Apps & tools": [
+      {
+        "title": "DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent",
+        "one_line": "DeepSeek released dsh-superagent, an MIT-licensed research prototype that turns GitHub and Feishu requests into parallel worker sessions. In DeepSeek’s own simu",
+        "url": "https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/",
+        "source": "MarkTechPost",
+        "importance": 5
+      },
+      {
+        "title": "Anthropic's Mythos-class model allegedly leaked on Hugging Face",
+        "one_line": "45 points, 46 comments on Hacker News",
+        "url": "https://news.ycombinator.com/item?id=50326727",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+        "one_line": "Data centers are deeply unpopular. But what if we called them something else?",
+        "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI is steering ChatGPT users toward more paid usage",
+        "one_line": "OpenAI is now capping the number of paid ChatGPT accounts per device and payment card. Users who hit the limit can't start new subscriptions, and affected accou",
+        "url": "https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing",
+        "one_line": "OpenAI combines the Chat and Work modes into a single interface. Starting in December, Plus, Pro, and Business plans will share a common, token-based quota for ",
+        "url": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Getting incredible results with a single RTX 3090ti and 128gb of ram. Deepseek-V4.1-Flash-1017 (35 tok/s decode) and Qwen3.8-Flash-Next (130 tok/s decode)",
+        "one_line": "I'm sharing this here because this is working way better than it used to a few months ago with older models. I see people here posting slower speeds with much b",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlec67/getting_incredible_results_with_a_single_rtx/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "DeepSeek: Exploring Super-agent Design: Towards a More Autonomous Agent System",
+        "one_line": "DeepSeek Harness article on 𝕏: Exploring Super-agent Design: Towards a More Autonomous Agent System: https://x.com/DeepSeekHarness/status/2116857257245987236 Pa",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl1zn3/deepseek_exploring_superagent_design_towards_a/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Sorry Sam, my \"quite terrible\" home DRAM is at 100% now: patched Strata to make DeepSeek V4.1 agent sessions start 20× faster on a good old standard gaming GPU, no datacenter required",
+        "one_line": "Sam Altman recently said that \"from a global allocation perspective, actually, it's quite terrible to have everybody have a bunch of the world's limited supply ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xljdnj/sorry_sam_my_quite_terrible_home_dram_is_at_100/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "GLM-5.3-Flash on our H200s does most of my coding now while GPT-6.1 Sol orchestrates (OpenCode setup)",
+        "one_line": "I had been trying this setup for a couple of weeks and it working better than I expected. Recently, I deployed GLM-5.3-Flash (MoE, 320B total, 18B active) on on",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkz4lf/glm53flash_on_our_h200s_does_most_of_my_coding/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "tandem.cpp: Qwen3.8-Flash-Next at 97 tok/s on a single 4090 + 64 GB RAM, 3.3× llama.cpp, works for any MoE",
+        "one_line": "tandem.cpp is a patch set for llama.cpp that makes MoE models that don't fit in VRAM run faster. It keeps the most-used experts on the GPU and lets the CPU help",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xldent/tandemcpp_qwen38flashnext_at_97_toks_on_a_single/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "[Release] Drex Max v1: Open-weight 27B multimodal decision model, 262K context, local inference on Apple Silicon",
+        "one_line": "hey llamas, we open-sourced Drex-Max v1 at Nace.AI. it's a dense 27B multimodal decision model, released under Open RAIL-M. the main difference from a normal LL",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl5yfs/release_drex_max_v1_openweight_27b_multimodal/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon",
+        "one_line": "Nace AI open-sources Drex Max v1, a 27B multimodal decision model scoring 67.52 that runs on Apple Silicon. The post Nace AI Open-Sources Drex Max v1: A 27B Dec",
+        "url": "https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "The AI cost of JavaScript frameworks",
+        "one_line": "302 points, 230 comments on Hacker News",
+        "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+        "one_line": "149 points, 74 comments on Hacker News",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "It wasn't AI that flipped Proton's charge",
+        "one_line": "142 points, 81 comments on Hacker News",
+        "url": "https://blog.raed.dev/posts/proton-loser-thinking/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "So I guess everyone uses LLMs to think now",
+        "one_line": "63 points, 96 comments on Hacker News",
+        "url": "https://eva.ac/blog/llms/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Heretic 2.0 released: Model modification for everyone",
+        "one_line": "Dear fellow Llamas, after almost 5 months of development, I finally have the pleasure of announcing to you the immediate availability of the biggest Heretic rel",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl2tcm/heretic_20_released_model_modification_for/",
+        "source": "r/LocalLLaMA",
+        "importance": 2
+      },
+      {
+        "title": "Infernix - New Release!",
+        "one_line": "Over the past few weeks, I've been working on various improvements to my inference engine Infernix - specifically optimised for running the latest Qwen architec",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl4pf6/infernix_new_release/",
+        "source": "r/LocalLLaMA",
+        "importance": 2
+      },
+      {
+        "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+        "one_line": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+        "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
+        "one_line": "Adobe Research and UC San Diego built EditAgent, an AI system that edits images more like a Photoshop pro. Instead of retrying the same general-purpose editor o",
+        "url": "https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/",
+        "source": "The Decoder",
+        "importance": 2
+      },
+      {
+        "title": "Empathetic prompts can turn AI chatbots into seemingly traumatized conversational partners",
+        "one_line": "Researchers in Luxembourg put ChatGPT, Grok, and Gemini on the therapist's couch and found a safety problem: a warm, empathetic conversational style is enough t",
+        "url": "https://the-decoder.com/empathetic-prompts-can-turn-ai-chatbots-into-seemingly-traumatized-conversational-partners/",
+        "source": "The Decoder",
+        "importance": 2
+      },
+      {
+        "title": "Chinese AI models are politically complex, not just government mouthpieces, study finds",
+        "one_line": "A study by Vals AI tested 25 AI models for alignment with Chinese government positions and found surprising results. Chinese models respond to political questio",
+        "url": "https://the-decoder.com/chinese-ai-models-are-politically-complex-not-just-government-mouthpieces-study-finds/",
+        "source": "The Decoder",
+        "importance": 2
+      },
+      {
+        "title": "Google wants video AI to understand what people need as they work",
+        "one_line": "A Google-led research team built StreamVibe, a video agent designed to watch people cook or assemble furniture and speak up only when help is needed. A benchmar",
+        "url": "https://the-decoder.com/google-wants-video-ai-to-understand-what-people-need-as-they-workgoogle-researchers-are-teaching-a-video-assistant-when-to-offer-help/",
+        "source": "The Decoder",
+        "importance": 2
+      },
+      {
+        "title": "If in doubt, delete the uv.lock file",
+        "one_line": "I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is: If in doubt, dele",
+        "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+        "source": "Simon Willison",
+        "importance": 1
+      },
+      {
+        "title": "Quoting Kyle Kingsbury",
+        "one_line": "More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any",
+        "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+        "source": "Simon Willison",
+        "importance": 1
+      },
+      {
+        "title": "Don't people pay attention anymore when buying hardware for AI?",
+        "one_line": "I was trying to sell my old AM4 system, X470 / Ryzen 5 5600 / 64GB / RX580 / 1TB NVME and it didn't sell. Granted it was a bit pricey at 750€, because I took in",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl4ckr/dont_people_pay_attention_anymore_when_buying/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "Am I Crazy Or GLM 5.3 Flash is Hilarious?",
+        "one_line": "I am sorry for the useless thread, but I finally loaded GLM 5.3 Flash IQ4-XS and didn't know what to expect. I was earlier trying out DeepSeek 4.1 Flash 1017 IQ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkz4mo/am_i_crazy_or_glm_53_flash_is_hilarious/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "64GB isn't the dead zone anymore if you run agents",
+        "one_line": "https://preview.redd.it/hboxdgjh2xyh1.png?width=1230&format=png&auto=webp&s=cca6b2b7b08807a334ff5280e19d96133667fbb0 The usual advice was that 64GB is a dead zo",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xksj75/64gb_isnt_the_dead_zone_anymore_if_you_run_agents/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "FineDNA: the largest dataset to teach any LLM DNA (midtraining, SFT, RL)",
+        "one_line": "Hi everyone, we're releasing FineDNA, all the data we used to turn Qwen3-14B into Carbon-X, the strongest open language model on DNA. It contains: Midtraining: ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkwvwg/finedna_the_largest_dataset_to_teach_any_llm_dna/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "Meet Ava: In-browser local AI avatar with LFM3-Omni and WebGPU",
+        "one_line": "here: https://huggingface.co/spaces/townbox/ava submitted by /u/paf1138 [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl9577/meet_ava_inbrowser_local_ai_avatar_with_lfm3omni/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "Are bespoke inference engines overhyped? My Strata experience on 2× R9700",
+        "one_line": "My intention was to find a setup at least equal to qwen 3.8 27b Q8 MTP but with a larger context. Ideally 1M. I was already running Next Flash in Q2 with llama.",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl0oqz/are_bespoke_inference_engines_overhyped_my_strata/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "Silencio-2: an 18M TTS with emotion and sound tags, ~20x realtime on CPU (open weights)",
+        "one_line": "I made this, so treat it as biased. It is free and open, with no paid tier or API behind it. Silencio-2 is a fine-tune of Kyutai's Pocket TTS 18M that follows t",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl9yfi/silencio2_an_18m_tts_with_emotion_and_sound_tags/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+        "one_line": "submitted by /u/PferdOne [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkxt7a/memdoor_a_team_of_5_qwen3827b_models_beats_fable/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "Coding is solved* (exclusions apply)",
+        "one_line": "Good news, everyone! Having been inspired to revolutionize the field of computer science , I can now report that coding is solved! Sure, only if you care about ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl90rr/coding_is_solved_exclusions_apply/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "[GLB-3D-Coder] A tiny 4B coding model that creates 3D assets for Godot and other game engines",
+        "one_line": "Hey everyone! After sharing my previous 3D coding model, a lot of you asked about using it to generate assets for your games . That sounded like a fun direction",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlh0zw/glb3dcoder_a_tiny_4b_coding_model_that_creates_3d/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "new research: A tiny 109M-parameter model outperforms models up to 72B parameters at image-text alignment, using 42× less training data",
+        "one_line": "submitted by /u/Lazylion2 [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkzony/new_research_a_tiny_109mparameter_model/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "llama2.c on a 2006 iPod @ 80 MHz w/ 64 MB ram and no FPU",
+        "one_line": "hardware: PortalPlayer PP5022, ARM7TDMI @ 80 MHz, 64 MB ram wrote a fun rockbox plugin that runs Karpathy's llama2.c TinyStories models on an ipod video 5.5G. s",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlboqi/llama2c_on_a_2006_ipod_80_mhz_w_64_mb_ram_and_no/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "Do we really need all these \"speed\" posts?",
+        "one_line": "I appreciate the research and development that is going into these open source tools. However, there appears to be multiple posts on a daily basis about reachin",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xljjf2/do_we_really_need_all_these_speed_posts/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      }
+    ],
+    "Benchmarks & leaderboards": [],
+    "Research worth explaining": [
+      {
+        "title": "Trending on Hugging Face: speridlabs/idol",
+        "one_line": "304 likes, pipeline: image-to-3d",
+        "url": "https://huggingface.co/speridlabs/idol",
+        "source": "Hugging Face trending",
+        "importance": 2
+      },
+      {
+        "title": "Trending on Hugging Face: LiquidAI/LFM3-Omni-2B",
+        "one_line": "271 likes, pipeline: any-to-any",
+        "url": "https://huggingface.co/LiquidAI/LFM3-Omni-2B",
+        "source": "Hugging Face trending",
+        "importance": 2
+      }
+    ],
+    "Business & industry": []
+  }
+}
