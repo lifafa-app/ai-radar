@@ -1,0 +1,345 @@
+{
+  "summary": "110 new items collected. Ranked by keywords because Gemini was not available.",
+  "two_reel_day": false,
+  "two_reel_reason": "",
+  "picks": [
+    {
+      "title": "Scaling Git at OpenAI",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible."
+      ],
+      "sources": [
+        "https://openai.com/index/scaling-git-at-openai"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI."
+      ],
+      "sources": [
+        "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
+      ],
+      "verify": []
+    },
+    {
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies."
+      ],
+      "sources": [
+        "https://openai.com/index/dan-driscoll-joins-openai"
+      ],
+      "verify": []
+    }
+  ],
+  "sections": {
+    "Model launches & updates": [
+      {
+        "title": "The latest AI news we announced in October 2026",
+        "one_line": "Here are Google’s latest AI updates from October 2026",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+        "source": "Google AI",
+        "importance": 5
+      },
+      {
+        "title": "Introducing the Grid Protectors Program",
+        "one_line": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+        "url": "https://openai.com/index/grid-protectors-program",
+        "source": "OpenAI",
+        "importance": 5
+      }
+    ],
+    "Apps & tools": [
+      {
+        "title": "Scaling Git at OpenAI",
+        "one_line": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+        "url": "https://openai.com/index/scaling-git-at-openai",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "Preparing our next security sprint to harden OpenAI",
+        "one_line": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+        "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+        "one_line": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+        "url": "https://openai.com/index/dan-driscoll-joins-openai",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "Product · Nov 2, 2026 Giving every team a data scientist with Grok Bot",
+        "one_line": "",
+        "url": "https://x.ai/news/data-bot",
+        "source": "xAI",
+        "importance": 5
+      },
+      {
+        "title": "Official Statement: Qwen Models Will Stick to Open Source to the End!",
+        "one_line": "There were some rumours the last few days that Qwen4 will be the last open-weight series of Qwen, and future ones would be API only. The following statement con",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm28e6/official_statement_qwen_models_will_stick_to_open/",
+        "source": "r/LocalLLaMA",
+        "importance": 5
+      },
+      {
+        "title": "[Release] ISTA DeepSeek-V4.1-Flash-1017 GSQ-RCO Coder: a 763B model at 1 bit per parameter",
+        "one_line": "We have released a Coder build of DeepSeek-V4.1-Flash-1017, compressed with GSQ and RCO, in which half of the model's routed experts have been removed. DeepSeek",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlys6k/release_ista_deepseekv41flash1017_gsqrco_coder_a/",
+        "source": "r/LocalLLaMA",
+        "importance": 5
+      },
+      {
+        "title": "Astra can read and write weights to improve Qwen",
+        "one_line": "2126 points, 691 comments on Hacker News",
+        "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+        "one_line": "298 points, 240 comments on Hacker News",
+        "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1",
+        "one_line": "228 points, 268 comments on Hacker News",
+        "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic's growth just flattened",
+        "one_line": "182 points, 210 comments on Hacker News",
+        "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+        "one_line": "131 points, 88 comments on Hacker News",
+        "url": "https://momentic.ai/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings",
+        "one_line": "87 points, 30 comments on Hacker News",
+        "url": "https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "GPT-Rosalind-6 System Card Addendum",
+        "one_line": "66 points, 55 comments on Hacker News",
+        "url": "https://deploymentsafety.openai.com/gpt-rosalind-6",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+        "one_line": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the c",
+        "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+        "one_line": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+        "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
+        "one_line": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+        "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic clamps down on Claude’s AI video game clones",
+        "one_line": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+        "one_line": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "SpaceXSI apparently cuts Grok Bot quotas weeks after Musk called it his fastest-growing product",
+        "one_line": "SpaceXSI is apparently cutting usage limits for its AI agent Grok Bot, less than two weeks after Musk called it his fastest-growing product. The operating costs",
+        "url": "https://the-decoder.com/spacexsi-apparently-cuts-grok-bot-quotas-weeks-after-musk-called-it-his-fastest-growing-product/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic grows revenue twelvefold but posts $23 billion loss",
+        "one_line": "Anthropic swings back to an operating loss ahead of its blockbuster IPO. The article Anthropic grows revenue twelvefold but posts $23 billion loss appeared firs",
+        "url": "https://the-decoder.com/anthropic-grows-revenue-twelvefold-but-posts-23-billion-loss/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI prepares lobbying blitz for a post-midterm Washington",
+        "one_line": "OpenAI is gearing up for a political lobbying and PR push after the US midterms. The article OpenAI prepares lobbying blitz for a post-midterm Washington appear",
+        "url": "https://the-decoder.com/openai-prepares-lobbying-blitz-for-a-post-midterm-washington/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Qodo builds context into AI code review with Codex",
+        "one_line": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+        "url": "https://openai.com/index/qodo-codex-plugin",
+        "source": "OpenAI",
+        "importance": 4
+      },
+      {
+        "title": "GPT-6 Astra Edits Qwen Weights: MATH-500 7.9% to 48.1%",
+        "one_line": "submitted by /u/1-800-methdyke [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xma0tw/gpt6_astra_edits_qwen_weights_math500_79_to_481/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Not another tok/s post: local quants vs Claude on 9 real bugs",
+        "one_line": "There's a lot of talk here about not chasing tok/s by lobotomizing the model, and most of what I post is still speed numbers. So this is the other half: what th",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlwpqv/not_another_toks_post_local_quants_vs_claude_on_9/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Qwen 3.8 27b is sometimes so smart it scares me...",
+        "one_line": "For fun, I gave Qwen 3.8 27b a physics problem involving some heavy math. A little bit into its reasoning, Qwen took a look at its tools, found that it had acce",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmbym0/qwen_38_27b_is_sometimes_so_smart_it_scares_me/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Yet another reason to self host: Anthropic has (again) cut back on reverse engineering tools",
+        "one_line": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-al",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm33gr/yet_another_reason_to_self_host_anthropic_has/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Unsloth vs GSQ-RCO - 512K context DeepSeek-V4.1 GGUF benchmarks Terminal Bench",
+        "one_line": "We ran DeepSWE, Terminal Bench, Automation Bench, HLE, SciCode at 512K context on our DeepSeek UD version 3.1 GGUFs and show we're >10-20% better than GSQ-RCO W",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm102d/unsloth_vs_gsqrco_512k_context_deepseekv41_gguf/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Running UNCENSORED DeepSeek-V4.1-Flash-1017 on a 12 Gb VRAM",
+        "one_line": "Measured, refusals 85%→0% even in thinking, 3 sizes 12 GB GPU VRAM, 64GB RAM + SSD via Strata Engine We took ISTA-DASLab's GSQ-RCO quants of DeepSeek-V4.1-Flash",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm0uy0/running_uncensored_deepseekv41flash1017_on_a_12/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "😃Made My Own Invoicing Dekstop App With Qwen 3.8 27B+OpenCode+LM Studio On RTX 5090..Saved Me $100 a Year I Was Paying",
+        "one_line": "My first fully vibe coded Desktop app with Qwen 3.8 27B as someone with near 0 coding knowledge lol. Was paying $100 a year for an online Invoicing App so i dec",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm0i9m/made_my_own_invoicing_dekstop_app_with_qwen_38/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Abu Dhabi agrees landmark OpenAI deals to transform government services and education",
+        "one_line": "submitted by /u/TheNational_News [link] [comments]",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xlrt4s/abu_dhabi_agrees_landmark_openai_deals_to/",
+        "source": "r/OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "OpenAI Is Giving Up on Its Best Feature.",
+        "one_line": "OpenAI is going to start imposing limits on conversations in December. This was arguably the best feature that set OpenAI apart from every other AI company, and",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xlwh31/openai_is_giving_up_on_its_best_feature/",
+        "source": "r/OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "ChatGPT gets metered in tokens in December. The habit I'm dropping first is keeping one giant chat for each project",
+        "one_line": "OpenAI's help page says that starting in December, Plus, Pro and Business usage will be shared across ChatGPT and Codex and measured in tokens, \"the units of in",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xlyiu9/chatgpt_gets_metered_in_tokens_in_december_the/",
+        "source": "r/OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "ChatGPT stuck on “Adding pasted text...” indefinitely — anyone else experiencing this today?",
+        "one_line": "Is anyone else experiencing issues with ChatGPT processing large pasted-text attachments today? I frequently copy and paste long text, such as email chains, int",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xm30v8/chatgpt_stuck_on_adding_pasted_text_indefinitely/",
+        "source": "r/OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "OpenAI builds LifeVal to grade ChatGPT on childcare, budgets and paperwork",
+        "one_line": "submitted by /u/ryanmerket [link] [comments]",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xm41w1/openai_builds_lifeval_to_grade_chatgpt_on/",
+        "source": "r/OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "Cathedral will use OpenAI models to test OpenAI's defenses",
+        "one_line": "submitted by /u/ryanmerket [link] [comments]",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xmhvtg/cathedral_will_use_openai_models_to_test_openais/",
+        "source": "r/OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "OpenAI’s quarterly commit growth has exploded this year, rising to 2442% by Q4 2026 relative to Q1 2024",
+        "one_line": "https://openai.com/index/scaling-git-at-openai/ submitted by /u/Eliv_nurotic [link] [comments]",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xmfwde/openais_quarterly_commit_growth_has_exploded_this/",
+        "source": "r/OpenAI",
+        "importance": 3
+      }
+    ],
+    "Benchmarks & leaderboards": [],
+    "Research worth explaining": [],
+    "Business & industry": [
+      {
+        "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+        "one_line": "242 points, 175 comments on Hacker News",
+        "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic reveals $900B AI spending commitments ahead of IPO",
+        "one_line": "71 points, 44 comments on Hacker News",
+        "url": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f",
+        "source": "Hacker News",
+        "importance": 4
+      }
+    ]
+  }
+}
