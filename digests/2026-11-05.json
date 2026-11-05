@@ -1,0 +1,345 @@
+{
+  "summary": "114 new items collected. Ranked by keywords because Gemini was not available.",
+  "two_reel_day": false,
+  "two_reel_reason": "",
+  "picks": [
+    {
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code."
+      ],
+      "sources": [
+        "https://openai.com/index/openai-to-acquire-pierre"
+      ],
+      "verify": []
+    },
+    {
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service."
+      ],
+      "sources": [
+        "https://openai.com/index/devrev-enterprise-self-service"
+      ],
+      "verify": []
+    },
+    {
+      "title": "It's unacceptable that OpenAI is dumbing Codex down again when it's about to release a new version.",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "I never follow news about ChatGPT or Codex, but I can always tell when a new version is about to be released because the one I'm using suddenly becomes stupid. It's not psychosomatic. I notice it with"
+      ],
+      "sources": [
+        "https://www.reddit.com/r/OpenAI/comments/1xnjgfu/its_unacceptable_that_openai_is_dumbing_codex/"
+      ],
+      "verify": []
+    }
+  ],
+  "sections": {
+    "Model launches & updates": [
+      {
+        "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+        "one_line": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+        "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "Introducing Images 2.6",
+        "one_line": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+        "url": "https://openai.com/index/introducing-images-2-6",
+        "source": "OpenAI",
+        "importance": 5
+      }
+    ],
+    "Apps & tools": [
+      {
+        "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+        "one_line": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+        "url": "https://openai.com/index/openai-to-acquire-pierre",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+        "one_line": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+        "url": "https://openai.com/index/devrev-enterprise-self-service",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "It's unacceptable that OpenAI is dumbing Codex down again when it's about to release a new version.",
+        "one_line": "I never follow news about ChatGPT or Codex, but I can always tell when a new version is about to be released because the one I'm using suddenly becomes stupid. ",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xnjgfu/its_unacceptable_that_openai_is_dumbing_codex/",
+        "source": "r/OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+        "one_line": "631 points, 164 comments on Hacker News",
+        "url": "https://news.ycombinator.com/item?id=50363461",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+        "one_line": "73 points, 28 comments on Hacker News",
+        "url": "https://news.ycombinator.com/item?id=50368804",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI is already trying to shape the 2028 election",
+        "one_line": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own",
+        "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Open source AI is booming. Hugging Face explains who profits.",
+        "one_line": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexib",
+        "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+        "one_line": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexib",
+        "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Gemini for Home now plugs into AT&T’s smart security system",
+        "one_line": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integr",
+        "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "Nothing teases a screen-free AI device ahead of launch next month",
+        "one_line": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plan",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "ChatGPT will now make you animated GIFs",
+        "one_line": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allo",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "ChatGPT can now turn text prompts and photos into animated GIFs with OpenAI's Images 2.6 model",
+        "one_line": "OpenAI is adding a GIF feature to ChatGPT. With the new Images 2.6 model, users can create animated GIFs from text prompts or photos and then adjust speed and i",
+        "url": "https://the-decoder.com/chatgpt-can-now-turn-text-prompts-and-photos-into-animated-gifs-with-openais-images-2-6-model/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic's text watermark is easy to bypass on several older Claude models",
+        "one_line": "Anthropic is rolling out text watermarks to four more Claude models ahead of the EU AI Act's December deadline. But on older models like Claude Opus 4.6 and Son",
+        "url": "https://the-decoder.com/anthropics-text-watermark-is-easy-to-bypass-on-several-older-claude-models/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI acquires Pierre Computer Company to make Git keep up with AI coding agents",
+        "one_line": "OpenAI is buying Pierre Computer Company, the startup whose libraries already power the coding agent Codex. Combined with OpenAI's recently launched Git backend",
+        "url": "https://the-decoder.com/openai-acquires-pierre-computer-company-to-make-git-keep-up-with-ai-coding-agents/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "New open-source benchmark reveals reasoning as the biggest bottleneck for AI in cloud operations",
+        "one_line": "CloudOpsBench is a new open-source benchmark that measures how well AI agents handle typical DevOps tasks in the cloud, from fixing services and removing resour",
+        "url": "https://the-decoder.com/new-open-source-benchmark-reveals-reasoning-as-the-biggest-bottleneck-for-ai-in-cloud-operations/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "GPT-6 Astra sees the matrix and reprograms other AI models directly through their weights",
+        "one_line": "MIT researchers show that OpenAI's GPT-6 Astra can read and deliberately rewrite the weights of other AI models without traditional training. In one experiment,",
+        "url": "https://the-decoder.com/gpt-6-astra-sees-the-matrix-and-reprograms-other-ai-models-directly-through-their-weights/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic's new prototype proves which model wrote an AI response without exposing its weights",
+        "one_line": "Anthropic has released FlashProve, a research prototype that uses cryptography to verify whether an AI response actually came from the claimed model. The system",
+        "url": "https://the-decoder.com/anthropics-new-prototype-proves-which-model-wrote-an-ai-response-without-exposing-its-weights/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Deepseek alone accounted for 53% of all (27 trillion) tokens on Openrouter yesterday. Open-weights labs totaling over 75% now",
+        "one_line": "Source: https://dirac.run/labs-market-share#daily-token-share-by-lab submitted by /u/Comfortable-Rock-498 [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnz8ct/deepseek_alone_accounted_for_53_of_all_27/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Introducing Hy4 (open weights soon)",
+        "one_line": "submitted by /u/heatOverflower [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnhzbz/introducing_hy4_open_weights_soon/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Using Strata IQ4 Qwen Flash to edit Qwen 3.5 0.6B weight based on MIT CSAIL",
+        "one_line": "EDIT : NON COMPRESS GRAPH : https://n.uguu.se/ojTfpwwD.png Because why not. I did this since many weight editing trials using closed model. so i want to try loc",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnjwte/using_strata_iq4_qwen_flash_to_edit_qwen_35_06b/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "What are you looking forward to in Qwen 4?",
+        "one_line": "Qwen 4 will be upon us soon. What are you most excited about? I hope to see: 27B with more efficient KV, so 128k doesn't need 8 GiB or whatever. Flash the same ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xo3ikc/what_are_you_looking_forward_to_in_qwen_4/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Qwen 3.8 Flash Next GSQ RCO quant as good as BF16",
+        "one_line": "Unsloth has posted about their UD v3.1 quant for Qwen3.8 FN on X saying their new quant is 15% better than GSQ RCO as the almost same file size. But the takeawa",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnutr6/qwen_38_flash_next_gsq_rco_quant_as_good_as_bf16/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Rust inference engine for Qwen models on a 12 GB GPU, and it runs Qwen3.8-Flash-Next faster than the original Strata",
+        "one_line": "I've been working on this for a while: RustingStrata. It's an inference engine for Qwen GGUF models, written in pure Rust, no ggml. The CUDA kernels get compile",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnu9iv/rust_inference_engine_for_qwen_models_on_a_12_gb/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "NEW: OpenAI built a hidden ChatGPT shopping mall that turns Gmail into coupons",
+        "one_line": "submitted by /u/ryanmerket [link] [comments]",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xo1t8f/new_openai_built_a_hidden_chatgpt_shopping_mall/",
+        "source": "r/OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "How are you guys enforcing real time OpenAI API spending limits?",
+        "one_line": "I'm trying to get a better idea/view on how people are handling API spending limits once they have multiple workflows running at the same time. The issue I'm th",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xnss12/how_are_you_guys_enforcing_real_time_openai_api/",
+        "source": "r/OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "OpenAI adds GIF creation to ChatGPT with Images 2.6 and two new API models",
+        "one_line": "submitted by /u/ryanmerket [link] [comments]",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xo3lwb/openai_adds_gif_creation_to_chatgpt_with_images/",
+        "source": "r/OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "OpenAI, please stop pretending that new ways to talk to Dots are meaningful features",
+        "one_line": "You can text your Dot now! Why the hell would I want to do that? I already have the ChatGPT app installed on my phone. I can open it and message my Dot directly",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xnh5vl/openai_please_stop_pretending_that_new_ways_to/",
+        "source": "r/OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "The ChatGPT Business Promo for a free Standard seat is ending this week",
+        "one_line": "OpenAI is retiring the longstanding ChatGPT Business promo, where if you buy one Standard seat on monthly billing you get a second free for 48 months. This is t",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xnuf0b/the_chatgpt_business_promo_for_a_free_standard/",
+        "source": "r/OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "webAI Releases TwIL-8B, an 8.8B Reasoning Model Scoring 98.2 on MATH-500",
+        "one_line": "webAI released TwIL-8B, an 8.8B reasoning model post-trained from IBM Granite 4.2 8B. It posts 98.2 on MATH-500 and 81.6 on LiveCodeBench, but trails similar-si",
+        "url": "https://www.marktechpost.com/2026/11/04/webai-twil-8b-reasoning-model/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "Ricursive AI Releases Ripple-65B Preview: A 65B Dense Open-Weight Model Scoring 80.5 on Terminal-Bench 2.1",
+        "one_line": "Ricursive Intelligence released Ripple-65B Preview, a 65B dense open-weight LLM under Apache 2.0. It scores 80.5 on Terminal-Bench 2.1, ahead of US open models ",
+        "url": "https://www.marktechpost.com/2026/11/04/ricursive-ripple-65b-preview-open-weight-model/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "A thousand fewer paths to root",
+        "one_line": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+        "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+        "source": "OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "datasette-llm 0.1a10",
+        "one_line": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to j",
+        "url": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
+        "source": "Simon Willison",
+        "importance": 2
+      },
+      {
+        "title": "datasette-agent 0.5a0",
+        "one_line": "Release: datasette-agent 0.5a0 This is a significant release of Datasette Agent . The most notable new feature is called the panel - it lets the agent chat open",
+        "url": "https://simonwillison.net/2026/Nov/3/datasette-agent/",
+        "source": "Simon Willison",
+        "importance": 2
+      },
+      {
+        "title": "llm 0.37.1",
+        "one_line": "Release: llm 0.37.1 A bugfix release for LLM , with contributions from Steven Huang , Tao An , Arjan Mossel , and XQ . Tags: llm",
+        "url": "https://simonwillison.net/2026/Nov/3/llm/",
+        "source": "Simon Willison",
+        "importance": 2
+      },
+      {
+        "title": "AI is forcing us to pay off 40 years of technical debt",
+        "one_line": "1100 points, 642 comments on Hacker News",
+        "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+        "one_line": "592 points, 275 comments on Hacker News",
+        "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+        "one_line": "301 points, 297 comments on Hacker News",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+        "source": "Hacker News",
+        "importance": 2
+      }
+    ],
+    "Benchmarks & leaderboards": [],
+    "Research worth explaining": [
+      {
+        "title": "Trending on Hugging Face: moonshotai/Kimi-K3.1-Pro",
+        "one_line": "549 likes, pipeline: image-text-to-text",
+        "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+        "source": "Hugging Face trending",
+        "importance": 2
+      }
+    ],
+    "Business & industry": []
+  }
+}
