@@ -1,0 +1,344 @@
+{
+  "summary": "90 new items collected. Ranked by keywords because Gemini was not available.",
+  "two_reel_day": false,
+  "two_reel_reason": "",
+  "picks": [
+    {
+      "title": "Perplexity launches AI agents for work",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "59 points, 51 comments on Hacker News"
+      ],
+      "sources": [
+        "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
+      ],
+      "sources": [
+        "https://openai.com/index/partnering-with-hacktron"
+      ],
+      "verify": []
+    },
+    {
+      "title": "To evaluate the safety of our systems, Anthropic is giving employee-like access to a team from METR, a nonprofit that evaluates frontier AI models, and we're in",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [],
+      "sources": [
+        "https://www.anthropic.com/news/an-update-on-independent-evaluators"
+      ],
+      "verify": []
+    }
+  ],
+  "sections": {
+    "Model launches & updates": [
+      {
+        "title": "Research Introducing Timestral State-of-the-art probabilistic forecasts with just 209M parameters, outperforming larger models on CPU. October 15, 2026 By Mistr",
+        "one_line": "",
+        "url": "https://mistral.ai/news/timestral/",
+        "source": "Mistral",
+        "importance": 5
+      }
+    ],
+    "Apps & tools": [
+      {
+        "title": "Perplexity launches AI agents for work",
+        "one_line": "59 points, 51 comments on Hacker News",
+        "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
+        "source": "Hacker News",
+        "importance": 5
+      },
+      {
+        "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+        "one_line": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+        "url": "https://openai.com/index/partnering-with-hacktron",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "To evaluate the safety of our systems, Anthropic is giving employee-like access to a team from METR, a nonprofit that evaluates frontier AI models, and we're in",
+        "one_line": "",
+        "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+        "source": "Anthropic",
+        "importance": 5
+      },
+      {
+        "title": "AI for scientific discovery: How researchers use Claude",
+        "one_line": "88 points, 37 comments on Hacker News",
+        "url": "https://www.anthropic.com/research/how-researchers-use-claude",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+        "one_line": "76 points, 33 comments on Hacker News",
+        "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Perplexity now has its own always-on AI agent",
+        "one_line": "Perplexity is launching \"Teammates,\" always-on agents that work through ongoing projects on their own virtual machines. The feature requires the Max plan at $20",
+        "url": "https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July",
+        "one_line": "Nonprofit METR spent eleven weeks auditing Anthropic's internal research data and concluded that the pace of model development has roughly doubled, with about 8",
+        "url": "https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic adds bank account access to Claude so users can track their spending",
+        "one_line": "Anthropic is introducing a new feature in Claude called Personal Finance, which allows users to connect their bank and card accounts and ask questions about the",
+        "url": "https://the-decoder.com/anthropic-adds-bank-account-access-to-claude-so-users-can-track-their-spending/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Measuring how AI agents handle everyday wet-lab science",
+        "one_line": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+        "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+        "source": "OpenAI",
+        "importance": 4
+      },
+      {
+        "title": "NousResearch/Arete-27B · Hugging Face (Qwen finetune)",
+        "one_line": "https://huggingface.co/bartowski/NousResearch_Arete-27B-GGUF from NousResearch: Arete-27B We post-trained over Alibaba's Qwen3.8-27B to reinforce western values",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpmj33/nousresearcharete27b_hugging_face_qwen_finetune/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "pi + strata + qwen 3.8 flash next q4 k xl --> funny stuff in logs",
+        "one_line": "Whilst the agent was hammering away at an audio engine task, i suddenly saw it daydreaming https://preview.redd.it/0ukxpj8fryzh1.png?width=1936&format=png&auto=",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xp8ys0/pi_strata_qwen_38_flash_next_q4_k_xl_funny_stuff/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "moe-cache : LRFU/MQ-like hybrid cache, ClassLRU by sanmai · Pull Request #31233 · ggml-org/llama.cpp",
+        "one_line": "Replace SLRU with a cache that prioritizes frequently used experts in classes, ranked using decaying usage history. With a warm cache, I measured +6% decode on ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpfvfz/moecache_lrfumqlike_hybrid_cache_classlru_by/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "CyberTiel35BA3B working on Blender Rigging via MCP. 8GB VRAM, 16GB RAM. llama.cpp.",
+        "one_line": "Not a native English speaker. Written with my own ten fingers, one finger is broken btw. Plz bare with me. I still love to write text myself. My PC is suck for ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xp8sjd/cybertiel35ba3b_working_on_blender_rigging_via/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Extend Claude Code to remote sessions on Amazon Bedrock AgentCore with security controls",
+        "one_line": "Run Claude Code as a remote agent on Amazon Bedrock AgentCore. Each coding task runs in its own isolated session in your AWS account, every model call goes thro",
+        "url": "https://aws.amazon.com/blogs/machine-learning/extend-claude-code-to-remote-sessions-on-amazon-bedrock-agentcore-with-security-controls/",
+        "source": "AWS Machine Learning",
+        "importance": 3
+      },
+      {
+        "title": "Agent Distraction",
+        "one_line": "Analysis of over 913,000 coding agent sessions reveals that 13% expose agents to inline TODO(b/...) comments. In 6% of encounters, agents act on these comments,",
+        "url": "https://developers.googleblog.com/agent-distraction/",
+        "source": "Google Developers",
+        "importance": 2
+      },
+      {
+        "title": "Evaluating AI agents: moving past the vibe check",
+        "one_line": "A practical engineering guide and reference architecture for establishing continuous evaluation pipelines for multi-turn AI agents using Gemini Enterprise Agent",
+        "url": "https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/",
+        "source": "Google Developers",
+        "importance": 2
+      },
+      {
+        "title": "AI is dramatically accelerating AI research",
+        "one_line": "212 points, 160 comments on Hacker News",
+        "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "I struggle to believe that AI R&D is ingenious",
+        "one_line": "180 points, 184 comments on Hacker News",
+        "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+        "one_line": "125 points, 56 comments on Hacker News",
+        "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Memorilla: Latent Semantic Memory for LLMs",
+        "one_line": "88 points, 7 comments on Hacker News",
+        "url": "https://arxiv.org/abs/2610.21375",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+        "one_line": "82 points, 16 comments on Hacker News",
+        "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Closed AI models dominate the price-performance frontier",
+        "one_line": "76 points, 72 comments on Hacker News",
+        "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
+        "one_line": "60 points, 52 comments on Hacker News",
+        "url": "https://obelisk.club/research/app-store-2026",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Latest Open-Source Labs are gutting away cybersecurity and reverse-engineering capabilities",
+        "one_line": "Kimi K3.1 and Tencent’s Hy4 are both gutting out cybersecurity, reverse engineering, and vulnerability-patching capabilities from their open-source models. This",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xp9jt1/latest_opensource_labs_are_gutting_away/",
+        "source": "r/LocalLLaMA",
+        "importance": 2
+      },
+      {
+        "title": "Introducing Inkling 2 Small",
+        "one_line": "Today we are introducing our second model generation with Inkling 2 Small. It is a Mixture-of-Experts model with 594B total parameters, 17B active , and support",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xp32od/introducing_inkling_2_small/",
+        "source": "r/LocalLLaMA",
+        "importance": 2
+      },
+      {
+        "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+        "one_line": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+        "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+        "one_line": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+        "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "How a Blue Wave midterm might reshape the AI industry",
+        "one_line": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot me",
+        "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "After the midterms, is the AI industry in for a rough two years?",
+        "one_line": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot me",
+        "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+        "one_line": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+        "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+        "one_line": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State ",
+        "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+        "source": "The Verge AI",
+        "importance": 2
+      },
+      {
+        "title": "All the latest updates on AI data centers",
+        "one_line": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry server",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+        "source": "The Verge AI",
+        "importance": 2
+      }
+    ],
+    "Benchmarks & leaderboards": [],
+    "Research worth explaining": [
+      {
+        "title": "Trending on Hugging Face: DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+        "one_line": "2598 likes, pipeline: image-text-to-text",
+        "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+        "source": "Hugging Face trending",
+        "importance": 2
+      }
+    ],
+    "Business & industry": [
+      {
+        "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+        "one_line": "239 points, 495 comments on Hacker News",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic IPO valuation talks drop to $1.3T",
+        "one_line": "93 points, 1 comments on Hacker News",
+        "url": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+        "one_line": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+        "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+        "one_line": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI",
+        "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+        "one_line": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the worl",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic's $1.5 trillion IPO hits resistance as investors balk at valuation",
+        "one_line": "Anthropic's IPO is in trouble as investors push back on the $1.5 trillion valuation and the tech market sells off. The article Anthropic's $1.5 trillion IPO hit",
+        "url": "https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/",
+        "source": "The Decoder",
+        "importance": 4
+      }
+    ]
+  }
+}
