@@ -1,0 +1,345 @@
+{
+  "summary": "75 new items collected. Ranked by keywords because Gemini was not available.",
+  "two_reel_day": false,
+  "two_reel_reason": "",
+  "picks": [
+    {
+      "title": "Goodbye Claude, hello Pi",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "704 points, 435 comments on Hacker News"
+      ],
+      "sources": [
+        "https://caleb.software/posts/claude-to-pi.html"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "616 points, 361 comments on Hacker News"
+      ],
+      "sources": [
+        "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "369 points, 160 comments on Hacker News"
+      ],
+      "sources": [
+        "https://github.com/synchopate/llama-modchip"
+      ],
+      "verify": []
+    }
+  ],
+  "sections": {
+    "Model launches & updates": [],
+    "Apps & tools": [
+      {
+        "title": "Goodbye Claude, hello Pi",
+        "one_line": "704 points, 435 comments on Hacker News",
+        "url": "https://caleb.software/posts/claude-to-pi.html",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+        "one_line": "616 points, 361 comments on Hacker News",
+        "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+        "one_line": "369 points, 160 comments on Hacker News",
+        "url": "https://github.com/synchopate/llama-modchip",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News",
+        "one_line": "OpenAI co-founder Andrej Karpathy used Claude's Opus 5.5 to filter 43 million Hacker News comments into 6,454 curated videos. The result beats YouTube's own rec",
+        "url": "https://the-decoder.com/andrej-karpathy-built-a-curated-video-platform-in-a-weekend-using-claude-and-20-years-of-hacker-news/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "GPT-5.5 dataset across my used 25 billion tokens!",
+        "one_line": "Cheers for u/New_Comfortable7240 for santitisation! 12,121 tool calls here! submitted by /u/-MaskNinja- [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr3ymf/gpt55_dataset_across_my_used_25_billion_tokens/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "The Qwen Flash Next alibaba URL thing happened to me too just now",
+        "one_line": "It seems to have really confused itself too 😭 I was having it make a sort of Github release checker script and it snuck those two URL fetch tool calls in amongs",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr3ifw/the_qwen_flash_next_alibaba_url_thing_happened_to/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "How much code do AI models and harnesses add? I made an open-source benchmark to measure code complexity.",
+        "one_line": "Existing benchmarks measure the solve rate and token output/cost, but don't punish excess code or overengineering, which increases technical debt in the long te",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrathc/how_much_code_do_ai_models_and_harnesses_add_i/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Gemini 4 Hyperion in Antigravity right now",
+        "one_line": "Gemini 4 Hyperion, mostly references to it right now, has just appeared inside Antigravity, both CLI and App. Here is the breakdown (and no, contrary to what ev",
+        "url": "https://www.reddit.com/r/GeminiAI/comments/1xr9awh/gemini_4_hyperion_in_antigravity_right_now/",
+        "source": "r/GeminiAI",
+        "importance": 3
+      },
+      {
+        "title": "Gemini always trying to get me to stop using it, it kinda pisses me off",
+        "one_line": "Like seriously all the time it's telling me to get off Gemini. \"You're not going to figure out x at 2am, go to bed.\" And then it even makes the responses notice",
+        "url": "https://www.reddit.com/r/GeminiAI/comments/1xqtkfz/gemini_always_trying_to_get_me_to_stop_using_it/",
+        "source": "r/GeminiAI",
+        "importance": 3
+      },
+      {
+        "title": "🗂️ Folders for the Gemini sidebar.",
+        "one_line": "Folders for your Gemini sidebar. This userscript adds a folder system to gemini.google.com: create folders (with colors and open/closed folder icons), organize ",
+        "url": "https://www.reddit.com/r/GeminiAI/comments/1xqokp3/folders_for_the_gemini_sidebar/",
+        "source": "r/GeminiAI",
+        "importance": 3
+      },
+      {
+        "title": "Gemini recomendation",
+        "one_line": "Told gemini what i intended by signing up to an AI, Claude recomended itself Chatgpt recomended itself Gemini recomended Chatgpt submitted by /u/Rick_Neves [lin",
+        "url": "https://www.reddit.com/r/GeminiAI/comments/1xr3wus/gemini_recomendation/",
+        "source": "r/GeminiAI",
+        "importance": 3
+      },
+      {
+        "title": "I asked Gemini to plan a coffee with my best friend. It had other plans. ☕💀",
+        "one_line": "https://preview.redd.it/93tul0pj5f0i1.png?width=520&format=png&auto=webp&s=48e1dced75715f89c187008d3e4b89169315d13f submitted by /u/RyzovaTech [link] [comments]",
+        "url": "https://www.reddit.com/r/GeminiAI/comments/1xr33xs/i_asked_gemini_to_plan_a_coffee_with_my_best/",
+        "source": "r/GeminiAI",
+        "importance": 3
+      },
+      {
+        "title": "I made Joe-ai, a free, open-source desktop app that sets up Ollama and ComfyUI for you and runs local AI tasks from one window",
+        "one_line": "submitted by /u/sirgijoe [link] [comments]",
+        "url": "https://www.reddit.com/r/GeminiAI/comments/1xr27ks/i_made_joeai_a_free_opensource_desktop_app_that/",
+        "source": "r/GeminiAI",
+        "importance": 3
+      },
+      {
+        "title": "Can I criticize that Gemini app is really worse?",
+        "one_line": "I’m on IOS 18.5 and I don’t know it is because of IOS or Android or version but Gemini app I used is really glitch, it always freeze that I need to close and re",
+        "url": "https://www.reddit.com/r/GeminiAI/comments/1xqrwec/can_i_criticize_that_gemini_app_is_really_worse/",
+        "source": "r/GeminiAI",
+        "importance": 3
+      },
+      {
+        "title": "Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding",
+        "one_line": "Google's Elephant-Goldfish Model plugin makes coding agents draft specs, then runs 5 zero-context review stages before any code. The post Google AI Releases Ele",
+        "url": "https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared",
+        "one_line": "A config-verified comparison of how 10 open MoE models route tokens: total and active parameters, expert counts, top-k, shared experts, gating functions and loa",
+        "url": "https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "Agent memory needs its OpenTelemetry moment",
+        "one_line": "175 points, 103 comments on Hacker News",
+        "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "How I Fight AI Brain Fry",
+        "one_line": "159 points, 130 comments on Hacker News",
+        "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Why I will not be using LLMs in my coding",
+        "one_line": "108 points, 222 comments on Hacker News",
+        "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+        "one_line": "89 points, 108 comments on Hacker News",
+        "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Apple is racing to make Siri more agentic",
+        "one_line": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compe",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+        "source": "The Verge AI",
+        "importance": 2
+      },
+      {
+        "title": "The brain-as-computer metaphor shaped modern AI but may be misleading the consciousness debate",
+        "one_line": "Consciousness researchers Anil Seth, Ned Block, and Giulio Tononi argue in a Nature commentary that today's AI systems aren't conscious and won't become so on s",
+        "url": "https://the-decoder.com/the-brain-as-computer-metaphor-shaped-modern-ai-but-may-be-misleading-the-consciousness-debate/",
+        "source": "The Decoder",
+        "importance": 2
+      },
+      {
+        "title": "The inventor of the bitter lesson has a bitter lesson for LLM scaling enthusiasts",
+        "one_line": "Turing Award winner Richard Sutton reaffirms that raw compute alone isn't enough for intelligence and that fundamentally new learning methods are needed. Ex-Ope",
+        "url": "https://the-decoder.com/the-inventor-of-the-bitter-lesson-has-a-bitter-lesson-for-llm-scaling-enthusiasts/",
+        "source": "The Decoder",
+        "importance": 2
+      },
+      {
+        "title": "AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test",
+        "one_line": "Alibaba's new coding-agent benchmark, Co-Design Bench, tests AI agents on real user requests that already tripped them up in practice. Even GPT-6 Astra, the top",
+        "url": "https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test/",
+        "source": "The Decoder",
+        "importance": 2
+      },
+      {
+        "title": "Nous Research Releases Arete-27B that Cuts Qwen3.8-27B Propaganda From 22% to 0.9%",
+        "one_line": "Nous Research released Arete-27B, an Apache 2.0 fine-tune of Qwen3.8-27B. On Nous’s 803-prompt eval, propaganda answers fell from 22% to 0.9% while Hermes Bench",
+        "url": "https://www.marktechpost.com/2026/11/07/nous-research-arete-27b-qwen3-8-27b-propaganda-fine-tune/",
+        "source": "MarkTechPost",
+        "importance": 2
+      },
+      {
+        "title": "parse_number() as a SQLite extension: C vs Rust",
+        "one_line": "Research: parse_number() as a SQLite extension: C vs Rust I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C ",
+        "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
+        "source": "Simon Willison",
+        "importance": 1
+      },
+      {
+        "title": "\"Does censorship exist in [country]?\", according to various LLMs",
+        "one_line": "I wrote a small program that asks the same Yes/No question about every country to a language model, and generates an SVG world map that visualizes the model's r",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr09nq/does_censorship_exist_in_country_according_to/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "Users have started buying RTX 5060 Ti 16GB graphics cards en masse for the sake of AI.",
+        "one_line": "Oh look, thats us! submitted by /u/ab2377 [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr01bj/users_have_started_buying_rtx_5060_ti_16gb/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "tencent/Qwen3.8-27B-DSpine-b16 · Hugging Face",
+        "one_line": "Apparently Tencent has developed a new speculative decoding method. 3x faster decoding for 27B models? submitted by /u/emdeka87 [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr2aaa/tencentqwen3827bdspineb16_hugging_face/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "4x Radeon AI PRO R9700 + 2x RTX 3090 on one x16 slot, using a PCIe switch",
+        "one_line": "submitted by /u/bolts98 [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr2a6y/4x_radeon_ai_pro_r9700_2x_rtx_3090_on_one_x16/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "Joined the 4x R9700 Club | Initial Benchmarks for QFN 3.8 Below",
+        "one_line": "Posted this on the r/R9700 subreddit as well, but figured I'd share my initial findings here. tl;dr - One user writes at about 190 tok/s. Prefill runs at about ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrcia4/joined_the_4x_r9700_club_initial_benchmarks_for/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier.",
+        "one_line": "hey, its Alti from Nace. We released a small update with Drex Max v1.1 , both achieving the SOTA and Pareto frontier for decision models. We did all that by ite",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr2rqk/artificial_analysis_multimodal_decision_model/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "Kimi-K3.1-Pro-Coder (2.8T) | 1.77 TB -> 775 GB (-56%) | 36.8 TPS (Batch) / 10.8 TPS on 1x Blackwell | 96.7% on both AIME 2025 and LiveCodeBench",
+        "one_line": "Up front: I know a 775 GB quant is not for everyone , and this is definitely a more experimental setup and quant than I usually do, but I think it was a great s",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr777l/kimik31procoder_28t_177_tb_775_gb_56_368_tps/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "Rumor: Moonshot Kimi roadmap",
+        "one_line": "EOY 2026: Kimi K3 Flash, will replace Kimi K2.8 and compete with DeepSeek V4.1 Flash. Early 2027: Kimi 3.5 , same 3T parameters, that is faster at reaching simp",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr2t4c/rumor_moonshot_kimi_roadmap/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "How do you locally benchmark and compare local LLMs?",
+        "one_line": "If I wanted to locally compare performance for multiple different offline LLM models across various modalities (speed, efficiency, reasoning, tool use, programi",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrbhdf/how_do_you_locally_benchmark_and_compare_local/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "Using the google search ai mode for the past few months is like watching dementia progression",
+        "one_line": "submitted by /u/rexyuan [link] [comments]",
+        "url": "https://www.reddit.com/r/GeminiAI/comments/1xr7yxg/using_the_google_search_ai_mode_for_the_past_few/",
+        "source": "r/GeminiAI",
+        "importance": 1
+      }
+    ],
+    "Benchmarks & leaderboards": [],
+    "Research worth explaining": [
+      {
+        "title": "Trending on Hugging Face: NousResearch/Arete-27B",
+        "one_line": "294 likes, pipeline: text-generation",
+        "url": "https://huggingface.co/NousResearch/Arete-27B",
+        "source": "Hugging Face trending",
+        "importance": 2
+      },
+      {
+        "title": "Trending on Hugging Face: webAI-Official/TwIL-8B",
+        "one_line": "234 likes, pipeline: text-generation",
+        "url": "https://huggingface.co/webAI-Official/TwIL-8B",
+        "source": "Hugging Face trending",
+        "importance": 2
+      },
+      {
+        "title": "Trending on Hugging Face: unsloth/Qwen3.8-Flash-Next-GGUF",
+        "one_line": "1538 likes, pipeline: image-text-to-text",
+        "url": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
+        "source": "Hugging Face trending",
+        "importance": 2
+      }
+    ],
+    "Business & industry": [
+      {
+        "title": "OpenAI raises $11B at a $1.25T valuation",
+        "one_line": "181 points, 203 comments on Hacker News",
+        "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+        "source": "Hacker News",
+        "importance": 4
+      }
+    ]
+  }
+}
