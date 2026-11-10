@@ -1,0 +1,346 @@
+{
+  "summary": "95 new items collected. Ranked by keywords because Gemini was not available.",
+  "two_reel_day": false,
+  "two_reel_reason": "",
+  "picks": [
+    {
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships."
+      ],
+      "sources": [
+        "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users."
+      ],
+      "sources": [
+        "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show impr"
+      ],
+      "sources": [
+        "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2"
+      ],
+      "verify": []
+    }
+  ],
+  "sections": {
+    "Model launches & updates": [
+      {
+        "title": "ChatGPT Enterprise now available in AWS Marketplace",
+        "one_line": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationship",
+        "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+        "source": "OpenAI",
+        "importance": 5
+      }
+    ],
+    "Apps & tools": [
+      {
+        "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+        "one_line": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+        "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+        "source": "TechCrunch AI",
+        "importance": 5
+      },
+      {
+        "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+        "one_line": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+        "source": "The Verge AI",
+        "importance": 5
+      },
+      {
+        "title": "Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increa",
+        "one_line": "",
+        "url": "https://www.anthropic.com/news/public-benefit-fund",
+        "source": "Anthropic",
+        "importance": 5
+      },
+      {
+        "title": "Introducing Claude Fable 5.2 on AWS",
+        "one_line": "Claude Fable 5.2 and Claude Mythos 5.2 are now available on Amazon Bedrock and Claude Platform on AWS. Learn what's new in both models, why Fable 5.2 matters fo",
+        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/",
+        "source": "AWS Machine Learning",
+        "importance": 5
+      },
+      {
+        "title": "llm-anthropic 0.31",
+        "one_line": "Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. I've added them to llm-anthropic , so you can now run prompts through Fable 5.2 l",
+        "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+        "source": "Simon Willison",
+        "importance": 4
+      },
+      {
+        "title": "Locating the source of a mysterious beep with Claude",
+        "one_line": "Our house has a box room, full of boxes that we still haven't unpacked from our last move. A couple of weeks ago something in that room started intermittently b",
+        "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+        "source": "Simon Willison",
+        "importance": 4
+      },
+      {
+        "title": "Claude Fable 5.2 and Mythos 5.2",
+        "one_line": "967 points, 6 comments on Hacker News",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Google Gemini routes personal Drive files and emails to human annotators",
+        "one_line": "479 points, 114 comments on Hacker News",
+        "url": "https://github.com/thisisme6598/gemini_files/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+        "one_line": "313 points, 230 comments on Hacker News",
+        "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
+        "one_line": "206 points, 72 comments on Hacker News",
+        "url": "https://news.ycombinator.com/item?id=50422628",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+        "one_line": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+        "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+        "one_line": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
+        "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do",
+        "one_line": "Meta is introducing Muse Ember, its smallest and most efficient AI model, optimized for repetitive agent tasks such as tool calls, routing, and data extraction.",
+        "url": "https://the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "CodeRabbit scales agentic software development and ships 20x more",
+        "one_line": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+        "url": "https://openai.com/index/coderabbit-codex-daybreak",
+        "source": "OpenAI",
+        "importance": 4
+      },
+      {
+        "title": "L11 N8147 is a neuron that will make Qwen-3.5-4B get things confidently wrong while being weirdly snarky... But also makes it write interesting poetry",
+        "one_line": "Inspired by some of the other brain surgery posts, I wanted to see if I could find anything interesting in Qwen. Not particularly useful to make it get things w",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrkomn/l11_n8147_is_a_neuron_that_will_make_qwen354b_get/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "ConceptCountry/qwen-concept-27b · Hugging Face",
+        "one_line": "submitted by /u/Thrumpwart [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrxwg1/conceptcountryqwenconcept27b_hugging_face/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Qwen 3.8 FN getting stressed from messing up",
+        "one_line": "Qwen 3.8 Flash Next getting confused on how it keeps messing up. This is the only time I noticed it happening in a 6hr run. I'm running IQ3_S on high effort on ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs2okh/qwen_38_fn_getting_stressed_from_messing_up/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Same prompt, DeepSeek V4.1 Flash vs Qwen 3.8 FN: 94 tok/s vs 350 tok/s",
+        "one_line": "I wanted to see how big of a difference there is between arguably two of the top MoE models that you can actually run locally, so I ran the same one shot prompt",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs7ffm/same_prompt_deepseek_v41_flash_vs_qwen_38_fn_94/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "M4 Pro vs M5 Pro (24GB): Qwen 3.8 Flash Next IQ3 with MoEShift at 374 tok/s prefill, 14.7 tok/s decode, 8.5GB peak memory",
+        "one_line": "I benchmarked Qwen3.8-Flash-Next 125B ISTA-DASLab's GSQ-RCO IQ3_XXS quant (76GB on disk), on two Macs with 24GB unified memory using MoEShift backend: Metric M4",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrq2fv/m4_pro_vs_m5_pro_24gb_qwen_38_flash_next_iq3_with/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents",
+        "one_line": "Reason Machines has open-sourced Aspen, a self-hosted Git server for AI agents. It follows OpenAI’s Pando design and sustained 567 pushes per second on one 8-co",
+        "url": "https://www.marktechpost.com/2026/11/09/reason-machines-aspen-open-source-git-server-ai-agents/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "0sec Labs Open-Sources 0, an AI Security Harness With Web UI, CLI and MCP",
+        "one_line": "0sec Labs has open-sourced 0, an AI security harness for code review, pentesting, reverse engineering and fixes. It runs locally through a browser console, a he",
+        "url": "https://www.marktechpost.com/2026/11/08/0sec-labs-open-sources-0-ai-security-harness/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+        "one_line": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Representatives from the Ministry of Science and ICT",
+        "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+        "source": "NVIDIA",
+        "importance": 3
+      },
+      {
+        "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+        "one_line": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+        "url": "https://openai.com/index/control-room",
+        "source": "OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "Kuken Industries searches 70 years of drawings in minutes",
+        "one_line": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly ",
+        "url": "https://openai.com/index/kuken",
+        "source": "OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "From prompt to app: Build with Google Maps in AI Studio",
+        "one_line": "Developers can now build applications powered by Google Maps Platform directly within Google AI Studio by prompting Gemini with real-world geospatial concepts. ",
+        "url": "https://developers.googleblog.com/from-prompt-to-app-build-with-google-maps-in-ai-studio/",
+        "source": "Google Developers",
+        "importance": 2
+      },
+      {
+        "title": "DeepX claims inference up to 100B parameters at less than 5 W",
+        "one_line": "145 points, 22 comments on Hacker News",
+        "url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "A year after the 100% AI mandate nobody understands our code",
+        "one_line": "116 points, 143 comments on Hacker News",
+        "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Apple capped engineers at a $200 daily AI budget",
+        "one_line": "113 points, 121 comments on Hacker News",
+        "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+        "one_line": "77 points, 12 comments on Hacker News",
+        "url": "https://github.com/samir-sarwar/samir-vllm",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
+        "one_line": "70 points, 22 comments on Hacker News",
+        "url": "https://github.com/Dodaios/ste80-humanizer",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Being a meat proxy for AI should be grounds for getting people fired",
+        "one_line": "49 points, 43 comments on Hacker News",
+        "url": "https://swiftrocks.com/being-a-meat-proxy-for-ai-should-be-grounds-for-getting-people-fired",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "370 Books in 20 months: South African author defends her use of AI",
+        "one_line": "44 points, 89 comments on Hacker News",
+        "url": "https://www.enca.com/lifestyle/370-books-20-months-sa-author-defends-her-use-ai",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+        "one_line": "43 points, 10 comments on Hacker News",
+        "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Muse Ember: Zuck promised to open source muse spark 1.2 but continues to release to more closed models",
+        "one_line": "https://artificialanalysis.ai/models/muse-ember https://x.com/finkd/status/2086755195535413696 submitted by /u/Gohab2001 [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs0qmx/muse_ember_zuck_promised_to_open_source_muse/",
+        "source": "r/LocalLLaMA",
+        "importance": 2
+      },
+      {
+        "title": "I fine-tuned a 2B decision model to play Doom on my Mac in 43 minutes (open source, MLX)",
+        "one_line": "You've probably seen (large) decision models play games. I wanted to see if you could also train a model to play using game images on a Mac, so I added LoRA fin",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xryvbg/i_finetuned_a_2b_decision_model_to_play_doom_on/",
+        "source": "r/LocalLLaMA",
+        "importance": 2
+      },
+      {
+        "title": "Local first open source alternative to GrokBot",
+        "one_line": "submitted by /u/InternationalGap3698 [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xryile/local_first_open_source_alternative_to_grokbot/",
+        "source": "r/LocalLLaMA",
+        "importance": 2
+      }
+    ],
+    "Benchmarks & leaderboards": [],
+    "Research worth explaining": [
+      {
+        "title": "Trending on Hugging Face: Viggle/Viggle-Remake",
+        "one_line": "238 likes, pipeline: video-to-video",
+        "url": "https://huggingface.co/Viggle/Viggle-Remake",
+        "source": "Hugging Face trending",
+        "importance": 2
+      }
+    ],
+    "Business & industry": [
+      {
+        "title": "Anthropic reportedly plans to move forward with IPO plans",
+        "one_line": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+        "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Claude Fable 5.2 and Mythos 5.2 cement Anthropic's AI lead just before its IPO",
+        "one_line": "Anthropic is releasing Claude Fable 5.2 and Mythos 5.2, its most powerful models to date, in two versions: one freely available and one reserved for verified or",
+        "url": "https://the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo/",
+        "source": "The Decoder",
+        "importance": 4
+      }
+    ]
+  }
+}
