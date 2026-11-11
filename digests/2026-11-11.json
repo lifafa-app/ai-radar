@@ -1,0 +1,343 @@
+{
+  "summary": "104 new items collected. Ranked by keywords because Gemini was not available.",
+  "two_reel_day": false,
+  "two_reel_reason": "",
+  "picks": [
+    {
+      "title": "Introducing Businesses in ChatGPT",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT."
+      ],
+      "sources": [
+        "https://openai.com/index/introducing-businesses-chatgpt"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [],
+      "sources": [
+        "https://www.anthropic.com/news/roadshow-launch"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Google Cloud launches Gemini for healthcare.",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works."
+      ],
+      "sources": [
+        "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/"
+      ],
+      "verify": []
+    }
+  ],
+  "sections": {
+    "Model launches & updates": [
+      {
+        "title": "Introducing Businesses in ChatGPT",
+        "one_line": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+        "url": "https://openai.com/index/introducing-businesses-chatgpt",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.",
+        "one_line": "",
+        "url": "https://www.anthropic.com/news/roadshow-launch",
+        "source": "Anthropic",
+        "importance": 5
+      },
+      {
+        "title": "Google Cloud launches Gemini for healthcare.",
+        "one_line": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+        "source": "Google AI",
+        "importance": 5
+      }
+    ],
+    "Apps & tools": [
+      {
+        "title": "Gemini 4 Carbon is now available",
+        "one_line": "275 points, 149 comments on Hacker News",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+        "source": "Hacker News",
+        "importance": 5
+      },
+      {
+        "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+        "one_line": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+        "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+        "source": "TechCrunch AI",
+        "importance": 5
+      },
+      {
+        "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+        "one_line": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected ",
+        "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+        "source": "TechCrunch AI",
+        "importance": 5
+      },
+      {
+        "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+        "one_line": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ag",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+        "source": "The Verge AI",
+        "importance": 5
+      },
+      {
+        "title": "Gemini Intelligence: New features, on more devices",
+        "one_line": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
+        "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+        "source": "Google AI",
+        "importance": 5
+      },
+      {
+        "title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards",
+        "one_line": "Anthropic released Claude Fable 5.2 and Claude Mythos 5.2, one model with two safeguard levels. Fable 5.2 scores 49.1% on FrontierCode 2.0, costs $8/$40 per mil",
+        "url": "https://www.marktechpost.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2-release/",
+        "source": "MarkTechPost",
+        "importance": 5
+      },
+      {
+        "title": "llm-gemini 0.36",
+        "one_line": "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else . This is Goog",
+        "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
+        "source": "Simon Willison",
+        "importance": 4
+      },
+      {
+        "title": "Quoting Prompting Claude Fable 5.2",
+        "one_line": "Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on. In Anthropic’s testing on small coding tasks, when a prompt said ",
+        "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
+        "source": "Simon Willison",
+        "importance": 4
+      },
+      {
+        "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+        "one_line": "161 points, 132 comments on Hacker News",
+        "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Life on Claude Nine",
+        "one_line": "85 points, 55 comments on Hacker News",
+        "url": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+        "one_line": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+        "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+        "one_line": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and re",
+        "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
+        "one_line": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibil",
+        "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "ChatGPT is getting verified AI ‘Business Agents’",
+        "one_line": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic has its own AI-powered office suite now",
+        "one_line": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs -",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions",
+        "one_line": "OpenAI is opening up ChatGPT as a business platform: through a new Business Hub, companies can claim their profile, add product data, and track how users intera",
+        "url": "https://the-decoder.com/openai-turns-chatgpt-into-a-business-directory-with-ai-agents-that-handle-customer-questions/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes",
+        "one_line": "Anthropic is expanding Claude with Sheets, Whiteboards, and Interactive Connectors, letting partners like Adobe and Atlassian embed their apps directly inside C",
+        "url": "https://the-decoder.com/anthropic-turns-claude-into-a-full-workspace-with-plugins-spreadsheets-whiteboards-and-soon-meeting-notes/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Gemini 4 Carbon arrives just in time to feel like yesterday's news in the fastest model cycle yet",
+        "one_line": "Google is making Gemini 4 Carbon generally available after a two-week testing phase. The model ranks first in several benchmarks, in some cases ahead of Anthrop",
+        "url": "https://the-decoder.com/gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterdays-news-in-the-fastest-model-cycle-yet/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Google DeepMind's Gemini Robotics 2.5 scores 96 percent sorting metal parts in a Mercedes-Benz assembly pilot",
+        "one_line": "Google Deepmind introduced Gemini Robotics 2.5, a new control model for robots, and tested it with Apptronik on active Mercedes-Benz production lines in Hungary",
+        "url": "https://the-decoder.com/google-deepminds-gemini-robotics-2-5-scores-96-percent-sorting-metal-parts-in-a-mercedes-benz-assembly-pilot/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic's Fable 5.2 completes 41 percent of real freelance jobs, up from 2.5 percent a year ago",
+        "one_line": "Anthropic's Fable 5.2 completes 41.3 percent of real freelance jobs at professional quality on the Remote Labor Index, more than double the next-best systems Op",
+        "url": "https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Gilbert + Tobin rethinks the business of law with AI",
+        "one_line": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+        "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+        "source": "OpenAI",
+        "importance": 4
+      },
+      {
+        "title": "Helping caregivers use AI in everyday life",
+        "one_line": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+        "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+        "source": "OpenAI",
+        "importance": 4
+      },
+      {
+        "title": "Closing the AI guidance gap in education",
+        "one_line": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+        "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+        "source": "OpenAI",
+        "importance": 4
+      },
+      {
+        "title": "Work at the Frontier: AI’s effect on freelance work",
+        "one_line": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+        "url": "https://openai.com/index/ai-effect-on-freelance-work",
+        "source": "OpenAI",
+        "importance": 4
+      },
+      {
+        "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+        "one_line": "Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they descr",
+        "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+        "source": "Simon Willison",
+        "importance": 3
+      },
+      {
+        "title": "MiniMax H3-Image Released, an Open-Weight Image Model built on H3",
+        "one_line": "submitted by /u/MagicZhang [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xso1ie/minimax_h3image_released_an_openweight_image/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "feat: external PLE file loading by pwilkin · Pull Request #31185 · ggml-org/llama.cpp",
+        "one_line": "Overview Provides a new --shard command line argument and support for loading a model from multiple shard locations; common use case is loading the PLE (engram)",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsgpby/feat_external_ple_file_loading_by_pwilkin_pull/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "I found this gem when searching Qwen stuff, a Qwen \"character song\"",
+        "one_line": "Original video by 小伙伴Ko Good thing to watch before Qwen 4 drop 😄 submitted by /u/doraemoe [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsj73e/i_found_this_gem_when_searching_qwen_stuff_a_qwen/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+        "one_line": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
+        "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+        "source": "TechCrunch AI",
+        "importance": 3
+      },
+      {
+        "title": "Zyphra Releases ZONOS3-Mini: Open-Source TTS With 100M Active Parameters",
+        "one_line": "Zyphra released ZONOS3-Mini, an Apache 2.0 text-to-speech model with 800M total and 100M active parameters. It clones voices, steers delivery word by word and r",
+        "url": "https://www.marktechpost.com/2026/11/10/zyphra-zonos3-mini-open-source-tts/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "Meta Releases Muse Ember, a 1M-Context Model for High-Volume Agent Work",
+        "one_line": "Meta Muse Ember is Meta’s smallest model, built for tool calls, coding subtasks and document parsing. It ties Claude Haiku 5.5 on the Artificial Analysis Intell",
+        "url": "https://www.marktechpost.com/2026/11/09/meta-muse-ember-small-agent-model/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "Introducing Kimi K3.1 Pro on Amazon Bedrock",
+        "one_line": "Kimi K3.1 Pro from Moonshot AI is now available on Amazon Bedrock. Learn how to get started through the OpenAI-compatible Chat Completions, Responses, and Conve",
+        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock/",
+        "source": "AWS Machine Learning",
+        "importance": 3
+      }
+    ],
+    "Benchmarks & leaderboards": [],
+    "Research worth explaining": [],
+    "Business & industry": [
+      {
+        "title": "Anthropic to Seek $1.3T Valuation in IPO",
+        "one_line": "59 points, 82 comments on Hacker News",
+        "url": "https://www.wsj.com/finance/stocks/anthropic-to-seek-1-3-trillion-valuation-in-ipo-8337b669",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+        "one_line": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpo",
+        "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+        "one_line": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
+        "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic targets $1.4 trillion IPO",
+        "one_line": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic kicks off IPO roadshow, offering shares at $70 to $78 and targeting a trillion-dollar valuation",
+        "one_line": "Anthropic is kicking off its IPO roadshow, targeting a valuation of up to $1.02 trillion. Beyond the public offering of up to $64.4 billion, the company is secu",
+        "url": "https://the-decoder.com/anthropic-kicks-off-ipo-roadshow-offering-shares-at-70-to-78-and-targeting-a-trillion-dollar-valuation/",
+        "source": "The Decoder",
+        "importance": 4
+      }
+    ]
+  }
+}
