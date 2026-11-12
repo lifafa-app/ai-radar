@@ -1,0 +1,344 @@
+{
+  "summary": "109 new items collected. Ranked by keywords because Gemini was not available.",
+  "two_reel_day": false,
+  "two_reel_reason": "",
+  "picks": [
+    {
+      "title": "Nov 2, 2026 Introducing Grok Bot 1.0 Bots now work with your whole team, take on work without being asked, and get more done, faster. Read More",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [],
+      "sources": [
+        "https://x.ai/news/grok-bot-1-0"
+      ],
+      "verify": []
+    },
+    {
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
+      ],
+      "sources": [
+        "https://openai.com/index/chatgpt-plus-for-veterans"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions."
+      ],
+      "sources": [
+        "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+      ],
+      "verify": []
+    }
+  ],
+  "sections": {
+    "Model launches & updates": [
+      {
+        "title": "Nov 2, 2026 Introducing Grok Bot 1.0 Bots now work with your whole team, take on work without being asked, and get more done, faster. Read More",
+        "one_line": "",
+        "url": "https://x.ai/news/grok-bot-1-0",
+        "source": "xAI",
+        "importance": 5
+      }
+    ],
+    "Apps & tools": [
+      {
+        "title": "ChatGPT Plus for veterans and servicemembers",
+        "one_line": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+        "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+        "one_line": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+        "source": "Google AI",
+        "importance": 5
+      },
+      {
+        "title": "Research Voxtral 3 Build agents that can listen, reason, speak, and act, with Voxtral 3. October 20, 2026 By Mistral",
+        "one_line": "",
+        "url": "https://mistral.ai/news/voxtral-3/",
+        "source": "Mistral",
+        "importance": 5
+      },
+      {
+        "title": "Product · Oct 20, 2026 Using Grok Bot to detect and respond to incidents",
+        "one_line": "",
+        "url": "https://x.ai/news/incident-sweep",
+        "source": "xAI",
+        "importance": 5
+      },
+      {
+        "title": "Unsloth Dynamic V3.1 released for Qwen3.8-27B, DeepSeek-V4.1-Flash-1017 and Qwen3.8-Flash-Next",
+        "one_line": "Unsloth Dynamic V3.1 (Nov 2026) is our latest quantization algorithm for Qwen3.8-27B, DeepSeek-V4.1-Flash-1017 and Qwen3.8-Flash-Next, resulting in 10-15% incre",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtmcoe/unsloth_dynamic_v31_released_for_qwen3827b/",
+        "source": "r/LocalLLaMA",
+        "importance": 5
+      },
+      {
+        "title": "Google Launches Gemini Decisions API With Gemini Decision 1 at $0.10/M Tokens",
+        "one_line": "Google launched the Gemini Decisions API, powered by Gemini Decision 1. It returns calibrated probabilities for up to 1,000 yes/no, choice and rubric questions ",
+        "url": "https://www.marktechpost.com/2026/11/11/google-gemini-decisions-api-gemini-decision-1/",
+        "source": "MarkTechPost",
+        "importance": 5
+      },
+      {
+        "title": "Gemini Decisions API",
+        "one_line": "Gemini Decisions API Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it suppo",
+        "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+        "source": "Simon Willison",
+        "importance": 4
+      },
+      {
+        "title": "Huawei releases MACaQ, its internal quantizer for local inference",
+        "one_line": "67 points, 21 comments on Hacker News",
+        "url": "https://github.com/huawei-csl/MACaQ",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+        "one_line": "51 points, 40 comments on Hacker News",
+        "url": "https://news.ycombinator.com/item?id=50455811",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+        "one_line": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+        "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass",
+        "one_line": "Google Deepmind's new Gemini Decisions API evaluates up to 1,000 closed-ended questions in a single pass across text, images, audio, and video. Gemini Decision ",
+        "url": "https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic says AI is eroding Nvidia's CUDA lead, cutting an AMD chip switch from months to three days",
+        "one_line": "Anthropic claims it used AI itself to breach Nvidia's CUDA moat. The company's in-house model Mythos reportedly ported Claude to AMD GPUs in just three days, wi",
+        "url": "https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Grok-built apps exposed patient data, plaintext passwords, and SpaceXSI's own sales pipeline",
+        "one_line": "Security firm Claroc found more than 35,000 Grok-built apps open to anyone without login, including patient data and confidential SpaceXSI documents. The cause:",
+        "url": "https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Enterprise sales push OpenAI's quarterly revenue to $10 billion, though it still trails Anthropic",
+        "one_line": "OpenAI grew its quarterly revenue 50 percent to $10 billion but is still burning more cash than it brings in. Adjusted operating losses climbed to $10.9 billion",
+        "url": "https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+        "one_line": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+        "url": "https://openai.com/index/jiostar-vijay-seshadri",
+        "source": "OpenAI",
+        "importance": 4
+      },
+      {
+        "title": "Illicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve red",
+        "one_line": "",
+        "url": "https://www.anthropic.com/news/distillation-defenses",
+        "source": "Anthropic",
+        "importance": 4
+      },
+      {
+        "title": "llama.cpp: Add FP8 KV-cache",
+        "one_line": "submitted by /u/Kahvana [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt9o3t/llamacpp_add_fp8_kvcache/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "I released Inflect v3: lightweight local TTS in 34M parameters (Apache 2.0)",
+        "one_line": "Today I’m releasing Inflect v3: a family of local text-to-speech models: Mini, Micro, and Atom. Mini is the main model, with six voices and 34.31M parameters Mi",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtzwxf/i_released_inflect_v3_lightweight_local_tts_in/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "New Paper -> Unless Told Otherwise, an Open Language Model Says OpenAI Made It",
+        "one_line": "Hi all I've just started r/LLMPsychology as I want to pursue research in this area with my own local hardware, and work with other people also exploring how AI ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtpqxm/new_paper_unless_told_otherwise_an_open_language/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension",
+        "one_line": "Marktechpost Launches GPU Leaderboard and the Deploy It Chrome Extension The post Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension ap",
+        "url": "https://www.marktechpost.com/2026/11/11/marktechpost-gpu-leaderboard-chrome-extension-launch/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical AI",
+        "one_line": "The Institute of Foundation Models at MBZUAI released PAN 2, an Apache 2.0 world model that couples an LLM planner with a 29B diffusion transformer to simulate ",
+        "url": "https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "OpenAI Codex on Amazon Bedrock",
+        "one_line": "A practical guide for enterprises rolling out OpenAI Codex to developers on AWS, with Amazon Bedrock as the model backend, covering the access, governance, and ",
+        "url": "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/",
+        "source": "AWS Machine Learning",
+        "importance": 3
+      },
+      {
+        "title": "Introducing usage-based pricing for Amazon SageMaker AI bidirectional streaming",
+        "one_line": "AWS Marketplace now supports usage-based metering for Amazon SageMaker bidirectional streaming inference, so model providers can charge for what customers actua",
+        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-usage-based-pricing-for-amazon-sagemaker-ai-bidirectional-streaming/",
+        "source": "AWS Machine Learning",
+        "importance": 3
+      },
+      {
+        "title": "Announcements",
+        "one_line": "",
+        "url": "https://www.anthropic.com/news/announcements",
+        "source": "Anthropic",
+        "importance": 3
+      },
+      {
+        "title": "Partnerships",
+        "one_line": "",
+        "url": "https://www.anthropic.com/news/partnerships",
+        "source": "Anthropic",
+        "importance": 3
+      },
+      {
+        "title": "Product",
+        "one_line": "",
+        "url": "https://www.anthropic.com/news/product",
+        "source": "Anthropic",
+        "importance": 3
+      },
+      {
+        "title": "Policy",
+        "one_line": "",
+        "url": "https://www.anthropic.com/news/policy",
+        "source": "Anthropic",
+        "importance": 3
+      },
+      {
+        "title": "Safeguards",
+        "one_line": "",
+        "url": "https://www.anthropic.com/news/safeguards",
+        "source": "Anthropic",
+        "importance": 3
+      },
+      {
+        "title": "Security",
+        "one_line": "",
+        "url": "https://www.anthropic.com/news/security",
+        "source": "Anthropic",
+        "importance": 3
+      },
+      {
+        "title": "A2UI 1.0: Build delightful, fast, reliable, agentic experiences",
+        "one_line": "A2UI 1.0 is an open protocol for generative UI that enables AI agents to render interactive, native screens across web, mobile, and desktop applications. Develo",
+        "url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
+        "source": "Google Developers",
+        "importance": 2
+      },
+      {
+        "title": "Unifying Edge AI: How Coral NPU’s open standard brings portable, energy-viable intelligence from model to silicon",
+        "one_line": "Google Research has completed the 32-bit open-source Coral NPU RISC-V architecture with the introduction of its Matrix Execution Unit, which delivers up to 1 TO",
+        "url": "https://developers.googleblog.com/unifying-edge-ai-how-coral-npus-open-standard-brings-portable-energy-viable-intelligence-from-model-to-silicon/",
+        "source": "Google Developers",
+        "importance": 2
+      },
+      {
+        "title": "llm 0.37.2",
+        "one_line": "Release: llm 0.37.2 Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w . LLM has a mechanism called extra-openai",
+        "url": "https://simonwillison.net/2026/Nov/11/llm/",
+        "source": "Simon Willison",
+        "importance": 2
+      },
+      {
+        "title": "My AI agents found an unmapped Maya site?",
+        "one_line": "941 points, 339 comments on Hacker News",
+        "url": "https://pietromiotti.com/latest/maya-site",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+        "one_line": "436 points, 421 comments on Hacker News",
+        "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Atuin Threads: All your agent sessions on every machine",
+        "one_line": "194 points, 75 comments on Hacker News",
+        "url": "https://blog.atuin.sh/threads-agent-sessions/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Retirement Savings Are Fueling the AI Bubble",
+        "one_line": "141 points, 148 comments on Hacker News",
+        "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
+        "source": "Hacker News",
+        "importance": 2
+      }
+    ],
+    "Benchmarks & leaderboards": [],
+    "Research worth explaining": [
+      {
+        "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+        "one_line": "",
+        "url": "https://huggingface.co/blog/qvac/botpsy",
+        "source": "Hugging Face blog",
+        "importance": 2
+      },
+      {
+        "title": "Trending on Hugging Face: Comfy-Org/MiniMax-H3-Image",
+        "one_line": "257 likes, pipeline: text-to-image",
+        "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
+        "source": "Hugging Face trending",
+        "importance": 2
+      }
+    ],
+    "Business & industry": [
+      {
+        "title": "Anthropic's IPO roadshow video",
+        "one_line": "Anthropic's IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how ",
+        "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+        "source": "Simon Willison",
+        "importance": 4
+      }
+    ]
+  }
+}
