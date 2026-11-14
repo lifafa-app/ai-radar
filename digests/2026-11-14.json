@@ -1,0 +1,346 @@
+{
+  "summary": "87 new items collected. Ranked by keywords because Gemini was not available.",
+  "two_reel_day": false,
+  "two_reel_reason": "",
+  "picks": [
+    {
+      "title": "Introducing ChatGPT Wallet",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections."
+      ],
+      "sources": [
+        "https://openai.com/index/introducing-chatgpt-wallet"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment."
+      ],
+      "sources": [
+        "https://openai.com/business/customer-stories/shield"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Perplexity releases Decider v1.3 (26B) and Decider Flash v1.3 (5B): open-weight (Apache 2.0) classification/decision models",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "Perplexity has released two new \"decision models.\" These are general-purpose classifiers built from generative LLM backbones. You give them an input (the \"state\") and one or more questions, and they r"
+      ],
+      "sources": [
+        "https://www.reddit.com/r/LocalLLaMA/comments/1xv7fku/perplexity_releases_decider_v13_26b_and_decider/"
+      ],
+      "verify": []
+    }
+  ],
+  "sections": {
+    "Model launches & updates": [
+      {
+        "title": "Introducing ChatGPT Wallet",
+        "one_line": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+        "url": "https://openai.com/index/introducing-chatgpt-wallet",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "Company · Oct 22, 2026 Introducing the SpaceX Super Intelligence Partner Network",
+        "one_line": "",
+        "url": "https://x.ai/news/partnernetworkannouncement",
+        "source": "xAI",
+        "importance": 5
+      }
+    ],
+    "Apps & tools": [
+      {
+        "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+        "one_line": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their ju",
+        "url": "https://openai.com/business/customer-stories/shield",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "Perplexity releases Decider v1.3 (26B) and Decider Flash v1.3 (5B): open-weight (Apache 2.0) classification/decision models",
+        "one_line": "Perplexity has released two new \"decision models.\" These are general-purpose classifiers built from generative LLM backbones. You give them an input (the \"state",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv7fku/perplexity_releases_decider_v13_26b_and_decider/",
+        "source": "r/LocalLLaMA",
+        "importance": 5
+      },
+      {
+        "title": "Perplexity Releases Decider v1.3: Open-Weight Decision Models Add Locate",
+        "one_line": "Perplexity Decider v1.3 and Flash v1.3 are open-weight decision models that return probabilities, not text. Version 1.3 adds Locate for span extraction and repo",
+        "url": "https://www.marktechpost.com/2026/11/13/perplexity-decider-v1-3-open-weight-decision-models-locate/",
+        "source": "MarkTechPost",
+        "importance": 5
+      },
+      {
+        "title": "Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash",
+        "one_line": "Google released Gemini 4 Hydrogen, a fast agentic model with a 1M-token window, 4 thinking levels and $1.50/$7.50 pricing. Google reports a 51 Artificial Analys",
+        "url": "https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/",
+        "source": "MarkTechPost",
+        "importance": 5
+      },
+      {
+        "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+        "one_line": "484 points, 383 comments on Hacker News",
+        "url": "https://status.claude.com/incidents/nn11wk485zfn",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Claude Is Down",
+        "one_line": "197 points, 173 comments on Hacker News",
+        "url": "https://status.claude.com/history",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI disbands its robotics team as its general models start running robots",
+        "one_line": "146 points, 64 comments on Hacker News",
+        "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+        "one_line": "101 points, 21 comments on Hacker News",
+        "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Claude Meetings",
+        "one_line": "76 points, 61 comments on Hacker News",
+        "url": "https://claude.com/resources/articles/claude-meetings",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+        "one_line": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+        "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+        "one_line": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for Cha",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+        "one_line": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet",
+        "one_line": "OpenAI is taking a second shot at AI-powered shopping with ChatGPT Wallet after scrapping its first approach, Instant Checkout. Users register a card once and c",
+        "url": "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows",
+        "one_line": "Anthropic's new Claude for Manufacturing plugin connects the AI directly to Autodesk Fusion, Oracle NetSuite, and Infor. Its 17 specialized skills let the AI dr",
+        "url": "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models",
+        "one_line": "Former OpenAI researcher Will DePue says he has produced the first technical evidence that DeepSeek, Moonshot AI, MiniMax, and Ant Group are using Nvidia's late",
+        "url": "https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI enters the cybersecurity market with two Daybreak products",
+        "one_line": "OpenAI has launched two security products under its Daybreak brand. The article OpenAI enters the cybersecurity market with two Daybreak products appeared first",
+        "url": "https://the-decoder.com/openai-enters-the-cybersecurity-market-with-two-daybreak-products/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platfo",
+        "one_line": "",
+        "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+        "source": "Anthropic",
+        "importance": 4
+      },
+      {
+        "title": "llama.cpp v1.0 is here 🦙",
+        "one_line": "Hey folks, it's Merve from Hugging Face. Today, llama.cpp releases v1! Moving forward, we’ll keep covering every platform and every model type, while keeping ll",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv8t2e/llamacpp_v10_is_here/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Weight Space Programming for Quantization: Nace quants achieve up to 2x better KL divergence for Qwen 9B, 27B, 35B & Flash Next [GGUF]",
+        "one_line": "hey llamas, its Alish from nace.ai (open source ai lab behind #1 decision model on latest Artificial Analysis decision index v2.1) & Kapitsa (optimized inferenc",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvh4ag/weight_space_programming_for_quantization_nace/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "DeepSeek flash max is the first model to reach >1% on challenging SWE-sweep bug finding benchmark",
+        "one_line": "Hi, I've just updated the SWE-sweep leaderboard with more open-weight models! DeepSeek v4.1 flash (max) is the first open-weight model we evaluated that gets >1",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvcgxq/deepseek_flash_max_is_the_first_model_to_reach_1/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Artificial Analysis updated Qwen 3.8 Flash Next score as 29",
+        "one_line": "Between GPT-6 Luna Max (28) and Claude Haiku 5.5 High (30). Comparing to other Qwen 3.8, the model is closer to max (34) than to 27B (20). https://artificialana",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuxzfs/artificial_analysis_updated_qwen_38_flash_next/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "I ran the same Halloween animation prompt through five coding agents on one local Qwen model",
+        "one_line": "I gave Claude Code, OpenCode, GitHub Copilot Desktop, Pi, and Codex the same prompt to build a looping pixel-art Halloween diorama. I pointed all five at the sa",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv5dsb/i_ran_the_same_halloween_animation_prompt_through/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "DeepSeek v4.1 Flash vs Qwen 3.8 Flash Next Performance",
+        "one_line": "While waiting for Qwen 4, I installed and benchmarked DeepSeek v4.1 Flash to see if I was missing out. Based on the type of work I do, DeepSeek is not better bu",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvhzq9/deepseek_v41_flash_vs_qwen_38_flash_next/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Claude Meetings",
+        "one_line": "Add Claude to your call and get work started as you talk Discussion | Link",
+        "url": "https://www.producthunt.com/products/claude",
+        "source": "Product Hunt",
+        "importance": 3
+      },
+      {
+        "title": "Today, we’re inviting members of the life sciences community to apply to work with us on special projects.",
+        "one_line": "",
+        "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+        "source": "Anthropic",
+        "importance": 3
+      },
+      {
+        "title": "News",
+        "one_line": "",
+        "url": "https://api-docs.deepseek.com/news/news261113",
+        "source": "DeepSeek",
+        "importance": 3
+      },
+      {
+        "title": "Architecting Governed, Self-Evolving AI Agents on Google Cloud",
+        "one_line": "Learn how Project Chrysalis combines Google Cloud's Gemini Enterprise Agent Platform, Agent Development Kit (ADK), BigQuery, and a four-gate defense-in-depth se",
+        "url": "https://developers.googleblog.com/architecting-governed-self-evolving-ai-agents-on-gemini-agent-platform/",
+        "source": "Google Developers",
+        "importance": 2
+      },
+      {
+        "title": "Streaming comes to API Gateway: real-time and AI-ready APIs, without changing your spec",
+        "one_line": "API Gateway now supports real-time streaming—including Server-Sent Events, WebSockets, gRPC, and chunked transfer encoding—in Public Preview without requiring c",
+        "url": "https://developers.googleblog.com/streaming-comes-to-api-gateway-real-time-and-ai-ready-apis-without-changing-your-spec/",
+        "source": "Google Developers",
+        "importance": 2
+      },
+      {
+        "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+        "one_line": "341 points, 93 comments on Hacker News",
+        "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "AI is destroying the trust between writers and readers",
+        "one_line": "314 points, 195 comments on Hacker News",
+        "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+        "one_line": "257 points, 148 comments on Hacker News",
+        "url": "https://brave.com/blog/search-api-agentic-payments/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "No AI Slop: A Manifesto",
+        "one_line": "186 points, 106 comments on Hacker News",
+        "url": "https://www.slopmanifesto.com/",
+        "source": "Hacker News",
+        "importance": 2
+      }
+    ],
+    "Benchmarks & leaderboards": [],
+    "Research worth explaining": [
+      {
+        "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "one_line": "",
+        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+        "source": "Hugging Face blog",
+        "importance": 4
+      },
+      {
+        "title": "Trending on Hugging Face: Zyphra/ZONOS3-Mini",
+        "one_line": "296 likes, pipeline: text-to-speech",
+        "url": "https://huggingface.co/Zyphra/ZONOS3-Mini",
+        "source": "Hugging Face trending",
+        "importance": 2
+      },
+      {
+        "title": "Trending on Hugging Face: thinkingmachines/Inkling-2-Small",
+        "one_line": "248 likes, pipeline: image-text-to-text",
+        "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small",
+        "source": "Hugging Face trending",
+        "importance": 2
+      },
+      {
+        "title": "Trending on Hugging Face: mradermacher/gemma-4-31B-it-ARA-heretic-GGUF",
+        "one_line": "262 likes, pipeline: n/a",
+        "url": "https://huggingface.co/mradermacher/gemma-4-31B-it-ARA-heretic-GGUF",
+        "source": "Hugging Face trending",
+        "importance": 2
+      }
+    ],
+    "Business & industry": [
+      {
+        "title": "Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls",
+        "one_line": "Chinese investors are shut out of Anthropic's IPO, Bloomberg reports. Banks are rejecting buy orders from mainland China and Hong Kong, citing U.S. export contr",
+        "url": "https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic's IPO is six times oversubscribed and on track to become the largest public offering in history",
+        "one_line": "Anthropic is on track for the largest IPO ever, with orders exceeding available shares by a factor of six. The article Anthropic's IPO is six times oversubscrib",
+        "url": "https://the-decoder.com/anthropics-ipo-is-six-times-oversubscribed-and-on-track-to-become-the-largest-public-offering-in-history/",
+        "source": "The Decoder",
+        "importance": 4
+      }
+    ]
+  }
+}
