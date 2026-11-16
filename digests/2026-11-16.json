@@ -1,0 +1,342 @@
+{
+  "summary": "54 new items collected. Ranked by keywords because Gemini was not available.",
+  "two_reel_day": false,
+  "two_reel_reason": "",
+  "picks": [
+    {
+      "title": "Anthropic is investing $100 million in Claude Frontier Academy to train 10,000 Frontier Deployed Engineers by the end of 2027, with cohorts from Accenture, Bain",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [],
+      "sources": [
+        "https://www.anthropic.com/news/claude-frontier-academy"
+      ],
+      "verify": []
+    },
+    {
+      "title": "All AI-generated code should be Open Source",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "1098 points, 597 comments on Hacker News"
+      ],
+      "sources": [
+        "https://jakub.jankiewicz.org/blog/ai-code-open-source/"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Apple launches new app to study how people use AI for health",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "Apple's new app for a study will answer everyday medical questions"
+      ],
+      "sources": [
+        "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
+      ],
+      "verify": []
+    }
+  ],
+  "sections": {
+    "Model launches & updates": [],
+    "Apps & tools": [
+      {
+        "title": "Anthropic is investing $100 million in Claude Frontier Academy to train 10,000 Frontier Deployed Engineers by the end of 2027, with cohorts from Accenture, Bain",
+        "one_line": "",
+        "url": "https://www.anthropic.com/news/claude-frontier-academy",
+        "source": "Anthropic",
+        "importance": 5
+      },
+      {
+        "title": "All AI-generated code should be Open Source",
+        "one_line": "1098 points, 597 comments on Hacker News",
+        "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Apple launches new app to study how people use AI for health",
+        "one_line": "Apple's new app for a study will answer everyday medical questions",
+        "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
+        "one_line": "Anthropic's Claude Fable 5.2 doesn't generate images the way other AI models do. Instead of computing pixels, the language model writes Python code that places ",
+        "url": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
+        "one_line": "Meituan has released the weights for LongCat-2.5, a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware. On Terminal Bench",
+        "url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Basalt 0.4.0: More models, still as fast - Qwen 27B up to 770 tok/s on a 5090",
+        "one_line": "Hi everyone! I wanted to post a quick update on Basalt . Since last I posted, multi model and router support was implemented, starting with DeepSeek V4.1 Flash ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx1cu9/basalt_040_more_models_still_as_fast_qwen_27b_up/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "Llama.cpp performance improvement over time (Gemma4 models)",
+        "one_line": "Few months ago - after Ninfer came out - I started a little hobby project to vibe-code my own engine for my hardware (RTX 5080 16GB Laptop) and check if it coul",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx607x/llamacpp_performance_improvement_over_time_gemma4/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "CPU-only boost for Q2_0 on AVX-VNNI · Pull Request #26348 · ggml-org/llama.cpp",
+        "one_line": "Measurements: mean ± sample standard deviation in tok/s, 3 runs after normal warmup (16GB of RAM on the AMD EPYC 9645 using eight CPU cores) Model Test Upstream",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx0fqn/cpuonly_boost_for_q2_0_on_avxvnni_pull_request/",
+        "source": "r/LocalLLaMA",
+        "importance": 3
+      },
+      {
+        "title": "A step toward defining the Standard Model on a lattice",
+        "one_line": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+        "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+        "source": "OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "Our new blog for science",
+        "one_line": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+        "url": "https://openai.com/index/our-new-blog-for-science",
+        "source": "OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "datasette-agent 0.6a0",
+        "one_line": "Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most nota",
+        "url": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
+        "source": "Simon Willison",
+        "importance": 2
+      },
+      {
+        "title": "Understanding Positional Embeddings in Modern LLMs",
+        "one_line": "210 points, 27 comments on Hacker News",
+        "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Your Agent Will Pick the Hackable One",
+        "one_line": "72 points, 58 comments on Hacker News",
+        "url": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+        "one_line": "63 points, 61 comments on Hacker News",
+        "url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+        "one_line": "44 points, 13 comments on Hacker News",
+        "url": "https://www.hntrends.com/2026/november.html",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+        "one_line": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+        "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+        "one_line": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+        "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+        "one_line": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses a",
+        "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+        "source": "The Verge AI",
+        "importance": 2
+      },
+      {
+        "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+        "one_line": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports ",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+        "source": "The Verge AI",
+        "importance": 2
+      },
+      {
+        "title": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
+        "one_line": "Australia's central bank sees early signs that AI is hitting young entry-level workers in highly exposed jobs like software development and customer service. Si",
+        "url": "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/",
+        "source": "The Decoder",
+        "importance": 2
+      },
+      {
+        "title": "Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls",
+        "one_line": "Bland has released Tofu-1, a full-duplex speech-to-speech model for noisy, high-stakes phone calls. It is in enterprise research preview, with no published benc",
+        "url": "https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/",
+        "source": "MarkTechPost",
+        "importance": 2
+      },
+      {
+        "title": "datasette-maplibre 0.1a0",
+        "one_line": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeM",
+        "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+        "source": "Simon Willison",
+        "importance": 1
+      },
+      {
+        "title": "datasette 1.0a43",
+        "one_line": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete. The biggest 1.0 i",
+        "url": "https://simonwillison.net/2026/Nov/15/datasette/",
+        "source": "Simon Willison",
+        "importance": 1
+      },
+      {
+        "title": "datasette 0.65.6",
+        "one_line": "Release: datasette 0.65.6 I backported a minor security fix from 1.0a43: Fixed a security issue where a database registered using add_database(db, name=..., rou",
+        "url": "https://simonwillison.net/2026/Nov/15/datasette-2/",
+        "source": "Simon Willison",
+        "importance": 1
+      },
+      {
+        "title": "datasette-apps 0.4a0",
+        "one_line": "Release: datasette-apps 0.4a0 Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones ",
+        "url": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
+        "source": "Simon Willison",
+        "importance": 1
+      },
+      {
+        "title": "EUROPA, the EU's open AI model, is aiming for nearly 1 trillion parameters",
+        "one_line": "One can hope submitted by /u/mawcopolow [link] [comments]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwr917/europa_the_eus_open_ai_model_is_aiming_for_nearly/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "RASA will cause total chaos to open LLMs and beyond",
+        "one_line": "Commerce Moves to Finalize Rule Blocking Chinese AI Firms From Renting Nvidia GPUs Abroad https://explainx.ai/blog/commerce-final-rule-chinese-ai-firms-remote-n",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwmnkw/rasa_will_cause_total_chaos_to_open_llms_and/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "I have created a tool to observe what happens inside an LLM. Also allows for the comparison of two quantizations of the same model to see at what point they diverge, token by token",
+        "one_line": "What changes between different quantizations of the same model? And what if you could SEE what actually sets them apart? To help answer that question, I’ve crea",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx7qbf/i_have_created_a_tool_to_observe_what_happens/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "Probable GLM model",
+        "one_line": "https://preview.redd.it/k7ife2j2ms1i1.png?width=591&format=png&auto=webp&s=e8dd29b327ac46e7634a5faf48454ec1beb7aa0b Because of Theo gg tweet of all people, I La",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwy3ka/probable_glm_model/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "higurashi-ai/Haru-4B · Hugging Face",
+        "one_line": "Haru-4B Code · Technical blog · Technical blog (Japanese) Haru-4B is a low-latency and multilingual full-duplex continuous spoken dialogue foundation model: it ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xww5o2/higurashiaiharu4b_hugging_face/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "meituan-longcat/LongCat-Video-Avatar-1.6 · Hugging Face",
+        "one_line": "🚀 Model Introduction We are excited to announce the release of LongCat-Video-Avatar 1.6, the latest upgrade to our open-source framework for audio-driven human ",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwvrri/meituanlongcatlongcatvideoavatar16_hugging_face/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "Agnes-AI/Agnes-2.5-Pro-Theta • HuggingFace",
+        "one_line": "https://preview.redd.it/zizl51m0rr1i1.png?width=2400&format=png&auto=webp&s=d3271483929d9e4d92024eadcf286a9247602578 https://huggingface.co/Agnes-AI/Agnes-2.5-P",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwu5jt/agnesaiagnes25protheta_huggingface/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+        "one_line": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their imp",
+        "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+        "source": "TechCrunch AI",
+        "importance": 1
+      },
+      {
+        "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+        "one_line": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, bu",
+        "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+        "source": "The Verge AI",
+        "importance": 1
+      },
+      {
+        "title": "An overview of Jensen Huang’s messy days",
+        "one_line": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvi",
+        "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+        "source": "The Verge AI",
+        "importance": 1
+      },
+      {
+        "title": "Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China",
+        "one_line": "Megaspeed, the firm owned by ousted Nvidia CEO Jensen Huang's former lover Alice Huang, arranged nearly $12 billion in Nvidia chip orders for Chinese companies ",
+        "url": "https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china/",
+        "source": "The Decoder",
+        "importance": 1
+      },
+      {
+        "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+        "one_line": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities adva",
+        "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+        "source": "NVIDIA",
+        "importance": 1
+      },
+      {
+        "title": "I finally succeed the CMP 170HX voltage glitch and get 80GB VRAM + 126sm! !",
+        "one_line": "Ever since the information surfaced five days ago, I had intended to implement it right away. Having confirmed that it could be executed using 'pico,' I carried",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwxzgj/i_finally_succeed_the_cmp_170hx_voltage_glitch/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      },
+      {
+        "title": "Latest version of strata made my Qwen3.8-Flash-Next dumb and useless",
+        "one_line": "I updated the strata to the latest version from v0.1.42.0, so I can try the latest unsloths models and see how they fare against the iq3_s variant I have been u",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwttcw/latest_version_of_strata_made_my_qwen38flashnext/",
+        "source": "r/LocalLLaMA",
+        "importance": 1
+      }
+    ],
+    "Benchmarks & leaderboards": [],
+    "Research worth explaining": [
+      {
+        "title": "Trending on Hugging Face: higurashi-ai/Haru-4B",
+        "one_line": "312 likes, pipeline: audio-to-audio",
+        "url": "https://huggingface.co/higurashi-ai/Haru-4B",
+        "source": "Hugging Face trending",
+        "importance": 2
+      }
+    ],
+    "Business & industry": []
+  }
+}
