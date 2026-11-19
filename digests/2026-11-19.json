@@ -1,0 +1,346 @@
+{
+  "summary": "94 new items collected. Ranked by keywords because Gemini was not available.",
+  "two_reel_day": false,
+  "two_reel_reason": "",
+  "picks": [
+    {
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today."
+      ],
+      "sources": [
+        "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/"
+      ],
+      "verify": []
+    },
+    {
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
+      ],
+      "sources": [
+        "https://openai.com/business/customer-stories/sumitomo-life"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories."
+      ],
+      "sources": [
+        "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
+      ],
+      "verify": []
+    }
+  ],
+  "sections": {
+    "Model launches & updates": [
+      {
+        "title": "The Gemini app is now available on lower-memory Android devices.",
+        "one_line": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+        "source": "Google AI",
+        "importance": 5
+      },
+      {
+        "title": "Genie 4 is now available",
+        "one_line": "We are rolling out a new Project Genie experience to eligible Google AI Ultra subscribers, opening access to our new Genie 4 world model.",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+        "source": "Google DeepMind",
+        "importance": 5
+      }
+    ],
+    "Apps & tools": [
+      {
+        "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+        "one_line": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adop",
+        "url": "https://openai.com/business/customer-stories/sumitomo-life",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+        "one_line": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+        "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "Advancing chip design with OpenAI models",
+        "one_line": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+        "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "Today Anthropic, PBC priced its initial public offering of its Class A common stock.",
+        "one_line": "",
+        "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+        "source": "Anthropic",
+        "importance": 5
+      },
+      {
+        "title": "We are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude ",
+        "one_line": "",
+        "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+        "source": "Anthropic",
+        "importance": 5
+      },
+      {
+        "title": "Product · Oct 27, 2026 Your next sales teammate should be a Grok Bot",
+        "one_line": "",
+        "url": "https://x.ai/news/grok-bot-sales",
+        "source": "xAI",
+        "importance": 5
+      },
+      {
+        "title": "Gemini 4 Neon",
+        "one_line": "550 points, 505 comments on Hacker News",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Why is Gemini 4 Carbon taking so long?",
+        "one_line": "267 points, 138 comments on Hacker News",
+        "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
+        "one_line": "129 points, 77 comments on Hacker News",
+        "url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+        "one_line": "126 points, 46 comments on Hacker News",
+        "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Fable: Written, painted and directed by Claude Fable 5.2",
+        "one_line": "51 points, 51 comments on Hacker News",
+        "url": "https://claudia.gallery/fable/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+        "one_line": "45 points, 40 comments on Hacker News",
+        "url": "https://news.ycombinator.com/item?id=50549188",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Jensen Huang's fall hits 'open' models in boost to Anthropic and OpenAI",
+        "one_line": "45 points, 18 comments on Hacker News",
+        "url": "https://www.ft.com/content/418ca885-fbcf-4b9f-a8b9-2bd60b543fc5",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+        "one_line": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
+        "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+        "one_line": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
+        "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Google ships Gemini 4 Neon, its fourth new Gemini model in a month",
+        "one_line": "Google released Gemini 4 Neon, a new frontier model built for software development, knowledge work, and science. It handles text, images, video, audio, and PDFs",
+        "url": "https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI says its models delivered a year's worth of chip optimization on top of AMD's own engineering",
+        "one_line": "Working with AMD, OpenAI achieved up to 14 percent PPA improvement on AMD's flagship GPU IP in less than five months. According to OpenAI, that's roughly a year",
+        "url": "https://the-decoder.com/openai-says-its-models-delivered-a-years-worth-of-chip-optimization-on-top-of-amds-own-engineering/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic, OpenAI, and Google models readily marked medics, journalists, and surrendering soldiers as kamikaze drone targets",
+        "one_line": "A Vals AI investigation shows that leading AI models from Anthropic, OpenAI and Google have almost no safeguards against use in autonomous weapons systems. In t",
+        "url": "https://the-decoder.com/anthropic-openai-and-google-models-readily-marked-medics-journalists-and-surrendering-soldiers-as-kamikaze-drone-targets/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Mistral plays catch-up with Vibe Desktop as rivals already command full operating systems",
+        "one_line": "Mistral's AI agent Vibe now has its own desktop app. The article Mistral plays catch-up with Vibe Desktop as rivals already command full operating systems appea",
+        "url": "https://the-decoder.com/mistral-plays-catch-up-with-vibe-desktop-as-rivals-already-command-full-operating-systems/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI opens its AI systems to four independent on-site auditors for the first time",
+        "one_line": "OpenAI is giving four independent audit organizations, including Apollo Research and METR, direct access to unreleased models, source code, and training data fo",
+        "url": "https://the-decoder.com/openai-opens-its-ai-systems-to-four-independent-on-site-auditors-for-the-first-time/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Inside the Codex sandbox",
+        "one_line": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+        "url": "https://openai.com/index/inside-the-codex-sandbox",
+        "source": "OpenAI",
+        "importance": 4
+      },
+      {
+        "title": "Managing frontier AI risk: From training to deployment",
+        "one_line": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+        "url": "https://openai.com/index/managing-frontier-ai-risk",
+        "source": "OpenAI",
+        "importance": 4
+      },
+      {
+        "title": "SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode",
+        "one_line": "SID AI released SID-2, an agentic search model trained with reinforcement learning. A single agent reaches 0.585 NDCG in 3.11 seconds, and a 12-agent SID-2 Swar",
+        "url": "https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "Anthropic Adds Code Mode to Claude Code: Claude Now Chains Tool Calls in JavaScript",
+        "one_line": "Anthropic has added Code Mode to Claude Code v2.1.323. The experimental feature lets Claude write JavaScript that chains Bash, Read and Edit calls in 1 step, an",
+        "url": "https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "The Silent Consensus",
+        "one_line": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+        "url": "https://openai.com/index/the-silent-consensus",
+        "source": "OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "Research acceleration: The jagged frontier",
+        "one_line": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+        "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+        "source": "OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "AI is killing All About Berlin",
+        "one_line": "766 points, 687 comments on Hacker News",
+        "url": "https://nicolasbouliane.com/blog/death-by-ai",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "AI agents ask better questions than KPMG accountants in audit trial",
+        "one_line": "393 points, 170 comments on Hacker News",
+        "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Energy-Based Reasoners: 385x more efficient inference",
+        "one_line": "305 points, 52 comments on Hacker News",
+        "url": "https://energy-based-reasoners.github.io/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "LLM assisted reverse engineering",
+        "one_line": "100 points, 29 comments on Hacker News",
+        "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
+        "one_line": "67 points, 79 comments on Hacker News",
+        "url": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "AI will not make you rich (2025)",
+        "one_line": "66 points, 41 comments on Hacker News",
+        "url": "https://colossus.com/article/ai-will-not-make-you-rich/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Black high school students sue after AI mistakes Doritos bag for gun",
+        "one_line": "53 points, 19 comments on Hacker News",
+        "url": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+        "one_line": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected",
+        "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      }
+    ],
+    "Benchmarks & leaderboards": [],
+    "Research worth explaining": [
+      {
+        "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+        "one_line": "",
+        "url": "https://huggingface.co/blog/moe-expert-streaming",
+        "source": "Hugging Face blog",
+        "importance": 2
+      },
+      {
+        "title": "Trending on Hugging Face: tencent/Hy4-flash",
+        "one_line": "240 likes, pipeline: image-text-to-text",
+        "url": "https://huggingface.co/tencent/Hy4-flash",
+        "source": "Hugging Face trending",
+        "importance": 2
+      },
+      {
+        "title": "Trending on Hugging Face: apple/FastFrames-L",
+        "one_line": "222 likes, pipeline: text-to-video",
+        "url": "https://huggingface.co/apple/FastFrames-L",
+        "source": "Hugging Face trending",
+        "importance": 2
+      }
+    ],
+    "Business & industry": [
+      {
+        "title": "Anthropic prices IPO at $83 a share, above projected range",
+        "one_line": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+        "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      }
+    ]
+  }
+}
