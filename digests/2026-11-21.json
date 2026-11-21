@@ -1,0 +1,342 @@
+{
+  "summary": "53 new items collected. Ranked by keywords because Gemini was not available.",
+  "two_reel_day": false,
+  "two_reel_reason": "",
+  "picks": [
+    {
+      "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [],
+      "sources": [
+        "https://www.anthropic.com/news/ipo-close"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
+      ],
+      "sources": [
+        "https://openai.com/business/customer-stories/hebbia"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Research Le Chonk: Built for Coders, Trusted by Defenders. We release the weights of Le Chonk, advancing the frontier of open models in agentic coding and cyber",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [],
+      "sources": [
+        "https://mistral.ai/news/mistral-large-4-oss/"
+      ],
+      "verify": []
+    }
+  ],
+  "sections": {
+    "Model launches & updates": [
+      {
+        "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent",
+        "one_line": "",
+        "url": "https://www.anthropic.com/news/ipo-close",
+        "source": "Anthropic",
+        "importance": 5
+      },
+      {
+        "title": "Research Le Chonk: Built for Coders, Trusted by Defenders. We release the weights of Le Chonk, advancing the frontier of open models in agentic coding and cyber",
+        "one_line": "",
+        "url": "https://mistral.ai/news/mistral-large-4-oss/",
+        "source": "Mistral",
+        "importance": 5
+      }
+    ],
+    "Apps & tools": [
+      {
+        "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+        "one_line": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+        "url": "https://openai.com/business/customer-stories/hebbia",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "How to securely connect internal Cloud Run MCP servers to Gemini Enterprise",
+        "one_line": "How to connect Gemini Enterprise privately to internal StreamableHTTP MCP servers on Cloud Run using Egress Agent Gateway, Private Service Connect, FQDN-scoped ",
+        "url": "https://developers.googleblog.com/how-to-securely-connect-internal-cloud-run-mcp-servers-to-gemini-enterprise/",
+        "source": "Google Developers",
+        "importance": 4
+      },
+      {
+        "title": "How to handle user, connector, and agent auth in Gemini Enterprise with a custom UI",
+        "one_line": "When building a custom enterprise UI on top of Gemini Enterprise's :streamAssist API, developers must manually implement three core authentication layers. These",
+        "url": "https://developers.googleblog.com/how-to-handle-user-connector-and-agent-auth-in-gemini-enterprise-with-a-custom-ui/",
+        "source": "Google Developers",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+        "one_line": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Cl",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+        "one_line": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. ",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI makes it much harder for attackers to extract how its latest AI models think",
+        "one_line": "OpenAI has significantly strengthened safeguards against extracting internal reasoning from GPT-6.2 Astra and GPT-6.2 Sol. In adaptive red-teaming tests, the su",
+        "url": "https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Google's Gemini can now run Mac apps and finish desktop chores in the background while you keep working",
+        "one_line": "Google is bringing \"Computer Use\" to Gemini for Mac, letting the AI operate desktop apps, local files, and websites in an isolated background window with a live",
+        "url": "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Can AI help scientists identify promising drug candidates?",
+        "one_line": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+        "url": "https://openai.com/index/introducing-medchembench",
+        "source": "OpenAI",
+        "importance": 4
+      },
+      {
+        "title": "Nvidia bets at least $500 million on Inception's diffusion models to strengthen its open-source Nemotron lineup",
+        "one_line": "Nvidia is close to acquiring AI startup Inception for at least $500 million, according to The Information. The company is just two years old and builds language",
+        "url": "https://the-decoder.com/nvidia-bets-at-least-500-million-on-inceptions-diffusion-models-to-strengthen-its-open-source-nemotron-lineup/",
+        "source": "The Decoder",
+        "importance": 3
+      },
+      {
+        "title": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B",
+        "one_line": "NVIDIA released Nemotron-Labs-Sigma, 14 open 3B and 8B continuous diffusion language model checkpoints. Sigma denoises text in a learned 16-D embedding space, d",
+        "url": "https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters",
+        "one_line": "Amazon SageMaker HyperPod introduces the Global Inference Gateway, one managed endpoint that routes inference requests across your HyperPod clusters in one Regi",
+        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/",
+        "source": "AWS Machine Learning",
+        "importance": 3
+      },
+      {
+        "title": "Announcing Amazon Textract Insights: Verifiable generative AI for documents",
+        "one_line": "Announcing the general availability of Amazon Textract Insights, a new generative AI feature of Amazon Textract. Describe the fields you need in natural languag",
+        "url": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/",
+        "source": "AWS Machine Learning",
+        "importance": 3
+      },
+      {
+        "title": "Combatting adversarial distillation",
+        "one_line": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+        "url": "https://openai.com/index/combatting-adversarial-distillation",
+        "source": "OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "Agent Anomaly Detection: Safeguarding agents across other clouds",
+        "one_line": "Agent Anomaly Detection now monitors ADK agents running across AWS, Azure, or on-premises by analyzing their traces and logs in your Google Cloud project. By in",
+        "url": "https://developers.googleblog.com/agent-anomaly-detection-safeguarding-agents-across-other-clouds/",
+        "source": "Google Developers",
+        "importance": 2
+      },
+      {
+        "title": "Check what your AI agents do before they do it, with Semantic governance policies",
+        "one_line": "Semantic governance policies enable developers to govern AI agents by evaluating every proposed tool call inline before execution. Operating via Agent Gateway, ",
+        "url": "https://developers.googleblog.com/check-what-your-ai-agents-do-before-they-do-it-with-semantic-governance-policies/",
+        "source": "Google Developers",
+        "importance": 2
+      },
+      {
+        "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+        "one_line": "632 points, 328 comments on Hacker News",
+        "url": "https://architectlabs.com/blog/frostbite",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+        "one_line": "525 points, 310 comments on Hacker News",
+        "url": "https://signal.org/blog/protecting-your-privacy/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Google workers tell their employer not to punish schools that don't want AI",
+        "one_line": "270 points, 198 comments on Hacker News",
+        "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Vibecoding an inference chip",
+        "one_line": "120 points, 44 comments on Hacker News",
+        "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "AI is giving everyone the same advice",
+        "one_line": "63 points, 26 comments on Hacker News",
+        "url": "https://a90.com/experiments/same-advice/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Epic Games Turns to AI Coding for the Unreal Engine",
+        "one_line": "58 points, 60 comments on Hacker News",
+        "url": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+        "one_line": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+        "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+        "one_line": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+        "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "Six AI-powered gadgets that could make your home office smarter",
+        "one_line": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+        "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+        "one_line": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country a",
+        "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+        "source": "The Verge AI",
+        "importance": 2
+      },
+      {
+        "title": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
+        "one_line": "Signal is blocking screenshots to stop AI agents like Apple's Siri AI, Google's Gemini Intelligence, and Meta's Muse from reading private chats. The app calls i",
+        "url": "https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/",
+        "source": "The Decoder",
+        "importance": 2
+      },
+      {
+        "title": "Bloomberg analysis of 10 million job postings shows AI-exposed roles in China fell 10 percentage points faster than others",
+        "one_line": "A Bloomberg News analysis of 10 million job postings suggests AI is compounding China's already weak labor market. Entry-level workers and the creative industry",
+        "url": "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/",
+        "source": "The Decoder",
+        "importance": 2
+      },
+      {
+        "title": "Apple joins the race for AI agents that control your device while raising new barriers for competitors",
+        "one_line": "After Meta, OpenAI, Anthropic, and Google launched their own AI agents, Apple is now building one too - while making it harder for rivals to access its devices.",
+        "url": "https://the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors/",
+        "source": "The Decoder",
+        "importance": 2
+      },
+      {
+        "title": "Google's latest homepage update pushes its search engine further toward an AI answer engine",
+        "one_line": "Google is rolling out a collapsible sidebar globally on its Desktop Search homepage. In AI Mode, it lets users reopen recent AI searches, search threads, and cr",
+        "url": "https://the-decoder.com/googles-latest-homepage-update-pushes-its-search-engine-further-toward-an-ai-answer-engine/",
+        "source": "The Decoder",
+        "importance": 2
+      },
+      {
+        "title": "Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's skill",
+        "one_line": "Companies will soon be able to run the open-source Hermes Agent from Nous Research directly inside Microsoft Teams. The article Hermes Agent's Collective Wisdom",
+        "url": "https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/",
+        "source": "The Decoder",
+        "importance": 2
+      }
+    ],
+    "Benchmarks & leaderboards": [],
+    "Research worth explaining": [
+      {
+        "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+        "one_line": "",
+        "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+        "source": "Hugging Face blog",
+        "importance": 3
+      },
+      {
+        "title": "Trending on Hugging Face: thinkingmachines/Inkling-2-Mini",
+        "one_line": "782 likes, pipeline: image-text-to-text",
+        "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+        "source": "Hugging Face trending",
+        "importance": 2
+      },
+      {
+        "title": "Trending on Hugging Face: Sentinel7/h3",
+        "one_line": "347 likes, pipeline: n/a",
+        "url": "https://huggingface.co/Sentinel7/h3",
+        "source": "Hugging Face trending",
+        "importance": 2
+      },
+      {
+        "title": "Trending on Hugging Face: unsloth/Inkling-2-Mini-GGUF",
+        "one_line": "258 likes, pipeline: image-text-to-text",
+        "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+        "source": "Hugging Face trending",
+        "importance": 2
+      },
+      {
+        "title": "Trending on Hugging Face: apple/DepthPro2",
+        "one_line": "134 likes, pipeline: depth-estimation",
+        "url": "https://huggingface.co/apple/DepthPro2",
+        "source": "Hugging Face trending",
+        "importance": 2
+      }
+    ],
+    "Business & industry": [
+      {
+        "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+        "one_line": "192 points, 233 comments on Hacker News",
+        "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+        "one_line": "184 points, 186 comments on Hacker News",
+        "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
+        "one_line": "44 points, 5 comments on Hacker News",
+        "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90",
+        "source": "Hacker News",
+        "importance": 4
+      }
+    ]
+  }
+}
