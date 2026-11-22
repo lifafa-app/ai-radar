@@ -1,0 +1,235 @@
+{
+  "summary": "25 new items collected. Ranked by keywords because Gemini was not available.",
+  "two_reel_day": false,
+  "two_reel_reason": "",
+  "picks": [
+    {
+      "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "Anthropic mathematician Levent Alpöge says he used Claude to prove the Riemann hypothesis, math's most famous open problem for 167 years, with a proof formalized in Lean that spans over 250,000 pages."
+      ],
+      "sources": [
+        "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/"
+      ],
+      "verify": []
+    },
+    {
+      "title": "We’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on.",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [],
+      "sources": [
+        "https://www.anthropic.com/news/anthropic-cyber-mission"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through ",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [],
+      "sources": [
+        "https://www.anthropic.com/news/genesis-mission-commitment"
+      ],
+      "verify": []
+    }
+  ],
+  "sections": {
+    "Model launches & updates": [],
+    "Apps & tools": [
+      {
+        "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
+        "one_line": "Anthropic mathematician Levent Alpöge says he used Claude to prove the Riemann hypothesis, math's most famous open problem for 167 years, with a proof formalize",
+        "url": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
+        "source": "The Decoder",
+        "importance": 5
+      },
+      {
+        "title": "We’re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on.",
+        "one_line": "",
+        "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+        "source": "Anthropic",
+        "importance": 5
+      },
+      {
+        "title": "Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through ",
+        "one_line": "",
+        "url": "https://www.anthropic.com/news/genesis-mission-commitment",
+        "source": "Anthropic",
+        "importance": 5
+      },
+      {
+        "title": "Can Anthropic afford to put safety first?",
+        "one_line": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real lif",
+        "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions",
+        "one_line": "OpenAI has released new prompt templates for GPT-6.2 Astra and Sol meant to fix common model behaviors such as overly brief answers, unnecessary follow-up quest",
+        "url": "https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min",
+        "one_line": "OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebR",
+        "url": "https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "We’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.",
+        "one_line": "",
+        "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+        "source": "Anthropic",
+        "importance": 3
+      },
+      {
+        "title": "ClawDOS – An AI coding agent for DOS",
+        "one_line": "159 points, 51 comments on Hacker News",
+        "url": "http://ricapar.net/ClawDOS/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+        "one_line": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+        "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "Here are the top AI agents that can live in your text messages",
+        "one_line": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+        "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+        "one_line": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes",
+        "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "Nvidia researchers argue huge AI context windows are a dead end",
+        "one_line": "Nvidia researchers argue that language models often don't need their full context windows—which are slow, expensive, and prone to errors—and propose an alternat",
+        "url": "https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/",
+        "source": "The Decoder",
+        "importance": 2
+      },
+      {
+        "title": "Silicon Valley's growing obsession with AI doomsday is turning parts of the tech industry toward cult-like devotion",
+        "one_line": "A Buddhist monastery in Vermont called Maple wants to establish itself as Silicon Valley's spiritual authority while creating its own AI god. According to a New",
+        "url": "https://the-decoder.com/silicon-valleys-growing-obsession-with-ai-doomsday-is-turning-parts-of-the-tech-industry-toward-cult-like-devotion/",
+        "source": "The Decoder",
+        "importance": 2
+      },
+      {
+        "title": "US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up",
+        "one_line": "The Nasdaq 100 has slipped into a bear market after its worst weekly loss since the Covid-19 crisis. Nvidia plunged 14 percent as the SEC reviews its accounting",
+        "url": "https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/",
+        "source": "The Decoder",
+        "importance": 2
+      },
+      {
+        "title": "Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model",
+        "one_line": "Bytedance and several US universities introduce Axion 1.0, an AI agent that rivals top commercial models from OpenAI and Anthropic on benchmarks after just thre",
+        "url": "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/",
+        "source": "The Decoder",
+        "importance": 2
+      },
+      {
+        "title": "Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index",
+        "one_line": "Baseten released bison-1 and groundhog-1, open-weight decision models built on Gemma 4. bison-1 scores 76 on the AA Decision Index v2.1, and both models support",
+        "url": "https://www.marktechpost.com/2026/11/20/baseten-bison-1-groundhog-1-gemma-4-decision-models/",
+        "source": "MarkTechPost",
+        "importance": 2
+      },
+      {
+        "title": "Meta ads is now available in AWS Quick",
+        "one_line": "AWS Quick now has a Meta ads AI connector. Meta advertisers can use natural language in Quick to create, manage, and analyze campaigns while staying connected t",
+        "url": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/",
+        "source": "AWS Machine Learning",
+        "importance": 2
+      },
+      {
+        "title": "Muru",
+        "one_line": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru i",
+        "url": "https://simonwillison.net/2026/Nov/21/muru/",
+        "source": "Simon Willison",
+        "importance": 1
+      },
+      {
+        "title": "A tale of two Nvidias",
+        "one_line": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+        "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+        "source": "TechCrunch AI",
+        "importance": 1
+      },
+      {
+        "title": "The UN fails to agree on rules regulating ‘killer robots’",
+        "one_line": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"kil",
+        "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+        "source": "The Verge AI",
+        "importance": 1
+      },
+      {
+        "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+        "one_line": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games",
+        "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+        "source": "The Verge AI",
+        "importance": 1
+      },
+      {
+        "title": "New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop",
+        "one_line": "Thinking Machines has released Inkling 2 Mini, an open looped transformer that runs 12 of its 24 layers three times per token. This lets the model reason intern",
+        "url": "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/",
+        "source": "The Decoder",
+        "importance": 1
+      },
+      {
+        "title": "A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verification of GPU Kernels",
+        "one_line": "TensorLean, from Columbia University and CertiK, formally verifies production GPU kernels at the PTX level using Lean. It checked 149 kernel instances, proved 8",
+        "url": "https://www.marktechpost.com/2026/11/21/columbia-certik-tensorlean-formal-verification-gpu-kernels/",
+        "source": "MarkTechPost",
+        "importance": 1
+      },
+      {
+        "title": "Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac",
+        "one_line": "Thinking Machines released Inkling 2 Mini, a 26.4B-parameter looped MoE transformer with 3.4B active parameters. It runs on a 32GB Mac or one DGX Spark and scor",
+        "url": "https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/",
+        "source": "MarkTechPost",
+        "importance": 1
+      }
+    ],
+    "Benchmarks & leaderboards": [],
+    "Research worth explaining": [
+      {
+        "title": "Trending on Hugging Face: AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+        "one_line": "260 likes, pipeline: image-text-to-text",
+        "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+        "source": "Hugging Face trending",
+        "importance": 2
+      }
+    ],
+    "Business & industry": []
+  }
+}
