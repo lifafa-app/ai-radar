@@ -1,0 +1,247 @@
+{
+  "summary": "26 new items collected. Ranked by keywords because Gemini was not available.",
+  "two_reel_day": false,
+  "two_reel_reason": "",
+  "picks": [
+    {
+      "title": "Perplexity and Intelligence",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities."
+      ],
+      "sources": [
+        "https://openai.com/index/perplexity-and-intelligence"
+      ],
+      "verify": []
+    },
+    {
+      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "909 points, 908 comments on Hacker News"
+      ],
+      "sources": [
+        "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/"
+      ],
+      "verify": []
+    },
+    {
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "294 points, 125 comments on Hacker News"
+      ],
+      "sources": [
+        "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
+      ],
+      "verify": []
+    }
+  ],
+  "sections": {
+    "Model launches & updates": [],
+    "Apps & tools": [
+      {
+        "title": "Perplexity and Intelligence",
+        "one_line": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+        "url": "https://openai.com/index/perplexity-and-intelligence",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+        "one_line": "909 points, 908 comments on Hacker News",
+        "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+        "one_line": "294 points, 125 comments on Hacker News",
+        "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+        "one_line": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+        "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog",
+        "one_line": "Perplexity is launching a Monitor API that searches the web on a schedule and alerts agents via webhook only when relevant changes occur. Its own decision model",
+        "url": "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude",
+        "one_line": "OpenAI's GPT-6.2 Astra and Sol give much shorter, more direct answers than their predecessors, but they are also less willing to admit uncertainty. Anthropic's ",
+        "url": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor",
+        "one_line": "NVIDIA released Alpamayo 2 Edge, a 2B-class reasoning vision-language-action model that plans driving trajectories and explains them on DRIVE AGX Thor, at 160 t",
+        "url": "https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost",
+        "one_line": "Hermes Agent, OpenClaw, Gemini Spark, OpenAI dots, Meta Muse and Perplexity Personal Computer ranked on memory, security defaults and real cost. The post Best P",
+        "url": "https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries",
+        "one_line": "Google launched Gemini API Tool Retrieval in preview. Agents keep a large tool library on standby and load each parameter schema only when needed, inside one In",
+        "url": "https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "Show HN: I built a game where you are an LLM's subagent",
+        "one_line": "282 points, 67 comments on Hacker News",
+        "url": "https://github.com/gulivan/worker755",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Agent swarm trying to solve P vs. NP",
+        "one_line": "127 points, 107 comments on Hacker News",
+        "url": "https://pequalnp.com/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "AI is becoming a disaster for the climate",
+        "one_line": "109 points, 47 comments on Hacker News",
+        "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "AI Supply Chain Security: What Canary Tokens Found",
+        "one_line": "103 points, 22 comments on Hacker News",
+        "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+        "one_line": "92 points, 78 comments on Hacker News",
+        "url": "https://arxiv.org/abs/2606.14068",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Harvard CS 2881R AI Safety",
+        "one_line": "52 points, 7 comments on Hacker News",
+        "url": "https://boazbk.github.io/mltheoryseminar/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+        "one_line": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game u",
+        "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+        "source": "The Verge AI",
+        "importance": 2
+      },
+      {
+        "title": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
+        "one_line": "A new real-world test puts AI coding agents in a simulated developer job with colleagues, project boards, and incomplete handoffs, where they have to keep devel",
+        "url": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/",
+        "source": "The Decoder",
+        "importance": 2
+      },
+      {
+        "title": "AI is getting better faster than experts can reliably test whether new systems are safe, METR warns",
+        "one_line": "METR reports that leading AI models like Opus 5.5 and GPT-6 Astra are improving rapidly at research tasks but getting harder to measure. Current data can't rule",
+        "url": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/",
+        "source": "The Decoder",
+        "importance": 2
+      },
+      {
+        "title": "Security researchers show how cheap AI inference providers steal keys and snoop on users",
+        "one_line": "Security researchers at Dragos used two million fake AI requests to uncover serious vulnerabilities in the AI supply chain, finding at least three compromised p",
+        "url": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/",
+        "source": "The Decoder",
+        "importance": 2
+      },
+      {
+        "title": "Select Styling Specimens",
+        "one_line": "Tool: Select Styling Specimens I got frustrated at how HTML <select> boxes default to looking different in different browsers, and are (I think) quite ugly in C",
+        "url": "https://simonwillison.net/2026/Nov/22/select-styling/",
+        "source": "Simon Willison",
+        "importance": 1
+      },
+      {
+        "title": "Why data centers are at the center of the Big Tech backlash",
+        "one_line": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+        "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+        "source": "TechCrunch AI",
+        "importance": 1
+      },
+      {
+        "title": "We haven’t seen the last of the major tech outages",
+        "one_line": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking out",
+        "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+        "source": "The Verge AI",
+        "importance": 1
+      },
+      {
+        "title": "The vibe-coding revolution is coming to all the gadgets",
+        "one_line": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce",
+        "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+        "source": "The Verge AI",
+        "importance": 1
+      },
+      {
+        "title": "Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct",
+        "one_line": "The Lean and Mathlib community has officially confirmed Levent Alpöge's proof of the Riemann hypothesis as correct. Dozens of independent verifiers checked the ",
+        "url": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/",
+        "source": "The Decoder",
+        "importance": 1
+      }
+    ],
+    "Benchmarks & leaderboards": [],
+    "Research worth explaining": [
+      {
+        "title": "Trending on Hugging Face: SulphurAI/Sulphur-3",
+        "one_line": "799 likes, pipeline: n/a",
+        "url": "https://huggingface.co/SulphurAI/Sulphur-3",
+        "source": "Hugging Face trending",
+        "importance": 2
+      }
+    ],
+    "Business & industry": [
+      {
+        "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+        "one_line": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+        "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      }
+    ]
+  }
+}
