@@ -1,0 +1,345 @@
+{
+  "summary": "54 new items collected. Ranked by keywords because Gemini was not available.",
+  "two_reel_day": false,
+  "two_reel_reason": "",
+  "picks": [
+    {
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals."
+      ],
+      "sources": [
+        "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+      ],
+      "verify": []
+    },
+    {
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches."
+      ],
+      "sources": [
+        "https://openai.com/index/introducing-shirudo"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "Anthropic's Claude Ship bundles Code Review, PR Steward and Claude Approvals to review, fix and approve GitHub pull requests. Code Review is GA; the other 2 agents are in public beta for Team and Ente"
+      ],
+      "sources": [
+        "https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/"
+      ],
+      "verify": []
+    }
+  ],
+  "sections": {
+    "Model launches & updates": [],
+    "Apps & tools": [
+      {
+        "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+        "one_line": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+        "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+        "source": "TechCrunch AI",
+        "importance": 5
+      },
+      {
+        "title": "OpenAI and Cisco introduce Shirudo",
+        "one_line": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+        "url": "https://openai.com/index/introducing-shirudo",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes",
+        "one_line": "Anthropic's Claude Ship bundles Code Review, PR Steward and Claude Approvals to review, fix and approve GitHub pull requests. Code Review is GA; the other 2 age",
+        "url": "https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/",
+        "source": "MarkTechPost",
+        "importance": 5
+      },
+      {
+        "title": "Introducing the Amazon Bedrock Trusted Access API with Anthropic’s Enterprise Frontier Safeguards and Enterprise Data Controls",
+        "one_line": "Amazon Bedrock now offers a trusted access program API: one place to discover, request, and enroll in model provider programs. The first two offerings, in publi",
+        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/",
+        "source": "AWS Machine Learning",
+        "importance": 5
+      },
+      {
+        "title": "Claude Ship",
+        "one_line": "46 points, 13 comments on Hacker News",
+        "url": "https://claude.com/resources/articles/introducing-claude-ship",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Claude AI can review pull requests and ship fixes on its own now",
+        "one_line": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now ",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+        "one_line": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+        "source": "The Verge AI",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI updates ChatGPT to handle complex everyday questions, web searches, and images more reliably",
+        "one_line": "OpenAI is making GPT-6.2 Sol the new default model in ChatGPT's chat tab, rolling it out worldwide. In internal tests, image understanding jumped from 47.4 to 7",
+        "url": "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic's appetite for compute is pushing xAI toward a rent-over-build strategy",
+        "one_line": "Since May, SpaceXSI has been renting compute to competitors like Anthropic and Google while scaling back its own AI projects. Anthropic pays about $3.1 billion ",
+        "url": "https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI warns that upcoming AI systems could outpace safety checks and urges rivals to agree on shared limits",
+        "one_line": "OpenAI chief scientist Jakub Pachocki has released internal perplexity scores for the entire GPT series for the first time, up to an unreleased model beyond the",
+        "url": "https://the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Z.ai follows OpenAI into loop transformer territory with its new 750B flagship model",
+        "one_line": "Z.ai is moving its flagship GLM-5.4 model to a loop architecture in which 28 layers run twice, which the company says lets the 750-billion-parameter model match",
+        "url": "https://the-decoder.com/z-ai-follows-openai-into-loop-transformer-territory-with-its-new-750b-flagship-model/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "GPT-6.2 Astra solved a math theorem no other AI could crack, then invented its own proof strategy",
+        "one_line": "OpenAI's GPT-6.2 Astra independently produced a machine-verifiable Lean proof of Smoktunowicz's gap theorem, the first of its kind according to Vals AI. The mod",
+        "url": "https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Ladybird's first alpha release",
+        "one_line": "Ladybird is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, la",
+        "url": "https://simonwillison.net/2026/Nov/23/ladybird/",
+        "source": "Simon Willison",
+        "importance": 3
+      },
+      {
+        "title": "Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice",
+        "one_line": "Z.ai released GLM-5.4, its first Loop Transformer flagship. The 750B-scale model runs 28 GLM-5 layers twice for deeper reasoning, with API access and open weigh",
+        "url": "https://www.marktechpost.com/2026/11/23/zai-glm-5-4-loop-transformer/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "Architect Labs Unveils Frostbite, an Interaction Net CPU Designed by AI",
+        "one_line": "Architect Labs introduced Frostbite, an AI-designed CPU that runs interaction nets in hardware. Agents took it from theory to 7 nm GDS, and pre-silicon tests sh",
+        "url": "https://www.marktechpost.com/2026/11/23/architect-labs-frostbite-ai-designed-cpu-interaction-nets/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "Connected intelligence for in-house legal",
+        "one_line": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business co",
+        "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+        "source": "OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "Richpanel helps companies automate 50% of support in 30 days",
+        "one_line": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+        "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+        "source": "OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "A more tailored Google Search that’s uniquely yours",
+        "one_line": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
+        "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+        "source": "Google AI",
+        "importance": 3
+      },
+      {
+        "title": "Did the user ask for this? Securing AI agents against intent hijacking with Semantic governance policies",
+        "one_line": "Semantic governance policies protect AI agents from indirect prompt injection and intent hijacking by validating every proposed tool call against user intent an",
+        "url": "https://developers.googleblog.com/did-the-user-ask-for-this-securing-ai-agents-against-intent-hijacking-with-semantic-governance-policies/",
+        "source": "Google Developers",
+        "importance": 2
+      },
+      {
+        "title": "datasette-agent 0.7a1",
+        "one_line": "Release: datasette-agent 0.7a1 I small improvement to Datasette Agent : chat sessions can open an iframe side panel, and that panel can then navigate to differe",
+        "url": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+        "source": "Simon Willison",
+        "importance": 2
+      },
+      {
+        "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+        "one_line": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped tra",
+        "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
+        "source": "Simon Willison",
+        "importance": 2
+      },
+      {
+        "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+        "one_line": "1099 points, 359 comments on Hacker News",
+        "url": "https://z.ai/blog/glm-5.4",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Amodei reportedly suggested games could pacify masses after AI took their jobs (2015)",
+        "one_line": "74 points, 82 comments on Hacker News",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "GLM 5.4",
+        "one_line": "58 points, 11 comments on Hacker News",
+        "url": "https://twitter.com/Zai_org/status/2124719658074825004",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+        "one_line": "52 points, 4 comments on Hacker News",
+        "url": "https://arxiv.org/abs/2602.20031",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "How should an LLM see a computer?",
+        "one_line": "50 points, 23 comments on Hacker News",
+        "url": "https://www.greptile.com/blog/trex-computer-use",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+        "one_line": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosys",
+        "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+        "one_line": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+        "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "AI data centers throw another wrench into chaotic UN climate talks",
+        "one_line": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all ",
+        "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+        "source": "The Verge AI",
+        "importance": 2
+      },
+      {
+        "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
+        "one_line": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a conne",
+        "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+        "source": "The Verge AI",
+        "importance": 2
+      },
+      {
+        "title": "Chinese military fears AI could let the US find and destroy its nuclear missiles",
+        "one_line": "Chinese military researchers fear that AI advances could give the US an edge in the nuclear balance of power. The article Chinese military fears AI could let th",
+        "url": "https://the-decoder.com/chinese-military-fears-ai-could-let-the-us-find-and-destroy-its-nuclear-missiles/",
+        "source": "The Decoder",
+        "importance": 2
+      },
+      {
+        "title": "Meta's Alexandr Wang warns the AI industry isn't ready for what's coming after Riemann breakthrough",
+        "one_line": "Meta's Chief AI Officer Alexandr Wang sees the recent AI-assisted proof sketch of the Riemann Hypothesis as a clear sign that superintelligence is right around ",
+        "url": "https://the-decoder.com/metas-alexandr-wang-warns-the-ai-industry-isnt-ready-for-whats-coming-after-riemann-breakthrough/",
+        "source": "The Decoder",
+        "importance": 2
+      },
+      {
+        "title": "datasette-charts 0.2a0",
+        "one_line": "Release: datasette-charts 0.2a0 I introduced this new charting plugin for Datasette yesterday . Today it's gained integration with Datasette Agent , so now you ",
+        "url": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+        "source": "Simon Willison",
+        "importance": 1
+      },
+      {
+        "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+        "one_line": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+        "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+        "source": "TechCrunch AI",
+        "importance": 1
+      },
+      {
+        "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+        "one_line": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license fr",
+        "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+        "source": "TechCrunch AI",
+        "importance": 1
+      },
+      {
+        "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+        "one_line": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+        "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+        "source": "TechCrunch AI",
+        "importance": 1
+      }
+    ],
+    "Benchmarks & leaderboards": [],
+    "Research worth explaining": [
+      {
+        "title": "Trending on Hugging Face: inclusionAI/Ling-3.2-air",
+        "one_line": "127 likes, pipeline: n/a",
+        "url": "https://huggingface.co/inclusionAI/Ling-3.2-air",
+        "source": "Hugging Face trending",
+        "importance": 2
+      },
+      {
+        "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+        "one_line": "",
+        "url": "https://huggingface.co/blog/allenai/robotrack",
+        "source": "Hugging Face blog",
+        "importance": 1
+      }
+    ],
+    "Business & industry": [
+      {
+        "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+        "one_line": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+        "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+        "one_line": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F",
+        "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      }
+    ]
+  }
+}
