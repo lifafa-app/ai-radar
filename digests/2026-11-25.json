@@ -1,0 +1,345 @@
+{
+  "summary": "53 new items collected. Ranked by keywords because Gemini was not available.",
+  "two_reel_day": false,
+  "two_reel_reason": "",
+  "picks": [
+    {
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets."
+      ],
+      "sources": [
+        "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning."
+      ],
+      "sources": [
+        "https://openai.com/business/customer-stories/clay-plugins-openai"
+      ],
+      "verify": []
+    },
+    {
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news."
+      ],
+      "sources": [
+        "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/"
+      ],
+      "verify": []
+    }
+  ],
+  "sections": {
+    "Model launches & updates": [],
+    "Apps & tools": [
+      {
+        "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+        "one_line": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+        "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "Clay helps sales teams win with Codex and ChatGPT",
+        "one_line": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+        "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+        "source": "OpenAI",
+        "importance": 5
+      },
+      {
+        "title": "How Gemini is changing the game for Golden State's organization and fans.",
+        "one_line": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+        "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+        "source": "Google AI",
+        "importance": 5
+      },
+      {
+        "title": "Product · Nov 2, 2026 Giving every team a data scientist with Grok Bot",
+        "one_line": "",
+        "url": "https://x.ai/news/data-bot",
+        "source": "xAI",
+        "importance": 5
+      },
+      {
+        "title": "OpenAI and Cisco Releases Shirudo: An Open-Source Linux Runtime Allowing Agents to Defend Systems Without Downtime",
+        "one_line": "OpenAI and Cisco released Shirudo, a pre-release, BSD-licensed eBPF runtime for Linux. AI agents write signed \"shields\" that block exploit paths on running syst",
+        "url": "https://www.marktechpost.com/2026/11/24/openai-cisco-shirudo-ebpf-linux-runtime/",
+        "source": "MarkTechPost",
+        "importance": 5
+      },
+      {
+        "title": "GPT 6.2 Astra Solves a Historical Mystery",
+        "one_line": "GPT 6.2 Astra Solves a Historical Mystery Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries",
+        "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+        "source": "Simon Willison",
+        "importance": 4
+      },
+      {
+        "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+        "one_line": "237 points, 177 comments on Hacker News",
+        "url": "https://news.ycombinator.com/item?id=50630809",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
+        "one_line": "206 points, 109 comments on Hacker News",
+        "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI reveals they solved VP ≠ VNP before Anthropic",
+        "one_line": "86 points, 91 comments on Hacker News",
+        "url": "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic turns Claude Artifacts into standalone desktop apps for macOS and Windows",
+        "one_line": "Anthropic now lets you install Claude Artifacts as desktop apps on Mac and Windows, and a free account is enough. You build one in chat without writing code, an",
+        "url": "https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI o1 co-creator Noam Brown urges promising students to drop out as AI enters a \"very steep rate of progress\"",
+        "one_line": "OpenAI researcher Noam Brown is urging promising students to drop out, saying it's \"not a great time to sit on the sidelines.\" The o1 co-creator says AI is stil",
+        "url": "https://the-decoder.com/openai-o1-co-creator-noam-brown-urges-promising-students-to-drop-out-as-ai-enters-a-very-steep-rate-of-progress/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic researcher stands by his AI-assisted Riemann proof but owns up to \"stupid things\" in the rollout",
+        "one_line": "Anthropic researcher Levent Alpöge is walking back parts of his announcement of an AI-assisted proof of the generalized Riemann hypothesis. The claim that it ra",
+        "url": "https://the-decoder.com/anthropic-researcher-stands-by-his-ai-assisted-riemann-proof-but-owns-up-to-stupid-things-in-the-rollout/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Dozens of insiders say OpenAI and Anthropic's unreleased models have outgrown their safety measures",
+        "one_line": "According to an Axios report, many employees at OpenAI and Anthropic believe the companies' own unreleased frontier models can no longer be safely controlled. B",
+        "url": "https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic's Claude Ship lets AI agents review, fix, and approve pull requests on their own",
+        "one_line": "Anthropic has introduced Claude Ship, a new tool currently in beta that automatically reviews, corrects, and approves suggestions for code changes in accordance",
+        "url": "https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "How iFood scales coding agents across 15,000 repositories",
+        "one_line": "",
+        "url": "https://openai.com/business/customer-stories/ifood",
+        "source": "OpenAI",
+        "importance": 4
+      },
+      {
+        "title": "We’re launching Humanity’s First Exam and a Kaggle hackathon to test LLM reliability.",
+        "one_line": "Google launches Humanity’s First Exam to test LLM reliability across 544 prompts.",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam/",
+        "source": "Google DeepMind",
+        "importance": 4
+      },
+      {
+        "title": "Searching for distant planets with Astra",
+        "one_line": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+        "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+        "source": "OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "How Intentful uses dots to make more time for growth",
+        "one_line": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+        "url": "https://openai.com/business/customer-stories/intentful-dots",
+        "source": "OpenAI",
+        "importance": 3
+      },
+      {
+        "title": "Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents",
+        "one_line": "Two years after launch, Anthropic reports more than 700 million monthly downloads for its MCP interface standard. New features such as background tasks, follow-",
+        "url": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/",
+        "source": "The Decoder",
+        "importance": 3
+      },
+      {
+        "title": "From Files to Cited Answers in One API Call: Managed Ingestion and SearchDocuments in Agent Retrieval",
+        "one_line": "Agent Retrieval in Vertex AI introduces managed ingestion and SearchDocuments to replace custom chunking and embedding pipelines. Developers can now import docu",
+        "url": "https://developers.googleblog.com/from-files-to-cited-answers-in-one-api-call-managed-ingestion-and-searchdocuments-in-agent-retrieval/",
+        "source": "Google Developers",
+        "importance": 2
+      },
+      {
+        "title": "Three LLM inflection points in twelve months",
+        "one_line": "I gave a keynote at the AI Engineer Code Summit a couple of weeks ago, constructed around the idea that there have been three significant inflection points in t",
+        "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+        "source": "Simon Willison",
+        "importance": 2
+      },
+      {
+        "title": "LLM agents work for their parent companies, not for you",
+        "one_line": "951 points, 393 comments on Hacker News",
+        "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Tidal bans AI-generated music",
+        "one_line": "320 points, 308 comments on Hacker News",
+        "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+        "one_line": "85 points, 33 comments on Hacker News",
+        "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
+        "one_line": "79 points, 40 comments on Hacker News",
+        "url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Working with AI",
+        "one_line": "65 points, 66 comments on Hacker News",
+        "url": "https://www.anthropic.com/research/working-with-ai",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Even the best AI agents struggle with everyday life",
+        "one_line": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safel",
+        "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+        "one_line": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+        "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+        "one_line": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+        "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+        "one_line": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+        "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+        "one_line": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+        "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+        "one_line": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+        "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+        "one_line": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
+        "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      },
+      {
+        "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+        "one_line": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood seque",
+        "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+        "source": "The Verge AI",
+        "importance": 2
+      }
+    ],
+    "Benchmarks & leaderboards": [],
+    "Research worth explaining": [
+      {
+        "title": "Trending on Hugging Face: llamaindex/OCRia-nano-1",
+        "one_line": "170 likes, pipeline: image-to-text",
+        "url": "https://huggingface.co/llamaindex/OCRia-nano-1",
+        "source": "Hugging Face trending",
+        "importance": 2
+      },
+      {
+        "title": "Trending on Hugging Face: prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+        "one_line": "140 likes, pipeline: text-generation",
+        "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+        "source": "Hugging Face trending",
+        "importance": 2
+      }
+    ],
+    "Business & industry": [
+      {
+        "title": "Anthropic breaks below $83 IPO price",
+        "one_line": "371 points, 726 comments on Hacker News",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic is below its IPO price",
+        "one_line": "128 points, 3 comments on Hacker News",
+        "url": "https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+        "one_line": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+        "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+        "source": "TechCrunch AI",
+        "importance": 4
+      },
+      {
+        "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+        "one_line": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+        "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+        "source": "TechCrunch AI",
+        "importance": 2
+      }
+    ]
+  }
+}
