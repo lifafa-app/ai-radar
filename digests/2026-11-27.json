@@ -1,0 +1,293 @@
+{
+  "summary": "33 new items collected. Ranked by keywords because Gemini was not available.",
+  "two_reel_day": false,
+  "two_reel_reason": "",
+  "picks": [
+    {
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [],
+      "sources": [
+        "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench"
+      ],
+      "verify": []
+    },
+    {
+      "title": "AMD-specific fork of llama.cpp",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "310 points, 75 comments on Hacker News"
+      ],
+      "sources": [
+        "https://devnull.land/amd-specific-llama-cpp"
+      ],
+      "verify": []
+    },
+    {
+      "title": "OpenAI may be in cost control mode",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "307 points, 314 comments on Hacker News"
+      ],
+      "sources": [
+        "https://micjm.com/blog/openai-is-in-cost-control-mode/"
+      ],
+      "verify": []
+    }
+  ],
+  "sections": {
+    "Model launches & updates": [],
+    "Apps & tools": [
+      {
+        "title": "AMD-specific fork of llama.cpp",
+        "one_line": "310 points, 75 comments on Hacker News",
+        "url": "https://devnull.land/amd-specific-llama-cpp",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI may be in cost control mode",
+        "one_line": "307 points, 314 comments on Hacker News",
+        "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "One guy is doing a hunger strike outside Anthropic, currently in his 3rd day",
+        "one_line": "57 points, 47 comments on Hacker News",
+        "url": "https://twitter.com/ElliotC1/status/2125689373337489419",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Claude tries to sabotage research work at every stage",
+        "one_line": "53 points, 15 comments on Hacker News",
+        "url": "https://twitter.com/skirano/status/2125371115979641188",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it",
+        "one_line": "Complexity theorist and former OpenAI researcher Scott Aaronson argues that AI's recent math breakthroughs matter far beyond academia. The possible consequences",
+        "url": "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "GPT-6.2 Astra users now hit limits 40% faster after OpenAI patched a pricing error",
+        "one_line": "OpenAI says a billing bug gave GPT-6.2 users incorrect discounts. After the fix, Astra and Sol users hit their limits 40 and 25 percent faster than last week. A",
+        "url": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead",
+        "one_line": "Chinese AI companies Z.AI and Moonshot AI have to delay their next flagship models and are looking for new sources of training data. The article After OpenAI an",
+        "url": "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano",
+        "one_line": "Sakana AI released Sakana Namazu Small, a 30B-A3B reasoning model built on NVIDIA Nemotron 3 Nano. It averages 60.1 across 25 benchmarks, ahead of the 120B Nemo",
+        "url": "https://www.marktechpost.com/2026/11/26/sakana-ai-namazu-small-30b-nemotron-3-nano/",
+        "source": "MarkTechPost",
+        "importance": 3
+      },
+      {
+        "title": "Claude-Mem Cloud Sync",
+        "one_line": "Switch devices. Keep your AI agents' memory. Discussion | Link",
+        "url": "https://www.producthunt.com/products/claude-mem",
+        "source": "Product Hunt",
+        "importance": 3
+      },
+      {
+        "title": "The New York Times warns photographers not to update Photoshop over AI features",
+        "one_line": "My comment on The New York Times warns photographers not to update Photoshop over AI features — Hacker News. I had a NYT photographer take my picture at my home",
+        "url": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
+        "source": "Simon Willison",
+        "importance": 2
+      },
+      {
+        "title": "AI made self-hosting fun again",
+        "one_line": "440 points, 237 comments on Hacker News",
+        "url": "https://janlukas.blog/posts/ai-self-hosting",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Tracking Diseases Cured by AI",
+        "one_line": "306 points, 184 comments on Hacker News",
+        "url": "https://diseasescuredbyai.com/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+        "one_line": "287 points, 239 comments on Hacker News",
+        "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Notion's official MCP inject hidden upsell instructions into agent context",
+        "one_line": "51 points, 22 comments on Hacker News",
+        "url": "https://www.reddit.com/r/ClaudeCode/comments/1y4qm5o/heads_up_if_you_wire_notions_official_mcp_into/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+        "one_line": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a d",
+        "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+        "source": "The Verge AI",
+        "importance": 2
+      },
+      {
+        "title": "FCC clears SpaceX to deploy up to 1 million Starmind satellites for orbital AI data centers by 2040",
+        "one_line": "The FCC has authorized SpaceX to deploy up to 1 million Starmind satellites to process AI data as orbital data centers. SpaceX is targeting its first launches i",
+        "url": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/",
+        "source": "The Decoder",
+        "importance": 2
+      },
+      {
+        "title": "Microsoft details how state-backed hackers use the ARTEX AI framework to automate cyberattacks",
+        "one_line": "Microsoft has published the technical architecture of ARTEX, an AI framework in wide use since July 2026 that runs cyberattacks with specialized agents and almo",
+        "url": "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks/",
+        "source": "The Decoder",
+        "importance": 2
+      },
+      {
+        "title": "Tencent Open-Sources DFly2: Speculative Decoding That Reuses the Target’s Sparse KV Cache",
+        "one_line": "Tencent open-sourced DFly2, a speculative decoding drafter for sparse-attention LLMs. Each draft layer reuses the target's KV cache and top-k indexer picks, add",
+        "url": "https://www.marktechpost.com/2026/11/26/tencent-dfly2-speculative-decoding-sparse-models/",
+        "source": "MarkTechPost",
+        "importance": 2
+      },
+      {
+        "title": "Quoting Jack Despain Zhou",
+        "one_line": "Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a conference presentati",
+        "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+        "source": "Simon Willison",
+        "importance": 1
+      },
+      {
+        "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
+        "one_line": "sqlite3_rsync: Database Remote-Copy Tool For SQLite This additional SQLite tool has been around for a while now - it was added as \"experimental\" in SQLite 3.47.",
+        "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
+        "source": "Simon Willison",
+        "importance": 1
+      },
+      {
+        "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+        "one_line": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips o",
+        "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+        "source": "TechCrunch AI",
+        "importance": 1
+      },
+      {
+        "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+        "one_line": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+        "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+        "source": "TechCrunch AI",
+        "importance": 1
+      },
+      {
+        "title": "Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia after tighter US export controls",
+        "one_line": "Nvidia has told partners such as Dell and Supermicro to stop shipping servers to Malaysia, Singapore, Thailand, and Indonesia. Following new US export controls ",
+        "url": "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/",
+        "source": "The Decoder",
+        "importance": 1
+      },
+      {
+        "title": "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in",
+        "one_line": "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in The post nexos.ai AI Adoption Platform puts 200",
+        "url": "https://www.marktechpost.com/2026/11/26/nexos-ai-ai-gateway-200-models-governance/",
+        "source": "MarkTechPost",
+        "importance": 1
+      },
+      {
+        "title": "Superframes",
+        "one_line": "Brief an AI Director to edit the whole video Discussion | Link",
+        "url": "https://www.producthunt.com/products/superframes-ai-video-editor",
+        "source": "Product Hunt",
+        "importance": 1
+      },
+      {
+        "title": "Pax by Pydantic",
+        "one_line": "A coding agent where even coding is a plugin Discussion | Link",
+        "url": "https://www.producthunt.com/products/pydantic",
+        "source": "Product Hunt",
+        "importance": 1
+      },
+      {
+        "title": "AgentDE",
+        "one_line": "Put all your coding agents in one native Mac window Discussion | Link",
+        "url": "https://www.producthunt.com/products/agentde",
+        "source": "Product Hunt",
+        "importance": 1
+      }
+    ],
+    "Benchmarks & leaderboards": [],
+    "Research worth explaining": [
+      {
+        "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+        "one_line": "",
+        "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+        "source": "Hugging Face blog",
+        "importance": 5
+      },
+      {
+        "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+        "one_line": "",
+        "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+        "source": "Hugging Face blog",
+        "importance": 2
+      },
+      {
+        "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+        "one_line": "",
+        "url": "https://huggingface.co/blog/training-swarms",
+        "source": "Hugging Face blog",
+        "importance": 2
+      },
+      {
+        "title": "Trending on Hugging Face: strata-engine/Inkling-2-Mini-Strata",
+        "one_line": "239 likes, pipeline: image-text-to-text",
+        "url": "https://huggingface.co/strata-engine/Inkling-2-Mini-Strata",
+        "source": "Hugging Face trending",
+        "importance": 2
+      },
+      {
+        "title": "Trending on Hugging Face: nari-labs/Qwen3.8-27B-NariQ-GGUF",
+        "one_line": "214 likes, pipeline: image-text-to-text",
+        "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+        "source": "Hugging Face trending",
+        "importance": 2
+      },
+      {
+        "title": "Trending on Hugging Face: orcarouter/Inkling-2-Mini-abliterated-GGUF",
+        "one_line": "299 likes, pipeline: text-generation",
+        "url": "https://huggingface.co/orcarouter/Inkling-2-Mini-abliterated-GGUF",
+        "source": "Hugging Face trending",
+        "importance": 2
+      }
+    ],
+    "Business & industry": []
+  }
+}
