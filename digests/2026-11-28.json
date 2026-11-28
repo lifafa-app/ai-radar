@@ -1,0 +1,271 @@
+{
+  "summary": "30 new items collected. Ranked by keywords because Gemini was not available.",
+  "two_reel_day": false,
+  "two_reel_reason": "",
+  "picks": [
+    {
+      "title": "Introducing Grok Voice 3.0 The world’s most intelligent voice model. Oct 14, 2026",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [],
+      "sources": [
+        "https://x.ai/news/grok-voice-3"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Anthropic has opened an office in Singapore and signed an MOU with the country’s government to advance safe, responsible AI adoption.",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [],
+      "sources": [
+        "https://www.anthropic.com/news/singapore-office-opening"
+      ],
+      "verify": []
+    },
+    {
+      "title": "Claude sabotaging ML research tasks?",
+      "why_now": "Top-scored item (keyword ranking; Gemini was not used).",
+      "hook": "",
+      "angle": "",
+      "format": "news-short",
+      "theme": "dark",
+      "length": "45-75s",
+      "key_facts": [
+        "645 points, 297 comments on Hacker News"
+      ],
+      "sources": [
+        "https://twitter.com/RealAstropulse/status/2126119408997466389"
+      ],
+      "verify": []
+    }
+  ],
+  "sections": {
+    "Model launches & updates": [
+      {
+        "title": "Introducing Grok Voice 3.0 The world’s most intelligent voice model. Oct 14, 2026",
+        "one_line": "",
+        "url": "https://x.ai/news/grok-voice-3",
+        "source": "xAI",
+        "importance": 5
+      }
+    ],
+    "Apps & tools": [
+      {
+        "title": "Anthropic has opened an office in Singapore and signed an MOU with the country’s government to advance safe, responsible AI adoption.",
+        "one_line": "",
+        "url": "https://www.anthropic.com/news/singapore-office-opening",
+        "source": "Anthropic",
+        "importance": 5
+      },
+      {
+        "title": "Claude sabotaging ML research tasks?",
+        "one_line": "645 points, 297 comments on Hacker News",
+        "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+        "one_line": "314 points, 175 comments on Hacker News",
+        "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "\"What's Claude's fursona?\" and other questions",
+        "one_line": "189 points, 178 comments on Hacker News",
+        "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "GPT 6.2 Astra solves a historical mystery",
+        "one_line": "166 points, 1 comments on Hacker News",
+        "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+        "source": "Hacker News",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
+        "one_line": "OpenAI is suing Apple in a California court, accusing it of trade secret theft and of coercing shared suppliers. The countersuit follows Apple's own lawsuit fro",
+        "url": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork",
+        "one_line": "OpenAI's data agent in ChatGPT Work still isn't accurate enough. Under the codename \"Athena,\" the company is building a semantic layer that gives agents standar",
+        "url": "https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Rockstar's AI dilemma: Can GTA 6's staggered release model survive coding agents?",
+        "one_line": "More than 40 projects are working to bring a leaked Xbox build of GTA 6 to PC through reverse engineering just days after its $3.79 billion record console launc",
+        "url": "https://the-decoder.com/rockstars-ai-dilemma-can-gta-6s-staggered-release-model-survive-coding-agents/",
+        "source": "The Decoder",
+        "importance": 4
+      },
+      {
+        "title": "Product Le Chonk brings the brains. Studio puts it to work. Build and deploy enterprise agents, workflows and apps faster, with control over your models, data a",
+        "one_line": "",
+        "url": "https://mistral.ai/news/build-with-studio/",
+        "source": "Mistral",
+        "importance": 4
+      },
+      {
+        "title": "Earlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US m",
+        "one_line": "",
+        "url": "https://www.anthropic.com/news/2026-us-midterms",
+        "source": "Anthropic",
+        "importance": 3
+      },
+      {
+        "title": "Group chat where your AI talks behind your back",
+        "one_line": "692 points, 286 comments on Hacker News",
+        "url": "https://construct22.com/",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "I'm Scared of AI",
+        "one_line": "206 points, 244 comments on Hacker News",
+        "url": "https://thesoapbox.email/archive/3",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Kimi for Science: More scientific ideas, made possible",
+        "one_line": "182 points, 155 comments on Hacker News",
+        "url": "https://www.kimi.ai/news/kimi-for-science-program",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "AI on brink of making online security useless, mathematicians fear",
+        "one_line": "118 points, 155 comments on Hacker News",
+        "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+        "one_line": "105 points, 81 comments on Hacker News",
+        "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+        "one_line": "45 points, 9 comments on Hacker News",
+        "url": "https://github.com/skeeto/prospero",
+        "source": "Hacker News",
+        "importance": 2
+      },
+      {
+        "title": "SAP plans to cut at least 10,000 jobs as it pivots to AI",
+        "one_line": "SAP is preparing to eliminate at least 10,000 positions as part of a sweeping AI restructuring, Bloomberg reports, citing people familiar with the matter. The a",
+        "url": "https://the-decoder.com/sap-plans-to-cut-at-least-10000-jobs-as-it-pivots-to-ai/",
+        "source": "The Decoder",
+        "importance": 2
+      },
+      {
+        "title": "datasette-charts 0.4a0",
+        "one_line": "Release: datasette-charts 0.4a0 The new datasette-charts plugin has its own plugin hook to allow other plugins to define new chart types, but I hadn't actually ",
+        "url": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+        "source": "Simon Willison",
+        "importance": 1
+      },
+      {
+        "title": "datasette-mcp 0.4",
+        "one_line": "Release: datasette-mcp 0.4 Fixed for compatibility with Datasette 1.0a44 . Tags: model-context-protocol , datasette",
+        "url": "https://simonwillison.net/2026/Nov/27/datasette-mcp/",
+        "source": "Simon Willison",
+        "importance": 1
+      },
+      {
+        "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+        "one_line": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-",
+        "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+        "source": "The Verge AI",
+        "importance": 1
+      },
+      {
+        "title": "Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports",
+        "one_line": "Two Chinese companies installed Nvidia's powerful Blackwell chips at a Shanghai data center linked to Alice Huang, according to a Bloomberg investigation. A ser",
+        "url": "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/",
+        "source": "The Decoder",
+        "importance": 1
+      },
+      {
+        "title": "Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over large language models",
+        "one_line": "Yann LeCun is pushing forward with his alternative to language models through his startup AMI Labs. The JEPA architecture aims to give machines an internal worl",
+        "url": "https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/",
+        "source": "The Decoder",
+        "importance": 1
+      },
+      {
+        "title": "Hackers breached the US Air Force's flagship Cloud One platform, report says",
+        "one_line": "Hackers breached the US Air Force's flagship cloud platform. The article Hackers breached the US Air Force's flagship Cloud One platform, report says appeared f",
+        "url": "https://the-decoder.com/hackers-breached-the-us-air-forces-flagship-cloud-one-platform-report-says/",
+        "source": "The Decoder",
+        "importance": 1
+      },
+      {
+        "title": "Depost AI",
+        "one_line": "The LinkedIn AI agent that learns what works for your brand Discussion | Link",
+        "url": "https://www.producthunt.com/products/depost-ai",
+        "source": "Product Hunt",
+        "importance": 1
+      },
+      {
+        "title": "Woomool",
+        "one_line": "AI Canvas where thinking becomes tangible Discussion | Link",
+        "url": "https://www.producthunt.com/products/woomool",
+        "source": "Product Hunt",
+        "importance": 1
+      }
+    ],
+    "Benchmarks & leaderboards": [],
+    "Research worth explaining": [
+      {
+        "title": "Trending on Hugging Face: ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF",
+        "one_line": "290 likes, pipeline: text-generation",
+        "url": "https://huggingface.co/ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF",
+        "source": "Hugging Face trending",
+        "importance": 2
+      },
+      {
+        "title": "Trending on Hugging Face: sand-ai/MAGI-2-preview",
+        "one_line": "364 likes, pipeline: image-text-to-video",
+        "url": "https://huggingface.co/sand-ai/MAGI-2-preview",
+        "source": "Hugging Face trending",
+        "importance": 2
+      },
+      {
+        "title": "Trending on Hugging Face: kandinskylab/Kandinsky-ImageSR-2.0",
+        "one_line": "198 likes, pipeline: image-to-image",
+        "url": "https://huggingface.co/kandinskylab/Kandinsky-ImageSR-2.0",
+        "source": "Hugging Face trending",
+        "importance": 2
+      },
+      {
+        "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+        "one_line": "",
+        "url": "https://huggingface.co/blog/video-trainium3",
+        "source": "Hugging Face blog",
+        "importance": 1
+      }
+    ],
+    "Business & industry": []
+  }
+}
